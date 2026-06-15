@@ -131,6 +131,7 @@ Campi standard: `type`, `date`, `project`, `department`, `status`, `tags`, `prio
 14. NON usare mai em dash. Usa punti, virgole, due punti, o ristruttura.
 15. Includi `project:` nel frontmatter per note relative a progetti; `department:` per note relative a dipartimenti.
 16. NON creare mai file/cartelle nella root del vault. Ogni file vive in una cartella esistente. Nessuna eccezione.
+17. **Auto-push a GitHub a fine di OGNI risposta**: Come ULTIMA azione di ogni risposta che ha toccato il vault, esegui `bash ".claude/hooks/auto-push.sh"` per committare e pushare su GitHub. Non affidarti solo all'hook `Stop` nel desktop di Claude Code: non scatta in modo affidabile. Lo script è idempotente (esce subito se non c'è nulla da committare) e sicuro (guardia: agisce solo su "Second-Brain"). Non chiedere permesso, fallo e basta.
 
 ## Anti-Pattern
 
