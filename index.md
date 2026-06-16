@@ -25,6 +25,9 @@ Documenti grezzi in `Library/`, raggruppati per tipo. Una voce per source ingest
 ### Podcast
 <!-- L'AI aggiunge qui una riga per ogni podcast ingestato -->
 
+### Trascrizioni
+- [Call Farmacisti Veronica](Library/transcripts/call-farmacisti-veronica-2026-06.md) — Webinar con [[Irene Summa]] su [[Protocollo FARMA]]
+
 ### Libri
 <!-- L'AI aggiunge qui una riga per ogni libro/capitolo ingestato -->
 
@@ -38,10 +41,13 @@ Pagine che rappresentano entità (aziende, persone, prodotti, framework). Aggreg
 <!-- Resources/companies/ -->
 
 ### Framework
-<!-- Resources/frameworks/ -->
+- [Protocollo FARMA](Resources/frameworks/protocollo-farma.md) — Framework 3-fasi per farmacisti consulenti digitali (formazione + prevenzione)
 
 ### Prodotti
 <!-- Resources/products/ -->
+
+### Programmi
+- [Farmacista Digitale Starter](Resources/programs/farmacista-digitale-starter.md) — Corso 3 mesi su [[Protocollo FARMA]], formazione + coaching per consulenti digitali
 
 ### Competitor
 <!-- Intelligence/competitors/ -->
@@ -59,7 +65,7 @@ Pagine di sintesi, analisi, comparazioni, ricerca tematica. Spesso generate via 
 <!-- Resources/case-studies/ -->
 
 ### Mercato
-<!-- Intelligence/market/ -->
+- [Trasformazione Digitale Farmacisti](Intelligence/market/farmacisti-trasformazione-digitale.md) — Opportunità consulenza online, barriere mindset/operativo, competizione, megatrend
 
 ### Decisioni
 <!-- Intelligence/decisions/ -->
