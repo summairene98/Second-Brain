@@ -21,6 +21,7 @@ Hub di tutte le call di vendita, onboarding e follow-up registrate tra [[Irene S
 | Nome | Stato | Tipo Call | Note |
 |------|-------|----------|------|
 | [[Veronica]] | **Iscritto** | Sales + Follow-up | Specialità: allergie. Call principale ore 0-1:03 |
+| [[Flaminia Gallo]] | Prospect (Negotiation) | Sales | Specialità: neonutraceutica. Richiede piano rateale 7 rate (2.500€) |
 | [[Kirandeep]] | Prospect | Sales + Onboarding | Multiple sessions |
 | [[Carmen]] | Prospect | Sales + Variants | Versioni: base, old, onboarding |
 | [[Michela]] | Prospect | Sales | - |

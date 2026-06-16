@@ -27,6 +27,7 @@ Documenti grezzi in `Library/`, raggruppati per tipo. Una voce per source ingest
 
 ### Trascrizioni
 - [Call Farmacisti — Collezione 20+ Farmacisti](Library/transcripts/call-farmacisti-bulk-2026-06.md) — Veronica, Kirandeep, Carmen, Michela, Alice, Luciana, Angelica, Sandra, Paola, Claudia, Egidio, Daniele, Andrea + variants
+- [Call Farmacisti Flaminia](Library/transcripts/call-farmacisti-flaminia-2026-06.md) — Neonutraceutica, pagamento rateale 7 rate
 - [Call Farmacisti Veronica](Library/transcripts/call-farmacisti-veronica-2026-06.md) — Sales principale con specialità allergie
 
 ### Libri

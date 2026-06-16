@@ -9,6 +9,20 @@ Registro cronologico delle operazioni di ingestione (source → wiki) e aggiorna
 
 ## 2026-06-16
 
+**[2026-06-16 23:10] ingest | transcript-notes | call-farmacisti-flaminia-2026-06 | 1 nuova trascrizione**
+
+Call con [[Flaminia Gallo]] (neonutraceutica). Appunti Gemini (non trascrizione completa).
+
+**Highlights:**
+- Sfide: turni farmacia + equilibrio familiare
+- Specializzazione scelta: neonutraceutica
+- Offerta: 2.500€ (6 mesi) — in negoziazione piano rateale 7 rate
+- Flaminia richiede flessibilità pagamento per sostenibilità budget
+
+**Nuovo in Call Hub:** [[Call Transcripts Farmacisti 2026]] aggiornato (+ Flaminia nella tabella)
+
+---
+
 **[2026-06-16 22:45] ingest | transcript-collection | call-farmacisti-bulk-2026-06 | 1 pagina wiki hub**
 
 Collezione bulk di 20+ call (Veronica, Kirandeep, Carmen, Michela, Alice, Luciana, Angelica, Sandra, Paola, Claudia, Egidio, Daniele, Andrea + variants).
