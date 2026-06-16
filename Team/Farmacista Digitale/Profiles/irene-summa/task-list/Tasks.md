@@ -5,7 +5,7 @@ status: active
 tags: [tasks, irene-summa]
 ---
 
-Last run: 2026-06-16T22:05:08Z
+Last run: 2026-06-17T00:10:00Z
 
 > [!info] Backlog attivo
 > Questa lista è il backlog progressivo di [[Irene Summa]]. I task aperti rimangono qui tra un daily e l'altro. Il daily giornaliero non duplica questi task, ma vi fa riferimento.
@@ -31,13 +31,12 @@ Last run: 2026-06-16T22:05:08Z
 - [x] ✅ 2026-06-16 Setup GitHub auto-push hook
 - [x] ✅ 2026-06-16 Personalizzazione Context/ (operator, organization, brand, team, strategy)
 - [x] ✅ 2026-06-16 Ingestione materiali fondanti (Personal Branding Canvas, Protocollo F.A.R.M.A., VSL, Microcosmo)
+- [x] ✅ 2026-06-17 Fix Daily/2026-06-16.md: rimossa intestazione duplicata, aggiunto status e tags al frontmatter
+- [x] ✅ 2026-06-17 Creati file profilo: Irene Summa.md, Mario Livelli.md, Salvatore.md, Elvira.md, Alessandro.md
+- [x] ✅ 2026-06-17 Creati profili completi per Salvatore, Elvira, Alessandro (cartelle Daily, task-list, profilo)
 
 ## Coda Housekeeping
 
-- `Daily/2026-06-16.md` — Intestazione `# 2026-06-16` duplica il nome del file (anti-pattern CLAUDE.md). Valutare rimozione alla prossima esecuzione.
-- `Daily/2026-06-16.md` — Frontmatter incompleto: mancano `status` e `tags`. Correggere alla prossima esecuzione.
-- `Team/Farmacista Digitale/Profiles/irene-summa/` — Manca il file profilo `Irene Summa.md` (standard layout richiede `{Nome}.md`). In coda per creazione.
-- `Team/Farmacista Digitale/Profiles/mario-livelli/` — Manca il file profilo `Mario Livelli.md`. In coda per creazione.
-- Profili mancanti per Salvatore, Elvira, Alessandro: le cartelle profilo non esistono. Registrato. Creare se l'utente conferma.
+Nessun item in coda.
 
-<span style="background-color:#6B4C9A; color:#FFFFFF; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Farmacista Digitale Vault Operator — ultima modifica: 2026-06-16T22:05:08Z</span>
+<span style="background-color:#6B4C9A; color:#FFFFFF; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Farmacista Digitale Vault Operator — ultima modifica: 2026-06-17T00:10:00Z</span>
