@@ -9,6 +9,23 @@ Registro cronologico delle operazioni di ingestione (source → wiki) e aggiorna
 
 ## 2026-06-16
 
+**[2026-06-16 22:45] ingest | transcript-collection | call-farmacisti-bulk-2026-06 | 1 pagina wiki hub**
+
+Collezione bulk di 20+ call (Veronica, Kirandeep, Carmen, Michela, Alice, Luciana, Angelica, Sandra, Paola, Claudia, Egidio, Daniele, Andrea + variants).
+
+**Pagine create:**
+1. [[Call Transcripts Farmacisti 2026]] (hub con tabella prospetti + tematiche ricorrenti)
+
+**Dedup:** File MD contiene sia Veronica (già ingestata) + 19 nuovi farmacisti. Smart ingest: Veronica skipata.
+
+**Takeaway:**
+- Pattern call standardizzato: problem → proposta unica → [[Protocollo FARMA]] → specializzazione → prezzo/garanzia → obiezioni → chiusura
+- Obiezioni top: tempo, come trovare clienti, paura digitale
+- Differenziatore: farmacista = credibilità scientifica vs influencer (unico mercato inesplorato)
+- Success rate: 100% finora (garanzia mai attivata)
+
+---
+
 **[2026-06-16 22:15] ingest | transcript | call-farmacisti-veronica-2026-06 | 4 pagine wiki**
 
 Trascrizione della call tra [[Irene Summa]] e [[Veronica]] su [[Farmacista Digitale Starter]].

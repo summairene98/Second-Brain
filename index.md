@@ -26,7 +26,8 @@ Documenti grezzi in `Library/`, raggruppati per tipo. Una voce per source ingest
 <!-- L'AI aggiunge qui una riga per ogni podcast ingestato -->
 
 ### Trascrizioni
-- [Call Farmacisti Veronica](Library/transcripts/call-farmacisti-veronica-2026-06.md) — Webinar con [[Irene Summa]] su [[Protocollo FARMA]]
+- [Call Farmacisti — Collezione 20+ Farmacisti](Library/transcripts/call-farmacisti-bulk-2026-06.md) — Veronica, Kirandeep, Carmen, Michela, Alice, Luciana, Angelica, Sandra, Paola, Claudia, Egidio, Daniele, Andrea + variants
+- [Call Farmacisti Veronica](Library/transcripts/call-farmacisti-veronica-2026-06.md) — Sales principale con specialità allergie
 
 ### Libri
 <!-- L'AI aggiunge qui una riga per ogni libro/capitolo ingestato -->
@@ -66,6 +67,7 @@ Pagine di sintesi, analisi, comparazioni, ricerca tematica. Spesso generate via 
 
 ### Mercato
 - [Trasformazione Digitale Farmacisti](Intelligence/market/farmacisti-trasformazione-digitale.md) — Opportunità consulenza online, barriere mindset/operativo, competizione, megatrend
+- [Call Transcripts Farmacisti 2026](Intelligence/sales/call-transcripts-farmacisti-2026.md) — 20+ prospetti, obiezioni, tematiche ricorrenti, success drivers
 
 ### Decisioni
 <!-- Intelligence/decisions/ -->

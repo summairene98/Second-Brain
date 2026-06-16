@@ -1,0 +1,35 @@
+slug: call-farmacisti-bulk-2026-06
+type: transcript-collection
+date_ingested: 2026-06-16
+source: Loom recordings (bulk export)
+duration_total: "~30 hours (estimated)"
+transcripts_count: 20+
+participants:
+  - Irene Summa (coach)
+  - Veronica
+  - Kirandeep
+  - Carmen (multiple calls)
+  - Michela
+  - Alice (multiple versions)
+  - Luciana (multiple versions)
+  - Angelica (multiple versions)
+  - Sandra (multiple versions)
+  - Paola
+  - Claudia
+  - Egidio
+  - Daniele
+  - Andrea
+language: it
+quality: medium (speech-to-text)
+tags:
+  - farmacista
+  - formazione
+  - consulenza
+  - vendita
+  - onboarding
+  - protocollo-farma
+call_types:
+  - sales pitches
+  - onboarding sessions
+  - follow-ups
+status: extracted
