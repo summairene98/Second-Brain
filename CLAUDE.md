@@ -78,6 +78,19 @@ Il vault ha **tre layer** con regole di scrittura diverse. Questo segue il patte
 - `/os-optimizer` — Audit del vault con 9 framework (include lint LLM Wiki: contraddizioni, orfani, claim stale, cross-ref mancanti, gap di dati).
 - `/install-qmd` — Setup del search engine qmd. Da invocare **solo** quando `Library/` supera ~1000 sources E la ricerca diventa lenta. Non necessaria per vault piccoli.
 
+## Connettori e Integrazioni
+
+**Trascrizioni:** [[Gemini]] (non Fathom)
+- Usa Gemini per estrarre note e sintesi da call registrate
+- Output: `.docx` e `.md` (appunti strutturati)
+- Salva nel vault via `/ingest` → `Library/transcripts/`
+
+**Calendari:** Google Calendar (sync via MCP)
+
+**Email:** Gmail (MCP)
+
+**Altre piattaforme:** Vedi `Context/infrastructure.md` per stack completo
+
 ## Voce del Documento
 
 I documenti del vault suonano come un collega, non come un AI. Nomi specifici, contesto specifico, conseguenze specifiche. Mai generico.
@@ -132,6 +145,7 @@ Campi standard: `type`, `date`, `project`, `department`, `status`, `tags`, `prio
 15. Includi `project:` nel frontmatter per note relative a progetti; `department:` per note relative a dipartimenti.
 16. NON creare mai file/cartelle nella root del vault. Ogni file vive in una cartella esistente. Nessuna eccezione.
 17. **Auto-push a GitHub a fine di OGNI risposta**: Come ULTIMA azione di ogni risposta che ha toccato il vault, esegui `bash ".claude/hooks/auto-push.sh"` per committare e pushare su GitHub. Non affidarti solo all'hook `Stop` nel desktop di Claude Code: non scatta in modo affidabile. Lo script è idempotente (esce subito se non c'è nulla da committare) e sicuro (guardia: agisce solo su "Second-Brain"). Non chiedere permesso, fallo e basta.
+18. **Trascrizioni via Gemini**: Le call vengono trascritte/sintetizzate con Gemini (non Fathom). Estrai i file `.docx` da Google Drive e ingesta via `/ingest` → `Library/transcripts/`. Gemini genera appunti strutturati, non trascrizioni parola-per-parola.
 
 ## Anti-Pattern
 
