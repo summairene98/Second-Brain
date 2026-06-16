@@ -7,6 +7,18 @@ description: Cronologia delle ingestioni e aggiornamenti wiki
 
 Registro cronologico delle operazioni di ingestione (source → wiki) e aggiornamenti significativi al layer wiki.
 
+## 2026-06-17
+
+**[2026-06-17 06:45] ingest | transcript-notes | google-drive-sync | Trascrizioni Gemini sincronizzate da Google Drive**
+
+**Sincronizzazione Google Drive (MCP):**
+- ✓ Carla (2026-06-16, nuova) — Trascrizione minima, call appena iniziata
+- ✓ Altre 9 file già ingestati (Flaminia, Andrea, Lucia, Cinzia, Paolo, Giulia, Francesco, Gianna) — Riconfermati in Drive
+
+**Status:** Tutte le trascrizioni Gemini con pattern "[FD] Presentazione Protocollo F.A.R.M.A" sono ora nel vault e tracciati nel hub.
+
+---
+
 ## 2026-06-16
 
 **[2026-06-16 23:25] ingest | transcript-bulk | drive-download-11-docx | 10 nuove trascrizioni (ingest from ZIP)**

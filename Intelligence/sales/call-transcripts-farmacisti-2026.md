@@ -12,7 +12,7 @@ status: indexed
 
 Hub di tutte le call di vendita, onboarding e follow-up registrate tra [[Irene Summa]] e potenziali clienti per il programma [[Farmacista Digitale Starter]].
 
-**Totale:** 13+ trascrizioni catalogate (+ 20+ nel file bulk [[call-farmacisti-bulk-2026-06]])
+**Totale:** 14+ trascrizioni catalogate (+ 20+ nel file bulk [[call-farmacisti-bulk-2026-06]])
 
 ---
 
@@ -21,6 +21,7 @@ Hub di tutte le call di vendita, onboarding e follow-up registrate tra [[Irene S
 | Nome | Stato | Tipo Call | Note |
 |------|-------|----------|------|
 | [[Veronica]] | **Iscritto** | Sales + Follow-up | Specialità: allergie. Call principale ore 0-1:03 |
+| [[Carla]] | Prospect | Sales (oggi) | Data: 2026-06-16, Trascrizione Gemini minima |
 | [[Flaminia Gallo]] | Prospect (Negotiation) | Sales | Specialità: neonutraceutica. Richiede piano rateale 7 rate (2.500€) |
 | [[Andrea]] | Prospect | Sales (giugno) | Data: 2026-06-10 |
 | [[Lucia Cerquaglia]] | Prospect | Sales (giugno) | Data: 2026-06-10 |
