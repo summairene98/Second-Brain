@@ -84,6 +84,7 @@ Il vault ha **tre layer** con regole di scrittura diverse. Questo segue il patte
 - Usa Gemini per estrarre note e sintesi da call registrate
 - Output: `.docx` e `.md` (appunti strutturati)
 - Salva nel vault via `/ingest` → `Library/transcripts/`
+- **Routine ricorrente:** Sincronizzazione Google Drive → ingesta nel vault (parte della routine Operator)
 
 **Calendari:** Google Calendar (sync via MCP)
 
