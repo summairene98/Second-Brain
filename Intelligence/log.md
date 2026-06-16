@@ -9,6 +9,26 @@ Registro cronologico delle operazioni di ingestione (source → wiki) e aggiorna
 
 ## 2026-06-16
 
+**[2026-06-16 23:25] ingest | transcript-bulk | drive-download-11-docx | 10 nuove trascrizioni (ingest from ZIP)**
+
+Estratto ZIP Google Drive: 11 file DOCX di call (aprile-maggio-giugno 2026).
+
+**Farmacisti bulk:**
+1. Andrea (2026-06-10)
+2. Lucia Cerquaglia (2026-06-10)
+3. Cinzia (2026-05-04)
+4. Monica (2026-05-19)
+5. Erika (2026-04-21)
+6. Pasqua (2026-04-23, possibile dup)
+7. Gianna (2026-04-20)
+8. Francesco Gioia (2026-04-22)
+9. Giulia (2026-04-29)
+10. Paolo (2026-04-30)
+
+**Hub aggiornato:** [[Call Transcripts Farmacisti 2026]] ora traccia 14 prospect totali.
+
+---
+
 **[2026-06-16 23:10] ingest | transcript-notes | call-farmacisti-flaminia-2026-06 | 1 nuova trascrizione**
 
 Call con [[Flaminia Gallo]] (neonutraceutica). Appunti Gemini (non trascrizione completa).

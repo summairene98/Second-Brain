@@ -26,9 +26,9 @@ Documenti grezzi in `Library/`, raggruppati per tipo. Una voce per source ingest
 <!-- L'AI aggiunge qui una riga per ogni podcast ingestato -->
 
 ### Trascrizioni
-- [Call Farmacisti — Collezione 20+ Farmacisti](Library/transcripts/call-farmacisti-bulk-2026-06.md) — Veronica, Kirandeep, Carmen, Michela, Alice, Luciana, Angelica, Sandra, Paola, Claudia, Egidio, Daniele, Andrea + variants
-- [Call Farmacisti Flaminia](Library/transcripts/call-farmacisti-flaminia-2026-06.md) — Neonutraceutica, pagamento rateale 7 rate
-- [Call Farmacisti Veronica](Library/transcripts/call-farmacisti-veronica-2026-06.md) — Sales principale con specialità allergie
+- [Call Transcripts Farmacisti 2026](Intelligence/sales/call-transcripts-farmacisti-2026.md) — Hub 14 prospect (Veronica iscritto + 13 prospect)
+- [Call Farmacisti — Collezione Bulk 20+](Library/transcripts/call-farmacisti-bulk-2026-06.md) — Bulk file loom (Veronica, Kirandeep, Carmen, Michela, Alice, Luciana, Angelica, Sandra, Paola, Claudia, Egidio, Daniele + variants)
+- [Singole trascrizioni](Library/transcripts/) — Andrea, Lucia Cerquaglia, Flaminia, Cinzia, Monica, Erika, Pasqua, Gianna, Francesco Gioia, Giulia, Paolo, Veronica
 
 ### Libri
 <!-- L'AI aggiunge qui una riga per ogni libro/capitolo ingestato -->

@@ -12,7 +12,7 @@ status: indexed
 
 Hub di tutte le call di vendita, onboarding e follow-up registrate tra [[Irene Summa]] e potenziali clienti per il programma [[Farmacista Digitale Starter]].
 
-**Totale:** 20+ trascrizioni (file raw: [[call-farmacisti-bulk-2026-06]])
+**Totale:** 13+ trascrizioni catalogate (+ 20+ nel file bulk [[call-farmacisti-bulk-2026-06]])
 
 ---
 
@@ -22,8 +22,18 @@ Hub di tutte le call di vendita, onboarding e follow-up registrate tra [[Irene S
 |------|-------|----------|------|
 | [[Veronica]] | **Iscritto** | Sales + Follow-up | Specialità: allergie. Call principale ore 0-1:03 |
 | [[Flaminia Gallo]] | Prospect (Negotiation) | Sales | Specialità: neonutraceutica. Richiede piano rateale 7 rate (2.500€) |
+| [[Andrea]] | Prospect | Sales (giugno) | Data: 2026-06-10 |
+| [[Lucia Cerquaglia]] | Prospect | Sales (giugno) | Data: 2026-06-10 |
 | [[Kirandeep]] | Prospect | Sales + Onboarding | Multiple sessions |
 | [[Carmen]] | Prospect | Sales + Variants | Versioni: base, old, onboarding |
+| [[Cinzia]] | Prospect | Sales (maggio) | Data: 2026-05-04 |
+| [[Monica]] | Prospect | Sales (maggio) | Data: 2026-05-19 |
+| [[Erika]] | Prospect | Sales (aprile) | Data: 2026-04-21 |
+| [[Pasqua]] | Prospect | Sales (aprile) | Data: 2026-04-23 (possibilmente duplicato) |
+| [[Gianna]] | Prospect | Sales (aprile) | Data: 2026-04-20 |
+| [[Francesco Gioia]] | Prospect | Sales (aprile) | Data: 2026-04-22 |
+| [[Giulia]] | Prospect | Sales (aprile) | Data: 2026-04-29 |
+| [[Paolo]] | Prospect | Sales (aprile) | Data: 2026-04-30 |
 | [[Michela]] | Prospect | Sales | - |
 | [[Alice]] | Prospect | Sales + Onboarding | Versioni: base, vendita |
 | [[Luciana]] | Prospect | Sales + Onboarding | Versioni: base, vendita |
