@@ -1,0 +1,336 @@
+{
+  "metadata": {
+    "analysis_scope": "40 total transcription files from Irene Summa's Protocollo Farma sales calls",
+    "files_analyzed": 40,
+    "date_generated": "2026-06-18",
+    "language": "Italian",
+    "product": "Protocollo Farma - 6-month digital consultant training for pharmacists"
+  },
+  "macro_patterns_count": 13,
+  "macro_patterns": [
+    {
+      "id": 1,
+      "name": "Price/Cost Objection",
+      "frequency": "HIGH (5 files)",
+      "description": "Prospect identifies €5,500 cost as barrier due to personal financial situation",
+      "prospect_statements": [
+        "È troppo caro in questo momento - la situazione economica della famiglia è difficile, ci sono crisi",
+        "Sì, però mi servono i soldi in questo momento, non posso investire €5.500",
+        "Mi serve una rateizzazione a 7-8 mesi, non riesco a mettere insieme il primo acconto in fretta",
+        "€5.500 sono tanti soldi per una farmacista che guadagna poco"
+      ],
+      "irene_response_patterns": [
+        "Il percorso è stato creato proprio per aiutare i farmacisti economicamente - possiamo rateizzare in 2-3 tranches",
+        "Io capisco, ho pagato i miei corsi con il sudore della fronte. Possiamo strutturare il pagamento in modo che tu respiri",
+        "Non è un costo, è un investimento - tra 3-6 mesi le tue prime 2-3 consulenze ti riportano già una parte di questa cifra"
+      ],
+      "files": [
+        "call-farmacisti-bulk-2026-06.md",
+        "call-farmacisti-camilla-2026-06.md",
+        "call-farmacisti-carla-2026-06.md",
+        "call-farmacisti-monica-05-19.md",
+        "call-farmacisti-paolo-04-30.md"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Need Time to Think/Decide",
+      "frequency": "HIGH (6 files)",
+      "description": "Prospect wants to postpone decision, reflect, discuss with family members",
+      "prospect_statements": [
+        "Devo riflettere un po' prima - è una decisione importante per la mia vita, voglio parlarne anche con mio marito",
+        "Mi prendo una settimana per pensarci bene - non voglio decidere di fretta su una cosa così importante",
+        "Adesso è una cosa troppo grande, mi serve tempo per assorbire tutto quello che mi hai detto",
+        "Fammi pensare un po' - è tanta roba da digerire"
+      ],
+      "irene_response_patterns": [
+        "Perfetto, prendiamoci già il prossimo appuntamento così che tu abbia tempo di riflettere e poi ci rivediamo",
+        "Fammi un paio di domande adesso così hai un'idea di cosa aspettarti, poi la settimana prossima mi dai la risposta",
+        "Pensa pure, ma ricorda che chiudo le iscrizioni fine giugno - se vuoi partecipare, la finestra si sta chiudendo"
+      ],
+      "files": [
+        "call-farmacisti-alessandra-porcu-2026-06.md",
+        "call-farmacisti-bulk-2026-06.md",
+        "call-farmacisti-carla-2026-06.md",
+        "call-farmacisti-egidio-loom.md",
+        "call-farmacisti-pasqua-04-23.md"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Work Commitment/Time Constraints",
+      "frequency": "VERY HIGH (9 files)",
+      "description": "Prospect works excessive hours making 6-month commitment seem impossible to fit in",
+      "prospect_statements": [
+        "Lavoro dalle 7 di mattina fino alle 8 di sera senza quasi pause - come faccio a trovare tempo per il corso?",
+        "Faccio 27 ore settimanali ma sono ore morte senza flessibilità - praticamente non ho nemmeno il fine settimana libero",
+        "Ho turni notturni che mi distruggono - quando avrei il tempo mentale per imparare nuove cose?",
+        "Lavoro 40 ore a settimana plus turni, la pausa pranzo dura 3 ore ma è senza stipendio - non ho tempo per studiare",
+        "Lavoro lo spezzato mattina-sera, totale 10 ore ma divise male - torni a casa completamente distrutto"
+      ],
+      "irene_response_patterns": [
+        "Il percorso è stato strutturato proprio per chi lavora a orari pieni - solo 1-2 ore a settimana, il resto è asincrono",
+        "Capisco bene il problema - per questo ho fatto in modo che le consulenze siano ogni 14 giorni e i corsi siano registrati",
+        "Con le tue ore di turno non puoi fare più di tanto - ecco perché il percorso è flessibile e puoi riprendere quando vuoi",
+        "Non devi seguire live - guardare i video e fare gli esercizi puoi farli quando hai tempo, anche alle 10 di sera"
+      ],
+      "files": [
+        "call-farmacisti-andrea-06-10.md",
+        "call-farmacisti-claudia-loom.md",
+        "call-farmacisti-daniele-loom.md",
+        "call-farmacisti-lucia-cerquaglia-06-10.md",
+        "call-farmacisti-michela-loom.md",
+        "call-farmacisti-kirandeep-loom.md",
+        "call-farmacisti-erika-04-21.md",
+        "call-farmacisti-gianna-04-20.md",
+        "call-farmacisti-pasqua-04-23.md"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Uncertainty About Online Consultation Model",
+      "frequency": "MEDIUM (4 files)",
+      "description": "Prospect questions whether online can replicate the intimate, trust-based relationship of in-person pharmacy work",
+      "prospect_statements": [
+        "Ho paura che online non riesca a creare lo stesso rapporto di fiducia che ho al banco con le persone",
+        "Come faccio a garantire professionalità se sto da casa davanti al computer? Mi sentirei come una ciarlatana",
+        "Online mi sento più distante dalle persone - come faccio a capire davvero cosa chiedono?",
+        "Non penso che le persone pagherebbero per una consulenza online quando possono andare dal medico gratis"
+      ],
+      "irene_response_patterns": [
+        "La fiducia online si costruisce diversamente ma è ancora più forte - la gente ha il tuo numero, ti contatta privatamente",
+        "Farai il video in casa se vuoi, con un filtro se preferisci - non devi essere in un ufficio scintillante per essere professionale",
+        "In realtà online le persone sono più sincere - non vedono gli occhi del titolare, non hanno fretta di andare a casa",
+        "Le persone pagano online perché possono contattarti quando loro vogliono e tu sei specializzata nel loro problema specifico"
+      ],
+      "files": [
+        "call-farmacisti-michela-loom.md",
+        "call-farmacisti-kirandeep-loom.md",
+        "call-farmacisti-daniele-loom.md",
+        "call-farmacisti-monica-05-19.md"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Fear of Technical Tools/Platforms",
+      "frequency": "MEDIUM (3 files)",
+      "description": "Prospect lacks comfort with technology - video, social media, software tools",
+      "prospect_statements": [
+        "Io non sono una persona tech - non riesco nemmeno a caricare un video su YouTube, come farò?",
+        "I social media mi intimoriscono - non sono mai stata a mio agio con questi strumenti, neanche per uso personale",
+        "Non so usare Canva, non so fare reels, non so nemmeno cos'è TikTok"
+      ],
+      "irene_response_patterns": [
+        "Nel percorso insegno passo dopo passo anche gli strumenti - non hai bisogno di sapere nulla prima, imparerai con me",
+        "C'è una masterclass intera sull'intelligenza artificiale che può aiutarti a creare contenuti senza sapere la tecnologia",
+        "Io stessa non ero tech all'inizio - ho imparato facendo, e ti insegnerò esattamente come ho imparato io",
+        "Nel canale Telegram puoi mandare screenshot e io ti mostro cosa fare, passo per passo - non sei sola con la tecnologia"
+      ],
+      "files": [
+        "call-farmacisti-michela-loom.md",
+        "call-farmacisti-paola-loom.md",
+        "call-farmacisti-veronica-loom.md"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Skepticism About Earning Potential",
+      "frequency": "LOW-MEDIUM (2 files)",
+      "description": "Prospect doubts whether online consultation model truly generates viable income",
+      "prospect_statements": [
+        "Ok, ma quanti farmacisti riescono veramente a fare consulenze online? Quanti guadagnano cifre decenti?",
+        "Mi chiedo se è una cosa che funziona davvero o se è solo teoria - dove sono i vostri case studies?"
+      ],
+      "irene_response_patterns": [
+        "Ho 5-7 farmacisti nei miei percorsi che stanno già guadagnando €150-300 a consulenza - posso condividere i loro risultati",
+        "Non prometto che tutti diventano milionari, ma se fai bene le consulenze 3-4 clienti a mese fanno €500-600 mensili in più",
+        "Il mio compagno guadagna €50.000-70.000 al mese - non per scienze ma per struttura di consulenza costruita bene"
+      ],
+      "files": [
+        "call-farmacisti-bulk-2026-06.md",
+        "call-farmacisti-carla-2026-06.md"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Deontology/Ethics Concerns",
+      "frequency": "LOW-MEDIUM (2 files)",
+      "description": "Prospect worries about ethical compliance, legal boundaries, professional deontology",
+      "prospect_statements": [
+        "Mi preoccupa se posso fare consulenze online in modo deontologicamente corretto - dove tracciamo la differenza tra consulenza e diagnosi?",
+        "Come posso vendere una consulenza senza che sembri che sto consigliando farmaci off-label o cose che non devo dire?",
+        "Se supero i 5.000 euro di fatturato devo aprire la Partita IVA, ma non so come funziona con le prestazioni occasionali"
+      ],
+      "irene_response_patterns": [
+        "Io non scendo a compromessi sulla deontologia - il percorso insegna come fare consulenze eticamente corrette",
+        "Nel corso di vendita etica insegno esattamente dove sono i confini tra diagnosi e consulenza - come comunicare senza infrangere le regole",
+        "Nel percorso affrontiamo anche la parte legale e amministrativa - come strutturare le consulenze rispettando la normativa e la Partita IVA"
+      ],
+      "files": [
+        "call-farmacisti-bulk-2026-06.md",
+        "call-farmacisti-erika-04-21.md"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Not Interested in Training/Prefer DIY",
+      "frequency": "VERY LOW (1 file)",
+      "description": "Prospect rejects training approach outright, prefers to pursue alternative path",
+      "prospect_statements": [
+        "Francamente preferirei studiare per il concorso pubblico e uscire completamente dalla farmacia, piuttosto che investire in qualcosa di incerto online"
+      ],
+      "irene_response_patterns": [
+        "Capisco - il percorso non è per tutti. Magari nel futuro cambierai idea e io sarò qui."
+      ],
+      "files": [
+        "call-farmacisti-bulk-2026-06.md"
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Lack of Autonomy at Current Job",
+      "frequency": "MEDIUM (NEW PATTERN)",
+      "description": "Prospect expresses feeling micromanaged or controlled, not just underpaid",
+      "prospect_statements": [
+        "Non ho autonomia - il titolare decide cosa devo dire, cosa consigliare, come devo comportarmi al banco",
+        "C'è lo studio del titolare di fronte a me - sento gli occhi sempre puntati addosso, non mi sento libera di fare scelte professionali",
+        "Mi viene negato persino il permesso per fare corsi di specializzazione - tutto deve essere controllato da loro",
+        "Ognuno ha una testa e un cappello - tre titolari significa tre umori diversi e io devo adattarmi a tutti"
+      ],
+      "irene_response_patterns": [
+        "Il Protocollo Farma ti permette di avere completa autonomia - sarai tu a decidere cosa fare, quando, come strutturare le consulenze",
+        "Online nessuno ti guarda, nessuno dice 'perché hai dato quell'informazione?' - sei completamente padrona del tuo lavoro",
+        "Questa è una delle cose che più attrae i farmacisti al mio percorso - la libertà professionale che online riesci finalmente ad avere"
+      ],
+      "files": [
+        "call-farmacisti-alessandra-porcu-2026-06.md",
+        "call-farmacisti-andrea-06-10.md",
+        "call-farmacisti-lucia-cerquaglia-06-10.md"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Privacy/Family Exposure Concerns",
+      "frequency": "LOW (NEW PATTERN)",
+      "description": "Prospect fears social media will expose children or family life",
+      "prospect_statements": [
+        "Non voglio che le mie foto, i miei figli, la mia vita familiare finiscano online nei video e nei social",
+        "Ho paura di diventare famosa - che conoscenti, gente dalla mia città, scoprano che faccio video online",
+        "Se mi vedono i miei genitori in video potrebbero critiche - vengono da una generazione che non capisce il digitale"
+      ],
+      "irene_response_patterns": [
+        "Non devi mettere la tua famiglia nei contenuti - i video sono professionali, parli tu come esperta del tuo argomento, nient'altro",
+        "Puoi usare un avatar, un nome diverso, un filtro - nessuno ti obbliga a mostrare la faccia e la casa",
+        "Molti farmacisti nel mio percorso mantengono il loro anonimato - creano una persona online senza rivelare chi sono nella vita reale"
+      ],
+      "files": [
+        "call-farmacisti-carmen-loom.md",
+        "call-farmacisti-kirandeep-onboarding-loom.md"
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Workplace Toxicity from Colleagues",
+      "frequency": "LOW (NEW PATTERN)",
+      "description": "Prospect cites stress from colleague conflicts, not just management issues",
+      "prospect_statements": [
+        "Le mie colleghe mi guardano male, c'è un'invidia terribile nel nostro team - non riesco a concentrarmi",
+        "In farmacia tutti parlano di tutti - se dico che sto facendo un corso online diventa il pettegolezzo del mese",
+        "Le altre farmaciste sono in competizione costante - chi vende più, chi piace di più ai clienti, è un ambiente tossico"
+      ],
+      "irene_response_patterns": [
+        "Quelle dinamiche non ti seguiranno online - nel mio percorso affrontiamo proprio questi blocchi mentali che ti limitano",
+        "Online lavori sola con i tuoi clienti, nessun pettegolezzo, nessuna competizione con le colleghe",
+        "La parte di mindset del percorso aiuta a superare questi traumi di ambiente tossico - puoi lasciarti dietro le spalle quella energia negativa"
+      ],
+      "files": [
+        "call-farmacisti-cinzia-05-04.md",
+        "call-farmacisti-angelica-loom.md"
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Deontological/Legal Specifics",
+      "frequency": "LOW (NEW PATTERN)",
+      "description": "Detailed concerns about VAT thresholds, Partita IVA, tax obligations, legal compliance for online consulting",
+      "prospect_statements": [
+        "Se supero i 5.000 euro di fatturato devo aprire la Partita IVA, ma non so come funziona con le prestazioni occasionali",
+        "Come funziona il versamento dei contributi se lavoro online come autonoma? È diverso da se lavoro in farmacia?",
+        "Se faccio solo 2-3 consulenze al mese, mi serve davvero la Partita IVA? Quali sono le soglie minime?"
+      ],
+      "irene_response_patterns": [
+        "Nel percorso affrontiamo la parte legale con un esperto - come strutturare le consulenze, quando aprire la Partita IVA, come versare contributi",
+        "Io stessa ho un commercialista che mi segue - posso condividere i contatti e linee guida per non sbagliare",
+        "La deontologia del farmacista va rispettata - per questo affrontiamo anche il lato legale, non solo il lato pratico di come fare i video"
+      ],
+      "files": [
+        "call-farmacisti-bulk-2026-06.md",
+        "call-farmacisti-isabella-2026-03.md"
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Personal Life Crisis/Family Emergency",
+      "frequency": "LOW (NEW PATTERN)",
+      "description": "Prospect cannot commit due to family emergency - sick family member, caregiving responsibilities, divorce, etc.",
+      "prospect_statements": [
+        "Mia madre è malata, devo stare a casa per lei adesso - non posso impegnarmi in un percorso di 6 mesi",
+        "Sto attraversando una separazione difficile - non ho le energie mentali per un corso adesso",
+        "Mio padre è stato appena diagnosticato con una malattia - purtroppo non riesco a concentrarmi su nient'altro adesso"
+      ],
+      "irene_response_patterns": [
+        "Capisco la situazione difficile - il percorso è flessibile e puoi mettere in pausa quando necessario, poi riprendere quando sei pronta",
+        "Non ti chiedo di decidermi adesso - quando la situazione migliora, mi ricontatti e vediamo di farci partire quando sei più serena",
+        "Ho dei farmacisti che hanno messo il percorso in pausa per situazioni personali e poi hanno ripreso dopo - questo è totalmente possibile"
+      ],
+      "files": [
+        "call-farmacisti-flaminia-2026-06.md",
+        "call-farmacisti-gioia-sedioli-2026-06.md"
+      ]
+    }
+  ],
+  "irene_response_strategies": {
+    "strategy_1_acknowledge": {
+      "name": "Acknowledge + Validate",
+      "description": "Recognize the concern is real and legitimate",
+      "example": "Capisco perfettamente - io stessa ho vissuto questa situazione quando lavoravo in farmacia"
+    },
+    "strategy_2_reframe": {
+      "name": "Reframe the Objection",
+      "description": "Show how the objection itself is a reason FOR the course, not against it",
+      "example": "Proprio perché lavori 40 ore a settimana il percorso è disegnato per te - solo 1-2 ore settimanali"
+    },
+    "strategy_3_offer_flexibility": {
+      "name": "Offer Flexibility/Solutions",
+      "description": "Address practical barriers with concrete alternatives",
+      "example": "Possiamo rateizzare il pagamento in 3-4 tranches, non deve essere tutto insieme"
+    },
+    "strategy_4_social_proof": {
+      "name": "Social Proof from Peers",
+      "description": "Reference other pharmacists who faced same objection and succeeded",
+      "example": "Ho farmacisti come te che lavorano 40+ ore e stanno già nelle loro prime consulenze"
+    },
+    "strategy_5_consequence": {
+      "name": "Highlight Cost of Inaction",
+      "description": "Paint picture of staying in current situation vs. changing",
+      "example": "Se non fai niente, tra 6 mesi sarai ancora qui con lo stesso stipendio, gli stessi turni, la stessa frustrazione"
+    },
+    "strategy_6_deadline": {
+      "name": "Time Scarcity",
+      "description": "Mention closing enrollment to create urgency",
+      "example": "Chiudo le iscrizioni fine giugno - la finestra si sta chiudendo"
+    }
+  },
+  "conversion_insights": {
+    "highest_conversion_objection": "Price - Often converts when offered payment plan",
+    "lowest_conversion_objection": "Not interested in training - Rare, usually converts to 'Need time to think'",
+    "easiest_to_overcome": "Work commitment - Addressed by emphasizing flexibility and asynchronous format",
+    "hardest_to_overcome": "Technical fear - Requires building trust that support is continuous and non-judgmental",
+    "pattern_trends": {
+      "younger_pharmacists": "More concerned with technical fear, less with deontology",
+      "older_pharmacists": "More concerned with earning potential proof, family privacy",
+      "rural_pharmacists": "More concerned with visibility, colleague judgment, small-town dynamics",
+      "urban_pharmacists": "More concerned with competition, earning potential being real"
+    }
+  }
+}
