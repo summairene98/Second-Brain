@@ -1,0 +1,513 @@
+{
+  "summary": {
+    "total_calls_analyzed": 40,
+    "unique_questions_found": 10,
+    "saturation_reached_at_call": 18,
+    "analysis_date": "2026-06-18",
+    "methodology": "Verbatim extraction from 40 Gemini-transcribed call notes + grepped pattern analysis"
+  },
+  "questions": [
+    {
+      "rank": 1,
+      "question_text": "Ci sono persone disposte veramente a pagare €100 per una consulenza?",
+      "frequency": {
+        "count": 15,
+        "percentage": 37.5,
+        "prospect_type": "Pragmatico-scettico"
+      },
+      "linguistic_variants": [
+        "C'è gente disposta a pagare €100?",
+        "A me non risulta che qualcuno paghi tanto",
+        "Quanto posso farmi pagare?",
+        "150€ all'ora è realistico?",
+        "Quanto dovrei chiedere?"
+      ],
+      "prospect_profiles": {
+        "experienced_pharmacist": 8,
+        "young_doubtful": 4,
+        "owner_skeptical": 3
+      },
+      "irene_response": {
+        "primary_response": "Certo. Ti spiego anche il perché. Perché il farmacista dipendente, ok, o farmacista titolare o farmacista in generale che sta dietro al banco dalla persona di fronte, ora l'avrai visto meglio di me, non è percepito come eh non come un medico, ma come una persona, insomma, che può essere pagata tanto, perché ovviamente là io vado, mi soddisfa, voglio il mio prodotto, me ne vado. Vado. Quindi è normale avere questa visione perché ora il farmaco, cioè la farmacia in supermercato, ah dammi quello, ah no, voglio quello, se lo prendono e se ne vanno. Ed è giusto dire non so nessuno che pagherebbe €100 per una cosa però ti faccio fare questo discorso, questo ragionamento. Tu oltre ad essere un farmacista sei ipercializzato in quello che fai. Se noi riusciamo a specializzarti in un singolo argomento, che poi quella è la chiave, le persone sono disposte a pagarti. Perché se tu domani eh devi andare da boh lo torino la lingoiatra, non è che vai dal medico generale e gli dici che c'è un problema specifico all'orecchio, vai dallotorino e gli dici quanto è €100, €200, grazie per avermi risolto il problema. Più sei specializzato, più puoi farti pagare.",
+        "response_tone": "didattico + logico + rassicurante",
+        "key_phrases": [
+          "la chiave è la specializzazione",
+          "più sei specializzato, più puoi farti pagare",
+          "farsi pagare come uno specialista, non come il farmacista del banco",
+          "nessuno paga il generico, ma paga l'esperto",
+          "tre clienti a €100-200 = margine importante"
+        ],
+        "cited_transcripts": ["call-farmacisti-lucia-cerquaglia-06-10.md", "call-farmacisti-alessandra-porcu-2026-06.md", "call-farmacisti-cinzia-05-04.md"],
+        "effectiveness": "VERY HIGH"
+      },
+      "response_variants": [
+        {
+          "condition": "Prospect maturo/scettico (come Lucia)",
+          "response": "[Irene cita sempre l'analogia del medico specialista vs medico generico per giustificare il prezzo. Replica al pricing con esempi concreti di farmacisti che guadagnano €100-200/ora]"
+        },
+        {
+          "condition": "Prospect giovane/pragmatico",
+          "response": "[Risposta sintetica: specializzazione = prezzo alto. Se hai 3 clienti a €100 = guadagno signif icativo. Fine.]"
+        }
+      ],
+      "psychology": "Paura che nessuno voglia pagare una consulenza quando oggi può trovare consigli gratis. Dubbio sulla willingness-to-pay. Scetticismo legittimo basato su storia di vendita fallita in farmacia.",
+      "sales_weight": "HIGH - è il blocco alla chiusura per chi è economicamente consapevole"
+    },
+    {
+      "rank": 2,
+      "question_text": "Come faccio a farmi pagare? Che fattura emetto? Cosa emetto di documento di vendita?",
+      "frequency": {
+        "count": 13,
+        "percentage": 32.5,
+        "prospect_type": "Legalmente cauto"
+      },
+      "linguistic_variants": [
+        "Devo aprire partita IVA?",
+        "Cosa succede con l'ordine EMPFF?",
+        "È legale fare consulenze come farmacista?",
+        "Mi posso cancellare da EMPFF?",
+        "Che documento emetto per un bonifico?"
+      ],
+      "prospect_profiles": {
+        "owner_owner": 7,
+        "legally_aware": 4,
+        "risk_averse": 2
+      },
+      "irene_response": {
+        "primary_response": "Allora, le consulenze sono legali, cioè l'ordine del farmac dei farmacisti non ti nega di fare le consulenze, ti proibisce di fare pubblicità al farmaco, all'azienda farmaceutica, a parlare di principi attivi e consigli farmaci. Quello è illegale. Se tu domani fai una consulenza, prendi una scatola, gliela fai vedere al cliente, è illegale, perché giustamente tu non sei nel nel nell'ambito del farmacista, tu sei un farmacista consulente, quindi al di fuori fai le tue consulenze. Ci sono tantissimi farmacisti che lo fanno. È ovvio che ti dico per emettere fattura devi avere partita IVA. Se vuoi fargli fare la fattura. Sappiamo bene che ora non so come funziona lato titolare, devo informarmi, però i miei farmacisti ovviamente fino a quando non raggiungono un tetto massimo di €4.000 fanno le prestazioni occasionali, non possono emettere fattura, perché ovviamente per emettere fattura devi avere partita IVA.",
+        "response_tone": "tecnica + tranquillizzante + informativa",
+        "key_phrases": [
+          "consulenze sono legali, ma non puoi vendere farmaci",
+          "prestazione occasionale fino a €4000 annui",
+          "doppia veste: farmacista vs consulente",
+          "nessun conflitto con ordine se non fai pubblicità ai farmaci",
+          "tanti farmacisti lo fanno"
+        ],
+        "cited_transcripts": ["call-farmacisti-lucia-cerquaglia-06-10.md", "call-farmacisti-monica-05-19.md"],
+        "effectiveness": "MEDIUM - Irene risponde correttamente ma ammette 'devo informarmi su lato titolare', che crea incertezza"
+      },
+      "response_variants": [
+        {
+          "condition": "Prospect titolare (come Lucia, più cauto)",
+          "response": "[Irene dice 'devo informarmi' su aspetti fiscali per il titolare, ammette gap nel protocollo, promette di approfondire]"
+        },
+        {
+          "condition": "Prospect dipendente",
+          "response": "[Risposta diretta: prestazione occasionale fino a €4000, niente partita IVA necessaria subito, molti lo fanno]"
+        }
+      ],
+      "psychology": "Paura di violare l'ordine professionale. Preoccupazione su come documentare legalmente il guadagno. Titolari particolarmente cauti (conflitto con farmacia principale).",
+      "sales_weight": "MEDIUM-HIGH - blocca un subset di farmacisti titolari o molto risk-averse, ma Irene copre bene il dipendente"
+    },
+    {
+      "rank": 3,
+      "question_text": "Come mi farai conoscere dalla gente? Come mi visualizzi? Come mi sponsorizzi a livello nazionale?",
+      "frequency": {
+        "count": 11,
+        "percentage": 27.5,
+        "prospect_type": "Visibility-focused"
+      },
+      "linguistic_variants": [
+        "Come ottengo visibilità nazionale?",
+        "Come mi metti sui social?",
+        "Mi metti sulla vostra piattaforma?",
+        "Come fai a farmi conoscere se nessuno mi conosce?",
+        "Quanto costa farsi sponsorizzare?",
+        "Come ottengo clienti da zero?"
+      ],
+      "prospect_profiles": {
+        "unknown_small_town": 6,
+        "zero_digital_presence": 3,
+        "worried_invisibility": 2
+      },
+      "irene_response": {
+        "primary_response": "Tramite i social media. [...faccio vedere gli step mio protocollo...] Tramite l'organico. No, no, tramite i social media. Guarda, facciamo così, ti faccio vedere gli step mio protocollo, così ti spiego anche in base, no, a quello che mi hai detto, come funziona, così hai una visione più [...] Ripeto, eh se mi dai il giusto tempo ti faccio vedere il protocollo, così capisci eh quello di cui sto parlando e cerco di spiegartelo tutto, perché ovviamente detto così non ha senso. [...] Quindi prima gli faccio fare tutto questo, gli faccio fare un processo inorganico, si dice, quindi solo sui social media, poi dopo, se serve sponsorizzo.",
+        "response_tone": "didattica + strutturata",
+        "key_phrases": [
+          "crescita organica prima, investimenti a pagamento dopo",
+          "processo inorganico = social media non pagati",
+          "costruisci personal brand prima di sponsorizzazioni",
+          "niente soldi spesi subito per visibility",
+          "il percorso insegna la strategia di contenuti"
+        ],
+        "cited_transcripts": ["call-farmacisti-lucia-cerquaglia-06-10.md", "call-farmacisti-alice-loom.md"],
+        "effectiveness": "HIGH"
+      },
+      "response_variants": [
+        {
+          "condition": "Prospect da paesino che ha paura di esposizione",
+          "response": "[Irene sottolinea: no influencer = non ti vedi in faccia subito obbligatorio, puoi anche scrivere/articoli prima]"
+        },
+        {
+          "condition": "Prospect pragmatico che vuole risultati veloci",
+          "response": "[Siamo qui, ti insegno la strategia, facciamo crescita organica sui social, poi eventualmente sponsorizzo = zero soldi subito]"
+        }
+      ],
+      "psychology": "Paura dell'invisibilità. Prospect da paesino desidera 'numero nazionale' ma ha paura di esposizione personale. Conflitto tra voglia di clienti e paura di farsi vedere.",
+      "sales_weight": "HIGH - blocco importante per chi viene da zona piccola"
+    },
+    {
+      "rank": 4,
+      "question_text": "Quando avrò il primo cliente? Dopo quanto tempo vedo risultati?",
+      "frequency": {
+        "count": 9,
+        "percentage": 22.5,
+        "prospect_type": "Timeline-focused"
+      },
+      "linguistic_variants": [
+        "Quando avrò il mio primo cliente?",
+        "Dopo 6 mesi ho clienti?",
+        "Quanto tempo prima di guadagnare?",
+        "Quando inizia la ROI?",
+        "Nei primi 3 mesi cosa succede?"
+      ],
+      "prospect_profiles": {
+        "economically_pressed": 5,
+        "timeline_anxious": 3,
+        "previous_failure": 1
+      },
+      "irene_response": {
+        "primary_response": "Allora, io di solito per chi parte da zero. 2 [mesi]. Non di più, ne di meno, soprattutto, ne di meno. Perché ovviamente c'è tutt' una costruzione disotto, perché io ti prendo da 0 e ti creo un'attività digitale, caro un'attività digitale per un professionista sanitario che non conosce tutti, non è tutti gli stumi e non conosce il modo del digitale, per me significa insegnarti le cose, metterle in pratica insieme a te. [...] Quindi nei primi tempi nel senso che non esserzono in guadagni erai Prima di tempo io sono molto gruda però nella costruzione iniziale ovviamente il guadagno Pradami facciamo i privi tre mesi, magari se siamo bravissime, se siamo bravissime, riusciamo a prendere con le 2-3 persone in colfluenza, vediamo veramente brave, però diciamo, mettiamo caso che ci impegniamo in una sola che da un per costo di 150 euro allora e obvio che magari Mari, Missa, diciamo sul tuo strato conto, non dà la differenza di uno sto [stipendio].",
+        "response_tone": "realista + rassicurante",
+        "key_phrases": [
+          "6 mesi per una base solida",
+          "primi 3 mesi: costruzione, pochi guadagni",
+          "2-3 clienti in 3 mesi se bravi",
+          "primo cliente possibile già nel primo mese",
+          "non è veloce, è strutturato"
+        ],
+        "cited_transcripts": ["call-farmacisti-alice-loom.md", "call-farmacisti-alessandra-porcu-2026-06.md"],
+        "effectiveness": "MEDIUM - Irene è realista ma molti prospect rimangono incerti sulla velocità"
+      },
+      "response_variants": [
+        {
+          "condition": "Prospect con urgenza economica",
+          "response": "[Irene enfatizza: primo mese possibile primo cliente, ma magari 2-3 mesi per avere guadagno 'sentibile'. Non promette strappi.]"
+        },
+        {
+          "condition": "Prospect paziente/maturo",
+          "response": "[Risposta completa: 6 mesi per business solido, accepta il timing, focus è sul valore della struttura]"
+        }
+      ],
+      "psychology": "Ansia sulla 'quando si torna in pari'. Chi ha lasciato il lavoro o ha rischio economico vede il percorso come investimento con deadline di ROI.",
+      "sales_weight": "MEDIUM - non è blocco definitivo ma è preoccupazione ricorrente"
+    },
+    {
+      "rank": 5,
+      "question_text": "Sono timida / Non voglio fare video / Non mi piace espormi online",
+      "frequency": {
+        "count": 10,
+        "percentage": 25,
+        "prospect_type": "Fear-based"
+      },
+      "linguistic_variants": [
+        "Non mi piace fare video",
+        "Sono introversa, non riesco a mettermi in faccia",
+        "Nel mio paesino tutti mi conoscono, non posso...",
+        "Non sono una video maker",
+        "Mi spaventa l'esposizione online",
+        "Come faccio a mostrarmi?"
+      ],
+      "prospect_profiles": {
+        "rural_introverted": 6,
+        "small_town_fear": 3,
+        "age_45plus": 2
+      },
+      "irene_response": {
+        "primary_response": "Io ti aiuterò a superarle, perché come lo supera di io l'insegno a superarle. Cadle capisco ben, e non nessuna di voi di più gli udici anzi, le accorvo e chi accompagna, diciamo, nel nel superarle però mi metto anche nella da parte 2 e ti dico per iniziare noi possiamo trovare il social che più di di si addice nel momento di cui sei perché per esempio anche non volevo fare il video è non è iniziato sull'inché d'immasso. Il link di NUNSO CELL che è prevalentemente per provisionisti e con un solo post ho fatto 40.000 la visualizzazione che sull'inché d'inforse su tutte le persone iscritte sull'inché d'in praticamente e quindi insomma dall'io. se potrei iniziare anche a fare qualche video e potrei iniziare anche a dire qualcosa più quindi io ti, Signiero anche la parte della scrittura che non è scrive un articolo scientifico come il video",
+        "response_tone": "empatica + rassicurante + propositiva",
+        "key_phrases": [
+          "ti aiuto a superare la paura",
+          "non è obbligatorio iniziare con video",
+          "puoi iniziare con scrittura (LinkedIn, articoli)",
+          "il tuo stile naturale, non forzato",
+          "accompagnamento: qui non sei sola"
+        ],
+        "cited_transcripts": ["call-farmacisti-alice-loom.md", "call-farmacisti-angelica-loom.md", "call-farmacisti-alessandra-porcu-2026-06.md"],
+        "effectiveness": "VERY HIGH - Irene la gestisce con grande empatia e offre percorso alternativo"
+      },
+      "response_variants": [
+        {
+          "condition": "Prospect da paesino/non vuole che lo vedano",
+          "response": "[Irene: puoi usare avatar, puoi scrivere, non è obbligatorio il tuo viso. LinkedIn per professionisti va benissimo. Accompagnamento passo passo]"
+        },
+        {
+          "condition": "Prospect che dice 'non sono video maker'",
+          "response": "[Non devi essere brava: insegno io. Ti do le structure, gli script, i tips. Facciamo insieme i primi video.]"
+        }
+      ],
+      "psychology": "Paura genuina di esposizione sociale. Per chi viene da paesino: paura che 'tutti mi vedano e mi giudichino'. Blocco emotivo vero.",
+      "sales_weight": "HIGH - è il blocco emotivo principale per 25% del pool"
+    },
+    {
+      "rank": 6,
+      "question_text": "Quanto dura il percorso? Quante ore a settimana? Ci riuscirò con il lavoro in farmacia?",
+      "frequency": {
+        "count": 14,
+        "percentage": 35,
+        "prospect_type": "Time-constrained"
+      },
+      "linguistic_variants": [
+        "Sei mesi è tanto?",
+        "Quante ore devo dedicare?",
+        "Lavoro 40 ore, posso davvero seguire?",
+        "Le lezioni sono in direct o registrate?",
+        "Posso gestire insieme a 40 ore in farmacia?"
+      ],
+      "prospect_profiles": {
+        "full_time_pharmacist": 9,
+        "mothers_multi_task": 3,
+        "time_stressed": 2
+      },
+      "irene_response": {
+        "primary_response": "Allora, io di solito per chi parte da zero. 2 [mesi per base solida]. Non di più, ne di meno... Io praticamente ogni mese o, un corso dedicato... ogni due settimane ci prendiamo un'ore mezza. Quindi uno re mezza dove nella prima mezz'ora prendiamo il corso... e io ti rispondo poi... Quindi è più un La storia pratica insieme, praticamente, e quindi dicevi a settimana. Quante ore sono? Diciamo che dipende dal corso menzile, allora il corso di solito sono quattro viorezioni una settimana e la consulenza con me sono ogni due settimane, quindi sono due al medro in una red mezza, è sempre così più o meno diciamo.",
+        "response_tone": "strutturata + rassicurante",
+        "key_phrases": [
+          "6 mesi è il minimo necessario, non di più né di meno",
+          "1-2 ore a settimana massimo (consultazione + corso)",
+          "tutto registrato, puoi rivedere quando vuoi",
+          "ho strutturato per chi lavora 40 ore",
+          "non è massacrante perché è pratico"
+        ],
+        "cited_transcripts": ["call-farmacisti-alice-loom.md", "call-farmacisti-alessandra-porcu-2026-06.md", "call-farmacisti-gianna-04-20.md"],
+        "effectiveness": "VERY HIGH - Irene rassicura bene che è gestibile"
+      },
+      "response_variants": [
+        {
+          "condition": "Prospect con 40 ore spezzato (mattina/sera)",
+          "response": "[Irene: 1 ora ogni 2 settimane con me + corsi registrati = totale 1-2 ore/settimana. Puoi fare sera o weekend]"
+        },
+        {
+          "condition": "Prospect con turni e poco tempo",
+          "response": "[Risposta enfatica: ho strutturato APPOSITAMENTE per i farmacisti con 40 ore, non è un corso generico]"
+        }
+      ],
+      "psychology": "Paura reale di non avere tempo. Farmacista moderno ha 40 ore spezzate (mattina/sera) + famiglia. È stressato. Bisogna rassicurare che non è 'un altro corso massacrante'.",
+      "sales_weight": "HIGH - è il blocco principale per la chiusura insieme al prezzo"
+    },
+    {
+      "rank": 7,
+      "question_text": "Qual è il prezzo esatto? Posso pagare in rate? È un investimento che posso permettermi?",
+      "frequency": {
+        "count": 13,
+        "percentage": 32.5,
+        "prospect_type": "Budget-conscious"
+      },
+      "linguistic_variants": [
+        "Quanto costa il percorso?",
+        "Posso dividerlo in rate?",
+        "Ho uno stipendio di 1400€, come lo pago?",
+        "Mi puoi fare uno sconto?",
+        "Vale la pena l'investimento?"
+      ],
+      "prospect_profiles": {
+        "low_income_stressed": 8,
+        "unsure_roi": 3,
+        "negotiator": 2
+      },
+      "irene_response": {
+        "primary_response": "Allora, io vi ho chiesto. Io mi prendo questa è un po' una cosa che io definisco un po' con ossitiva nel senso che capisco se ci sono tutti preso posti per lavorare insieme, quanto durere, bel percorso e quanto si è all'inizio... nel caso tuo principalmente quello che Voi fare tu è un percorso brante molto basic che non ti andrebbe ad ottenere nessuno risultato... perché se la tua idea è quella di costruire qualcosa di tuo line che ti permetta di lavorare da rimuoto e di fare le consulenze in un rambito specifico, davvero che il percorso mi sento di conduzionare... Si arti al momento che ho da se inizi, quindi volo completo... il percorso da se in è sempre intorno ai 2000 euro... però dato che, diciamo, magari, Se vuoi farmi altre domande, se vuoi approfondire un po' di più... possiamo prendere comunque un secondo appuntamento tranquillamente.",
+        "response_tone": "personale + negoziante + trasparente",
+        "key_phrases": [
+          "il costo è €2000-2500, non fisso perché personalizzato",
+          "posso dividerlo in rate/tranches",
+          "pago acconto per bloccare il posto, poi due tranche",
+          "il valore è €10.000, ma scontato a €2500",
+          "se mi credi, investi; se non mi credi, aspetta"
+        ],
+        "cited_transcripts": ["call-farmacisti-alice-loom.md", "call-farmacisti-alessandra-porcu-2026-06.md", "call-farmacisti-lucia-cerquaglia-06-10.md"],
+        "effectiveness": "MEDIUM - Irene offre flessibilità ma il prezzo è ancora blocco per chi guadagna 1400€"
+      },
+      "response_variants": [
+        {
+          "condition": "Prospect con poco reddito, need ROI chiaro",
+          "response": "[Irene: investi €2500 una volta, non è soglia mensile. Se fai anche solo 3 clienti a €150 = ROI in 5-6 mesi. Semplice.]"
+        },
+        {
+          "condition": "Prospect che negozia il prezzo",
+          "response": "[Irene: ho già scontato da €10k a €2.5k. È il prezzo. Se non hai fiducia, aspettiamo tempo. Non sconto ulteriore = mantiene valore.]"
+        },
+        {
+          "condition": "Prospect che vuol pagare in rate",
+          "response": "[Sì, puoi: acconto per bloccare il posto, poi il resto in due tranches durante il percorso.]"
+        }
+      ],
+      "psychology": "Farmacisti hanno stipendi 1400-2000€. €2500 è significativo (1-2 mesi di stipendio). Paura di investire senza ROI certo. Ma anche paura di perdersi opportunità se non investe.",
+      "sales_weight": "CRITICAL - è il blocco definitivo per chi non ha liquidità o trust"
+    },
+    {
+      "rank": 8,
+      "question_text": "Mi garantisci risultati? Come so che funziona davvero? Cosa se non mi conviene?",
+      "frequency": {
+        "count": 8,
+        "percentage": 20,
+        "prospect_type": "Trust-skeptical"
+      },
+      "linguistic_variants": [
+        "Mi garantisci che ottengo risultati?",
+        "Posso fidarmi di te?",
+        "Come so che non stai prendendo i soldi e basta?",
+        "Cosa se dopo non ho clienti?",
+        "Mi puoi mostrare i risultati di altri farmacisti?",
+        "Ci sono un sacco di venditori di fumo..."
+      ],
+      "prospect_profiles": {
+        "burned_before": 5,
+        "high_distrust": 2,
+        "previous_bad_experience": 1
+      },
+      "irene_response": {
+        "primary_response": "Ok. questa cosa e non so da che cosa l'hai dedotta, solo perché mi mi hai visto tramite telefono... M. Lucia Cerquaglia: Sì, certo. Cioè, purtroppo, come sai meglio di me, i venditori di fumo eh oggi ce ne stanno a bizzeff. Quindi non è che io stia dicendo che tu stai prendendo troppo per le specializzazioni che hai o percorso e lavoro che hai fatto, ma sto dicendo che io prima di fidarmi di una persona e dargli dei soldi, insomma, ce ne passa, ecco, del tempo. [...] Io t'ho detto già come la penso, proprio schietto e sincer. Secondo me non sarà così. [...] Io questo percorso l'ho strutturato per farmacisti dipendenti che fanno 40 ore full immersion. Durante la settimana loro ci dedicano un'ora, massimo 2 ore. [...] perché io questo percorso l'ho fatto per tanti anni gratis per i miei colleghi, cioè quindi perché non poter aiutare quando posso?",
+        "response_tone": "difensiva + sincera + personale",
+        "key_phrases": [
+          "Io ci metto la faccia, pochi lo fanno",
+          "I miei farmacisti ottengono risultati (puoi verificare)",
+          "Ho investito €10k+ di formazione personale in questo",
+          "Lo ho fatto gratis per anni, adesso non è gratis ma è onesto",
+          "Se non mi credi, aspettiamo che decidi. Non forzo."
+        ],
+        "cited_transcripts": ["call-farmacisti-lucia-cerquaglia-06-10.md", "call-farmacisti-monica-05-19.md"],
+        "effectiveness": "MEDIUM - Irene è sincera ma la fiducia rimane il blocco. Lucia comunque rifiuta."
+      },
+      "response_variants": [
+        {
+          "condition": "Prospect che cita 'venditori di fumo'",
+          "response": "[Irene: capisco lo scetticismo. Io non nascondo niente. Ti faccio vedere tutto. Poi decidi. Ma non posso cambiarti il pregiudizio se ce l'hai già.]"
+        },
+        {
+          "condition": "Prospect che chiede risultati di altri farmacisti",
+          "response": "[Non può condividere dati altrui per privacy, ma assicura che i suoi farmacisti hanno risultati e li contatterà se vuoi verificare.]"
+        }
+      ],
+      "psychology": "Scetticismo genuino. Prospect ha avuto esperienze negative con corsi/coach online. Irene è diretta e non promette miracoli, il che è rassicurante ma non vince sempre lo scetticismo.",
+      "sales_weight": "MEDIUM - è un filtro di self-selection, non tutti superano questo blocco"
+    },
+    {
+      "rank": 9,
+      "question_text": "In cosa dovrei specializzarmi? Quale argomento scelgo? Qual è il mio principio attivo?",
+      "frequency": {
+        "count": 12,
+        "percentage": 30,
+        "prospect_type": "Procesual-curious"
+      },
+      "linguistic_variants": [
+        "Mi piace tutto, come scelgo?",
+        "Quale argomento sarebbe più remunerativo?",
+        "Come trovo il mio 'principio attivo'?",
+        "Che nicchia devo scegliere?",
+        "Tu come mi aiuti a trovarlo?"
+      ],
+      "prospect_profiles": {
+        "multi_skilled": 6,
+        "curious_structured": 4,
+        "indecisive": 2
+      },
+      "irene_response": {
+        "primary_response": "e quindi per ogni farmacista va a scoprire insieme a lui quale è il principi attimo quindi quale è quella cosa l'argomento che ti appassiona, che possiamo specializzarci, portarlo friso o cello nel mondo del digitale e rende all'interesse specializzata in Ix. [...] Primo modulo del primo mese... Questo è una cosa che decidiamo insieme, ci lavoriamo insieme e vediamo tutta la parte anche di preparazione mentale che ha il farmacista... Noi quello che facciamo qua è trovare il canale digitale per il tuo pubblico, perché troveremo un target. Quindi cosa significa un target? Un gruppo risetto di persone che ha bisogno della tua consulenza e che senza la tua consulenza non può risolvere.",
+        "response_tone": "strutturata + didattica",
+        "key_phrases": [
+          "primo step: trovare il 'principio attivo' (la tua specializzazione core)",
+          "deve appassionarti, non scegliere solo per soldi",
+          "definiamo insieme il target specifico",
+          "più specializzato = meno competitor = prezzo più alto",
+          "non è 'tutto' ma un'area focus ben definita"
+        ],
+        "cited_transcripts": ["call-farmacisti-alice-loom.md", "call-farmacisti-alessandra-porcu-2026-06.md"],
+        "effectiveness": "VERY HIGH - Irene ha una metodologia chiara (ADME-inspired) e la spiega bene"
+      },
+      "response_variants": [
+        {
+          "condition": "Prospect che non sa cosa fare",
+          "response": "[Irene: ti do un test con domande per aiutarti a identificare subito il micro-argomento. Poi personalizziamo tutto.]"
+        },
+        {
+          "condition": "Prospect che sa di cosa vuol parlare",
+          "response": "[Perfetto. Ora lo rifiniremo nel percorso per renderlo 'vendibile' online. È il primo step del protocollo.]"
+        }
+      ],
+      "psychology": "Curiosità processuale: non è un blocco ma una domanda naturale. Prospect vuole capire come funziona il sistema. Irene la gestisce come opportunità per mostrare struttura.",
+      "sales_weight": "MEDIUM - non blocca, ma orienta il resto del percorso"
+    },
+    {
+      "rank": 10,
+      "question_text": "Come funziona esattamente il percorso? Quali sono gli step? Qual è la struttura?",
+      "frequency": {
+        "count": 10,
+        "percentage": 25,
+        "prospect_type": "Detail-oriented"
+      },
+      "linguistic_variants": [
+        "Come è strutturato il percorso?",
+        "Quali sono i sei moduli?",
+        "Cosa insegni mese per mese?",
+        "Come ti contatto se ho dubbi?",
+        "Qual è la parte pratica vs teoria?"
+      ],
+      "prospect_profiles": {
+        "perfezionista": 5,
+        "structured_mind": 4,
+        "engineer_type": 1
+      },
+      "irene_response": {
+        "primary_response": "Il mio protocollo, quindi il percorso che io faccio col farmacista è molto scientifico, assomiglia all'adme, no? perché l'ho proprio creato proprio come l'adme che conosciamo benissimo... perché sono cose, vedi come ti dico, in maniera molto semplice, però sono cose difficili da imparare subito e da apprendere subito, soprattutto perché è un mondo diverso che il farmacista non conosce e quindi il protocollo farma vari step, proprio come eh il processo farmacologico, perché farmacoinetico... Il primo step è la formulazione del principio attivo... Poi l'assorbimento, andiamo veloci, noi quello che facciamo qua è trovare il canale digitale per il tuo pubblico... Poi qua io ti faccio fare proprio un pad, cioè un piano editoriale scientifico... E poi c'è la parte di trasformarlo in un cliente... E poi l'azione terapeutica che cos'è?",
+        "response_tone": "scientifica + strutturata + esaustiva",
+        "key_phrases": [
+          "protocollo = modello ADME farmacologico, trasferito al business",
+          "mese 1: principio attivo (specializzazione)",
+          "mese 2-3: assorbimento (target, copywriting, social strategy)",
+          "mese 4-5: metabolizzazione (offerta, vendita etica)",
+          "mese 6: azione terapeutica (il cliente, relazione duratura)",
+          "consulenze 1-1 ogni 2 settimane + masterclass mensili + Telegram h24"
+        ],
+        "cited_transcripts": ["call-farmacisti-lucia-cerquaglia-06-10.md", "call-farmacisti-alice-loom.md", "call-farmacisti-camilla-2026-06.md"],
+        "effectiveness": "VERY HIGH - Irene usa una metafora scientifica brillante (ADME) che convince i farmacisti"
+      },
+      "response_variants": [
+        {
+          "condition": "Prospect che vuol dettagli completi subito",
+          "response": "[Irene fa una presentazione schermo condiviso con slide step-by-step. Ogni modulo ha descrizione, valore, durata.]"
+        },
+        {
+          "condition": "Prospect che è visuale e pratico",
+          "response": "[Ti mostro gli step concreti. Prendi anche il piano editoriale pre-fatto (bonus). Vedi tutto come funziona prima di dire sì.]"
+        }
+      ],
+      "psychology": "Bisogno di comprensione completa prima di committarsi. Prospect vuole sapere esattamente cosa compra. Non è scetticismo, è prudenza.",
+      "sales_weight": "MEDIUM - domanda che accelera la decision una volta compresa la struttura"
+    }
+  ],
+  "key_insights": {
+    "top_3_blockers": [
+      "Prezzo (€2500 è 1-2 stipendi mensili)",
+      "Fiducia/Trust (venditori di fumo precedenti)",
+      "Tempo disponibile (40 ore in farmacia + famiglia)"
+    ],
+    "most_effective_irene_responses": [
+      "Analogia medico specialista vs generico (converte dubbio su prezzo)",
+      "Metodologia ADME trasferita (converte scettici sulla struttura)",
+      "Empatia + accompagnamento sulla paura video (converte introvert)"
+    ],
+    "prospect_self_selection": {
+      "accept_rate": "~35% (14/40 call)",
+      "reject_rate": "~65% (26/40 call) - per: budget, time, trust, non-readiness",
+      "conversion_bottleneck": "PRICE + TRUST. Non blocchi tecnici."
+    },
+    "saturation_point": "File 15-18. Dopo, solo ripetizioni.",
+    "verbatim_quality": "ASR quality bassa in raw, ma Gemini summary accurata. Verbatim estratti da Gemini notes quando disponibile, altrimenti da trascrizione grezza."
+  },
+  "recommendations": {
+    "for_sales_team": [
+      "Usa analogia ADME: è il vostro miglior convertitore di struttura-skeptics",
+      "Prezzo: enfatizza rate flexible + ROI a 6 mesi. Non sconto ulteriore = mantiene valore.",
+      "Video-fear: offri da subito alternativa (LinkedIn, articoli) = destigmatizza.",
+      "Trust: 'ti mostro risultati di altri farmacisti (anonimo)' o test secondappointment = vince dubbio.",
+      "Time: dì subito: '1-2 ore/settimana, registrato, puoi rivedere'. Non è massacrante."
+    ],
+    "for_irene_refinement": [
+      "Crea documento PDF con risultati offuscati di farmacisti (social proof).",
+      "Affida aspetti fiscali a commercialista da citare subito (colma il gap su 'devo informarmi').",
+      "Sviluppa 'video-fear module' standalone che puoi inviare pre-call (destigmatizza).",
+      "Crea calculator: '€2500 investimento → 3 clienti a €150 = €450/mese ricorrente in 2-3 mesi'."
+    ]
+  }
+}
