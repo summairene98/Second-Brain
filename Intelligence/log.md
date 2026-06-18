@@ -7,6 +7,28 @@ description: Cronologia delle ingestioni e aggiornamenti wiki
 
 Registro cronologico delle operazioni di ingestione (source → wiki) e aggiornamenti significativi al layer wiki.
 
+## 2026-06-18
+
+**[2026-06-18 14:30] build | market-research | icp-dettagliato | Manuale ICP Farmacisti Target — Creato**
+
+Analisi completa del profilo cliente ideale basata su 5 trascrizioni + Manuale Obiezioni.
+
+**Creato:** `Intelligence/market/icp-farmacisti-target-dettagliato.md`
+
+**Componenti:**
+1. Profilo demografico (45-55, dipendenti, farmacisti con 15-25 anni esperienza)
+2. Psicografia — il vero dolore (invisibilità professionale + ingiustizia economica + perdita autonomia)
+3. 5 paure ricorrenti mappate (OnlineFailure, Privacy, Titolare, Economia, Credibilità)
+4. 8 obiezioni principali + pattern risolutivo efficace
+5. Customer journey completo (Consapevolezza → Considerazione → Decisione → Azione)
+6. 4 segmenti micro-ICP (L'Invisibile Consapevole, Il Sommerso Doubtful, L'Emergenza Temporale, L'Esploratore Razionale)
+7. Red flags: chi NON è il target
+8. Winning playbook: call structure, obiezioni aspettate, close pattern
+
+**Use case:** Guida per Mario, Salvatore, Elvira per riconoscere, comprendere e convertire il target con linguaggio empatico e realistico.
+
+---
+
 ## 2026-06-17
 
 **[2026-06-17 06:45] ingest | transcript-notes | google-drive-sync | Trascrizioni Gemini sincronizzate da Google Drive**
