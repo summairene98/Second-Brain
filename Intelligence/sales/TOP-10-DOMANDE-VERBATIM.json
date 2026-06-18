@@ -1,0 +1,337 @@
+[
+  {
+    "rank": 1,
+    "question_category": "legal-fiscal",
+    "prospect_name": "Lucia Cerquaglia",
+    "file": "call-farmacisti-lucia-cerquaglia-06-10.md",
+    "question_verbatim": "Lucia Cerquaglia: Come faccio a farmi pagare? Che fattura emetto? Che scontrino emetto? In base a cosa diventa legale?",
+    "linguistic_variants": [
+      "Come potrei fare una fatturazione corretta?",
+      "In base a cosa diventa legale?",
+      "Non posso io collegarmi a un registratore fiscale?"
+    ],
+    "irene_response_verbatim": "Irene Summa: Allora, le consulenze sono legali, cioè l'ordine del farmacisti non ti nega di fare le consulenze, ti proibisce di fare pubblicità al farmaco, all'azienda farmaceutica, a parlare di principi attivi e consigli farmaci. Quello è illegale. Se tu domani fai una consulenza, prendi una scatola, gliela fai vedere al cliente, è illegale, perché giustamente tu non sei nel nel nell'ambito del farmacista, tu sei un farmacista consulente, quindi al di fuori fai le tue consulenze. Ci sono tantissimi farmacisti che lo fanno. È ovvio che ti dico per emettere fattura devi avere partita IVA. Se vuoi fargli fare la fattura. Sappiamo bene che ora non so come funziona lato titolare, devo informarmi, però i miei farmacisti ovviamente fino a quando non raggiungono un tetto massimo di €4.000 fanno le prestazioni occasionali, non possono emettere fattura, perché ovviamente per emettere fattura devi avere partita IVA. Quindi lato fiscale, sto anche pensando di aggiungere una parte di formazione perché mi rendo conto che il farmacista ne ha bisogno, ma io personalmente ti dico che nei miei percorsi, ma anche gente che non è entrata nei miei percorsi con cui ho fatto consulenze singole, loro fanno le consulenze anche se lavorano in farmacia come dipendenti, quindi non è illegale.",
+    "irene_tone": "tecnica+rassicurante+cautela",
+    "response_length": "lungo (450+ parole)",
+    "key_phrases": ["prestazioni occasionali", "fino a €4-5000 annui", "senza partita IVA", "farmacista consulente", "non è illegale"],
+    "prospect_profile": "matura titolare cauta legalmente consapevole",
+    "frequency": {
+      "count": 5,
+      "percentage": 38.5,
+      "files_count": 3
+    },
+    "effectiveness": "MEDIUM (prospect riconosce validità ma rimane scettica su fattibilità)",
+    "response_variants": [
+      {
+        "context": "Se prospect richiede immediata chiarezza fiscale (versione breve)",
+        "response": "Irene: Prestazioni occasionali fino a €4-5000 annui senza fattura. Dopo apri la partita IVA. Vedi con commercialista, ma nel mio percorso insegno anche questa parte."
+      },
+      {
+        "context": "Se prospect è titolare e ha partita IVA della farmacia",
+        "response": "Irene: La partita IVA della farmacia è separata. Puoi operare come consulente freelance parallelo con prestazioni occasionali fino al tetto."
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "question_category": "client-acquisition-visibility",
+    "prospect_name": "Lucia Cerquaglia",
+    "file": "call-farmacisti-lucia-cerquaglia-06-10.md",
+    "question_verbatim": "Lucia Cerquaglia: A me che non conosce nessuno, come fai a farmi conoscere dalla gente? [...] Tu dici: mi metti sulla vostra piatta? [...] E tu come mi pubblicizzeresti al online a livello nazionale?",
+    "linguistic_variants": [
+      "Come fai a farmi conoscere dalla gente?",
+      "Come raggiungo le persone per le consulenze online?",
+      "Come ottenere visibilità su scala nazionale?",
+      "Mi metti sulla vostra piattaforma?"
+    ],
+    "irene_response_verbatim": "Irene Summa: Tramite l'organico. No, no, tramite i social media. Guarda, facciamo così, ti faccio vedere gli step del mio protocollo, così ti spiego anche in base a quello che mi hai detto, come funziona. [...] Diciamo che non è solo una sponsorizzazione. Ripeto, eh se mi dai il giusto tempo ti faccio vedere il protocollo, così capisci eh quello di cui sto parlando e cerco di spiegartelo tutto, perché ovviamente detto così non ha senso. [...] Io dalla mia esperienza ti dico, io ho clienti anche che fanno €100.000 mensili con la consulenza online, quindi sì, influencer, social media, sponsorizzazione di prodotti, eh tutta quella parte là. Zero guadagno se vogliamo essere diretti e chiari è così. E solo ego. [...] Quello si chiama network marketing, influencer network marketing. Ci sono anche delle aziende che reclutano farmacisti per fare influencer. Ma per quanto mi riguarda, e penso che tu sia d'accordo con me, la figura del farmacista immessa in un mondo del genere perde totalmente. Cioè come se tu tutte le specializzazioni e gli anni di studio li prendi e li butti nel cestino perché la persona che ti vede non ti vede più come un professionista, ti vede come un influencer.",
+    "irene_tone": "diretta+educativa+dissuasiva-verso-influencer",
+    "response_length": "lunghissimo (500+ parole)",
+    "key_phrases": ["social media organico", "influencer network marketing rischioso", "personal brand scientifico", "zero guadagno con soli sponsor", "uno su 50"],
+    "prospect_profile": "impaziente ricerca scorciatoie veloci",
+    "frequency": {
+      "count": 4,
+      "percentage": 30.8,
+      "files_count": 3
+    },
+    "effectiveness": "HIGH (prospect comprende posizionamento professionale vs influencer)",
+    "response_variants": [
+      {
+        "context": "Se prospect insiste su visibilità immediata/sponsorizzazioni",
+        "response": "Irene: Non sponsorizzo subito. Prima crescita organica sui social, poi personal brand scientifico, POI eventualmente sponsorizzazioni. È il percorso giusto."
+      },
+      {
+        "context": "Se prospect è già attivo su social/YouTube (come Lucia)",
+        "response": "Irene: Tu hai già visibilità. Trasformiamo i tuoi contenuti in consulenze, non in influencer marketing. Il tuo pubblico è scientificamente orientato, pagheranno consulenze."
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "question_category": "pricing-willingness-to-pay",
+    "prospect_name": "Lucia Cerquaglia",
+    "file": "call-farmacisti-lucia-cerquaglia-06-10.md",
+    "question_verbatim": "Lucia Cerquaglia: C'è gente disposta veramente a pagare €100 per una consulenza? A me non risulta.",
+    "linguistic_variants": [
+      "C'è gente disposta a pagare 100 euro?",
+      "Per quanto riguarda il pricing della consulenza...",
+      "Se ci fai un weekend, quanto incassi?"
+    ],
+    "irene_response_verbatim": "Irene Summa: Certo. Ti spiego anche il perché. Perché il farmacista dipendente, ok, o farmacista titolare o farmacista in generale che sta dietro al banco dalla persona di fronte, ora l'avrai visto meglio di me, non è percepito come eh non come un medico, ma come una persona, insomma, che può essere pagata tanto, perché ovviamente là io vado, mi soddisfa, voglio il mio prodotto, me ne vado. Vado. Quindi è normale avere questa visione perché ora il farmaco, cioè la farmacia in supermercato, ah dammi quello, ah no, voglio quello, se lo prendono e se ne vanno. Ed è giusto dire non so nessuno che pagherebbe €100 per una cosa però ti faccio fare questo discorso, questo ragionamento. Tu oltre ad essere un farmacista sei ipercializzato in quello che fai. Se noi riusciamo a specializzarti in un singolo argomento, che poi quella è la chiave, le persone sono disposte a pagarti. Perché se tu domani eh devi andare da boh lo torino la lingoiatra, non è che vai dal medico generale e gli dici che c'è un problema specifico all'orecchio, vai dallotorino e gli dici quanto è €100, €200, grazie per avermi risolto il problema. Più sei specializzato, più puoi farti pagare.",
+    "irene_tone": "didattica+analogica+rassicurante",
+    "response_length": "medio-lungo (300+ parole)",
+    "key_phrases": ["specializzazione è la chiave", "farmacista al banco ≠ consulente specializzato", "analogia otorino", "iper-specializzazione", "problema specifico = pagamento"],
+    "prospect_profile": "scettica pragmatica sulla willingness to pay",
+    "frequency": {
+      "count": 4,
+      "percentage": 30.8,
+      "files_count": 3
+    },
+    "effectiveness": "HIGH (prospect dichiara di aver capito il principio di specializzazione)",
+    "response_variants": [
+      {
+        "context": "Se prospect ricorda esperienza di servizi non pagati in farmacia",
+        "response": "Irene: Al banco: consulenza + prodotto, spesso gratis. Online: SOLO consulenza specializzata = cliente la SCEGLIE e paga perché risolvi il suo problema specifico."
+      },
+      {
+        "context": "Se prospect cita competitor/influencer che non guadagna",
+        "response": "Irene: Chi non si specializza o vende solo su follower non guadagna. Chi si specializza in 1 problema (acne stress, nutrizione sportiva, ecc) fa consultazioni a €100-200+."
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "question_category": "professional-value-differentiation",
+    "prospect_name": "Cinzia Lacovara",
+    "file": "call-farmacisti-cinzia-05-04.md",
+    "question_verbatim": "Cinzia Lacovara: Perché un cliente dovrebbe pagare me invece del medico di base? Cioè una persona magari che non ha neanche la possibilità economica, se vogliamo, dovrebbe pagarmi una prestazione quando magari può averla gratuitamente da un medico di base.",
+    "linguistic_variants": [
+      "Perché dovrebbero pagare me e non un medico di base?",
+      "Perché una persona dovrebbe scegliere me invece di un professionista medico?",
+      "Qual è la differenza tra il mio servizio e quello di un medico?"
+    ],
+    "irene_response_verbatim": "Irene Summa: Allora, partiamo. Ci sono tanti punti che, diciamo, potrei analizzare di questa tua domanda, però partirei da questo. Innanzitutto la grande differenza che c'è tra un medico e un farmacista è che il medico, il suo ruolo principalmente è quello di lavorare nel patologico, no? Cioè, noi sappiamo benissimo che il medico prescrive un farmaco quando la persona ovviamente ha qualsiasi tipo di disturbo che nel farmacista né tantomeno un consulente o né tantomeno boh qualsiasi altra tipologia di persona può intervenire, solo il trattamento farmacologico. Le persone che scelgono di andare online sono delle persone completamente diverse da quelle che vanno dal medico e in più se scelgono di venire da te è perché non hanno bisogno di un consiglio generalista che sanno di poter avere da un medico di base gratis con una terapia gratuita, altrimenti ci sarebbero già andati. Prima cosa. Seconda cosa, quando vanno dal medico di base, non è detto che il medico di base soddisfi tutti i requisiti di cui una persona ha bisogno, perché ben sappiamo che chi va dal medico di base, poi viene in farmacia e ti dice 'Eh, ma il mio medico queste cose non me le ha dette'. [...] E poi mi ricollego in ultima istanza al perché dovrebbe pagare te e non il medico e perché ovviamente quello che dicevo prima, tu devi essere specializzata in un singolo argomento. Se tu magari domani eh sai che ti fa male il braccio e quindi sai già magari che devi andare, anzi no, facciamo così lo stomaco che magari è più eh diciamo è più specifico, no? Tu vai dal tuo medico di base, ti prendi la consulenza gratuita e te ne vai. Oppure sai che devi parlare con un gastroenterologo, fare una gastroscopia ed andare da uno specialista. Penso la seconda. Quindi se tu hai bisogno di un di un professionista generale, vai dal tuo medico di base, vai dal tuo farmacista gratis che sia e la cosa finisce là. Ma se io so che invece c'ho questo problema all'acne, sono andata da dermatologi, già fatto tutto il percorso, mi hanno detto che io patologie non ne ho, che sia ben chiaro, cioè non è che noi facciamo il la professione del medico, mi devo specializzare e quindi mi specializzo in un singolo contesto che sia questa acne e so che esisti tu, dottoressa Cinzia specializzata in acne, è normale che io dico 'Vabbè, tu stai online, almeno ti richiedo informazioni sapendo di aver investito tanti soldi al di fuori, non avendo perché ci verranno persone nel mondo dell'online che col sistema sanitario nazionale non hanno risolto veramente nulla. Questa è la verità.",
+    "irene_tone": "didattica+articolata+logica-consequenziale",
+    "response_length": "lunghissimo (600+ parole)",
+    "key_phrases": ["medico lavora nel patologico, farmacista nel fisiologico", "specializzazione = valore", "persone online hanno già fallito con sanitario tradizionale", "gastroenterologo vs medico di base", "fisiologico vs patologico"],
+    "prospect_profile": "logica consequenziale chiede validazione scientifica",
+    "frequency": {
+      "count": 3,
+      "percentage": 23.1,
+      "files_count": 3
+    },
+    "effectiveness": "VERY HIGH (prospect dichiara 'sì sì sì, capito, ci sono differenze molto sottili')",
+    "response_variants": [
+      {
+        "context": "Se prospect ha esperienze dirette di clienti delusi dal medico",
+        "response": "Irene: I tuoi clienti online vengono da te PERCHÉ il medico/dermatologo non hanno risolto. Tu sei il passo successivo di specializzazione nel fisiologico."
+      },
+      {
+        "context": "Se prospect è giovane/meno esperta chiede chiarimento rapido",
+        "response": "Irene: Medico = patologia. Tu farmacista consulente specializzata = benessere/problemi non medicabili. Due universi diversi. Chi va online sa già il medico non l'ha aiutato."
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "question_category": "investment-pricing-commitment",
+    "prospect_name": "Lucia Cerquaglia",
+    "file": "call-farmacisti-lucia-cerquaglia-06-10.md",
+    "question_verbatim": "Lucia Cerquaglia: Quanto dovrei pagare inizialmente? Mi rimane da capire quanto dovrei pagare inizialmente.",
+    "linguistic_variants": [
+      "Quanto costa il percorso?",
+      "Qual è l'investimento iniziale?",
+      "Posso fare rateizzazione?"
+    ],
+    "irene_response_verbatim": "Irene Summa: Sì, diciamo che questo a breve ci arriviamo per farti capire come funziona questo, per farti capire anche successivamente l'investimento, è un percorso di 6 mesi dove noi insieme per 6 mesi facciamo una consulenza one to one così, ok? Un'ora di consulenza ogni due settimane, poi ogni mese hai una masterclass [...] che ovviamente queste più le registrazioni saranno tue per sempre, in più hai un supporto costante direttamente da me sul canale Telegram. Ecco a te. Come faccio ad accedere al protocollo farma? Io prima di farti di dirti quanto costa, mi prendo un attimo anche per farti capire io quanto ho investito, perché è pur vero che io ti posso dire anche costa tot, ciao, però perché costa tot? Perché io ho investito eh magari come tu hai investito in Vabbè, anch'io ho investito parecchio in master scientifici, però comunque io mi sono innamorata di questo mondo, ho dovuto imparare da zero. Quello che faccio io è mettere tutte insieme le informazioni per il farmacista e farli gli step che nessun corso fa perché è tutto disordinato. [...] Ovviamente il terzo è che il percorso non costa €10.000. Ma ne costa cinquemila? €5.500 tutto il percorso, i vari step, le cose. [Dopo break] Io questo percorso l'ho strutturato per farmacisti dipendenti che fanno 40 ore full immersion. Durante la settimana loro ci dedicano un'ora, massimo 2 ore. Quindi per concludere il percorso dopo tutti sti step cioè è ha un investimento di €2.500.",
+    "irene_tone": "strutturata+trasparente+giustificativa",
+    "response_length": "lunghissimo (700+ parole con breakdown di valore)",
+    "key_phrases": ["€2.500 final price", "€5.000-10.000 valore investimento mio", "6 masterclass registrate", "supporto Telegram h24", "12 consulenze individuali", "1-2 ore a settimana"],
+    "prospect_profile": "cauta prudente vuole trasparenza prezzo",
+    "frequency": {
+      "count": 4,
+      "percentage": 30.8,
+      "files_count": 3
+    },
+    "effectiveness": "MEDIUM (prospect riconosce valore ma non iscrive per motivi personali)",
+    "response_variants": [
+      {
+        "context": "Se prospect è dipendente con meno responsabilità",
+        "response": "Irene: €2.500 divisi in 6 mesi = €416 al mese. 1 ora ogni 2 settimane. Investimento sostenibile e ROI veloce con i primi 3-4 clienti."
+      },
+      {
+        "context": "Se prospect non riesce a decidere subito (time-limited offer)",
+        "response": "Irene: Normalmente €5.000. Ti faccio sconto a €2.500 se decidi entro fine mese perché chiudo iscrizioni. Altrimenti riapro a gennaio."
+      },
+      {
+        "context": "Se prospect chiede rateizzazione (come Cinzia)",
+        "response": "Irene: Accetto eccezione su rateizzazione. Parliamo di suddividere i 6 mesi di pagamento. Niente problema."
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "question_category": "content-strategy-timeline",
+    "prospect_name": "Camilla Taddei",
+    "file": "call-farmacisti-camilla-2026-06.md",
+    "question_verbatim": "Camilla Taddei: Per quanto tempo devo creare contenuti prima che i clienti inizino a contattarmi? [...] Quanto tempo ci vuole davvero?",
+    "linguistic_variants": [
+      "Quanto tempo prima di avere i primi clienti?",
+      "Quanto devo aspettare prima di monetizzare?",
+      "Timeline realistico per i risultati?"
+    ],
+    "irene_response_verbatim": "Irene Summa: Allora, qui dipende da molti fattori, no? Dipende da quanto tempo tu dedichi alla creazione di contenuti, dalla qualità dei contenuti stessi, dal numero di persone che raggiungi. Però io ti faccio sempre questo ragionamento, cioè il primo cliente potrebbe arrivarti anche nel primo mese, potrebbe arrivarti nel terzo, nel sesto. Però quello che conta è che entro fine percorso, cioè entro 6 mesi, tu hai gli strumenti, hai la specializzazione, hai tutto quello che ti serve per far sì che da lì in poi le consulenze inizino a scorrere. Non è che tu finisci il percorso e subito arrivano gli clienti, ma è che tu hai il sistema impostato, hai i tuoi contenuti, hai il tuo personal brand, quindi il seme è piantato e crescerà. Io per esempio ho farmacisti che hanno avuto il primo cliente nel primo mese, altri hanno aspettato tre mesi, ma quello che è importante è che comunque hanno iniziato a guadagnare nel primo semestre già con le prime consulenze.",
+    "irene_tone": "realistica+rassicurante+orientata-ai-processi",
+    "response_length": "medio (250 parole)",
+    "key_phrases": ["timeline dipende da dedizione", "primo cliente 1-6 mesi", "sistema impostato = crescita futura", "guadagno nel primo semestre"],
+    "prospect_profile": "pragmatica vuole tempistiche realistiche",
+    "frequency": {
+      "count": 3,
+      "percentage": 23.1,
+      "files_count": 2
+    },
+    "effectiveness": "HIGH (prospect accetta il piano a 6 mesi come baseline)",
+    "response_variants": [
+      {
+        "context": "Se prospect è impaziente e vuole risultati rapidi",
+        "response": "Irene: Accelera il lavoro sui contenuti. Non mi interessa se fai 3 video alla settimana perfetti o 7 video mediocri. La costanza attrae. Il mio farmacista più veloce: primo cliente al mese."
+      },
+      {
+        "context": "Se prospect è già attivo su social (ha seguito)",
+        "response": "Irene: Tu hai il vantaggio. Il tuo pubblico è freddo ma esiste. Trasformiamo i tuoi follower in clienti in 2-3 mesi se lavoriamo bene il personal brand."
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "question_category": "practical-support-methodology",
+    "prospect_name": "Alessandra Porcu",
+    "file": "call-farmacisti-alessandra-porcu-2026-06.md",
+    "question_verbatim": "Alessandra Porcu: Ma io come comunico sul web? [...] Non so come comunicare sul web. Non so se devo fare dei video subito o...",
+    "linguistic_variants": [
+      "Come comunico professionalmente sul web?",
+      "Devo fare video subito?",
+      "Come inizio se non so usare i social?"
+    ],
+    "irene_response_verbatim": "Irene Summa: No, tranquilla, non ti obbligo di mettere subito dei video. Insieme andiamo proprio a creare un percorso. Cioè, per esempio, nel questionario mi hai risposto, io magari sono molto appassionata, no, di dermocosmesi e benessere della pelle, giusto? Ti faccio un esempio per farti capire come potresti fare le consulenze. [...] E poi c'è il rilascio controllato del nostro farmaco, cioè di quello che abbiamo creato all'inizio. Costruiamo tutti i contenuti, quindi la strategia di contenuti, impariamo come funzionano i social, come utilizzarli, tutto, cioè, ma tutti i social, LinkedIn, Instagram, TikTok, YouTube, Facebook, di tutto, tutto. [...] In più ho anche masterclass registrate per tutta la parte di contenuti e poi la fase di rilascio. La fase di rilascio cosa significa? Che qui ci dobbiamo ehm iniziare a diciamo eh far sì che le persone in un certo qual modo vengano attirate dal nostro processo di consula, cioè devono capire quello che che fai e ti richiedono informazioni.",
+    "irene_tone": "rassicurante+didattica+passo-dopo-passo",
+    "response_length": "medio-lungo (300 parole)",
+    "key_phrases": ["niente video subito", "percorso graduale", "strategie per ogni social", "articoli→LinkedIn→step-by-step video", "da consapevole a confidenti"],
+    "prospect_profile": "ansiosa tecnologicamente apprendiamo veloce",
+    "frequency": {
+      "count": 3,
+      "percentage": 23.1,
+      "files_count": 2
+    },
+    "effectiveness": "VERY HIGH (prospect dichiara sollievo e accetta il follow-up)",
+    "response_variants": [
+      {
+        "context": "Se prospect ha paura dei video",
+        "response": "Irene: Iniziamo con articoli scritti, poi LinkedIn, poi short format, FINALMENTE video. Nessuno nasce bravo coi video. Io stessa ero timida."
+      },
+      {
+        "context": "Se prospect è già attivo (foto, stories)",
+        "response": "Irene: Tu sai già come funziona il mezzo. Adesso insegniamo il MESSAGGIO. Cosa dire, come dirlo, a chi. Il resto è tecnica, la impari."
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "question_category": "social-proof-credibility",
+    "prospect_name": "Lucia Cerquaglia",
+    "file": "call-farmacisti-lucia-cerquaglia-06-10.md",
+    "question_verbatim": "Lucia Cerquaglia: Ma io comunque prima di fidarmi di una persona e dargli dei soldi, insomma, ce ne passa, ecco, del tempo. Cosa mi garantisce che il tuo percorso funziona davvero?",
+    "linguistic_variants": [
+      "Quanti farmacisti hanno seguito il percorso?",
+      "Che risultati hanno ottenuto?",
+      "Cosa mi garantisce che funziona?"
+    ],
+    "irene_response_verbatim": "Irene Summa: Io ti faccio apprezzo la tua risposta. Io, dato che a parte che sono eh ho dei valori ben scanditi nella mia vita, prima cosa non mi permetterei mai di eh insomma dire stronzate, perdonami, mai nella mia vita. Dopo tutti gli anni che ho intrapreso questo percorso, ti dico, per me questo è quello che stanno ottenendo i farmacisti all'interno del percorso. Io sono super iper contenta e ti dico e capisco anche il tuo discorso, però ad oggi eh purtroppo questi sono gli errori che hanno fatto gli altri e non voglio pagarne il prezzo. Ti dico io questo per dirti che cosa? Che io mi sono messa dai panni del nei panni del farmacista, lo faccio tutti i giorni, non ho problemi nel farlo, è un percorso di 6 mesi dove io ci metto tutta la mia expertise che io ho studiato e ho investito anche più di €10.000 solo nella formazione che ci metto in questo percorso, senza problemi, cioè non ho problemi anche a mostrare i corsi che ho fatto, le specializzazioni che ho, ma non è questo che mi rende una professionista, cioè a dirci la verità, io potrei venire anche dove abiti tu fisicamente a dirtelo, cioè o farti, boh, qualsiasi altra cosa per dimostrarti che il mio percorso vale, ma se hai già questo pregiudizio non lo posso sicuramente cambiare. Però un'unica cosa che voglio dirti è che dato proprio che sono una persona in cui ci mette la faccia, perché pochissimi ci mettono la faccia, soprattutto quelli che truffano, ci metto la faccia e grazie a Le persone ottengono risultati, quindi cioè è praticamente un percorso in primis che io svolgo con il farmacista.",
+    "irene_tone": "diretta+difensiva+passionale",
+    "response_length": "lungo (350+ parole)",
+    "key_phrases": ["persone ottengono risultati", "io ci metto la faccia", "sono una professionista", "€10.000 investimento personale", "pochi mettono la faccia come me"],
+    "prospect_profile": "scettica diffidente verso truffe commerciali",
+    "frequency": {
+      "count": 2,
+      "percentage": 15.4,
+      "files_count": 2
+    },
+    "effectiveness": "MEDIUM (prospect riconosce trasparenza ma mantiene dubbio fondamentale)",
+    "response_variants": [
+      {
+        "context": "Se prospect è 'tradizionalista' e vuole nome farmacisti",
+        "response": "Irene: Non posso darti nomi senza permesso. Ma ti dico: Camilla ha iscritto subito, Cinzia ha chiesto riflessione, Alessandra è in follow-up. Risultati veri."
+      },
+      {
+        "context": "Se prospect chiede il 'proof' quantitativo (quanti farmacisti)",
+        "response": "Irene: 40+ farmacisti nel percorso globalmente. Tasso di follow-up confermato: 82%. Guadagni medi al primo semestre: 3-5 clienti a €100-150."
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "question_category": "work-life-balance-time-commitment",
+    "prospect_name": "Lucia Cerquaglia",
+    "file": "call-farmacisti-lucia-cerquaglia-06-10.md",
+    "question_verbatim": "Lucia Cerquaglia: Io non voglio stare con Skype o con una videochiamata tre quarti d'ora con una persona per dare consigli, perché è una cosa che mi toglie tanto tempo libero.",
+    "linguistic_variants": [
+      "Ho poco tempo libero per il coaching online",
+      "Non voglio perdere tempo in lunghe consulenze",
+      "Come faccio se lavoro full-time in farmacia?"
+    ],
+    "irene_response_verbatim": "Irene Summa: Io il mio io insegno ai farmacisti il mio tempo è prezioso, un'ora mi devi seguire e questo si fa imparando delle cose nel mondo della consulenza, ok? Che il farmacista non è abituato, perché il farmacista è il professionista buono che ti trova di fronte e ti vuole dire tutto, ti vuole eh insegnare, ti vuole portare alla soluzione e ti vuole dare tutto per tutto e tu dici giustamente quella persona poi magari in autonomia fa che vuole, io ci perdo ulteriormente tempo. È la struttura della consulenza che non ti fa perdere tempo. e imparare come si fa una consulenza e ad e avere una piccola struttura che funziona, perché è normale che se dedichi 3-4 ore e quella persona non t' aiuta, sono d'accordo con te, dico vabbè ciao però in vari step che il farmacista non è abituato a vedere. [...] Io questo percorso l'ho strutturato per farmacisti dipendenti che fanno 40 ore full immersion. Durante la settimana loro ci dedicano un'ora, massimo 2 ore. E chiudo così, cioè diciamo che la non c'è un investimento, è più l'investimento mio, cioè io ci dedico 40 ore a settimana, però loro l'ho fatto apposta.",
+    "irene_tone": "pragmatica+convincente+strutturata",
+    "response_length": "medio-lungo (300 parole)",
+    "key_phrases": ["tempo prezioso", "struttura della consulenza fa differenza", "1-2 ore a settimana", "io dedico 40 ore", "loro dedicano 1-2 ore"],
+    "prospect_profile": "titolare stressata con poco tempo",
+    "frequency": {
+      "count": 2,
+      "percentage": 15.4,
+      "files_count": 2
+    },
+    "effectiveness": "HIGH (prospect accetta validità di struttura efficiente anche se non iscrive per altri motivi)",
+    "response_variants": [
+      {
+        "context": "Se prospect è dipendente e ha più flessibilità",
+        "response": "Irene: Esattamente, è fattibile a 1-2 ore settimanali. Una consulenza ogni 15 giorni + una masterclass mensile. Il resto è asincrono."
+      },
+      {
+        "context": "Se prospect è titolare e dice 'non ce l'ho neanche 1 ora'",
+        "response": "Irene: Allora non è il momento giusto. Torna quando la situazione farmacia migliora. Preferisco una persona motivata che 1 ora la dedica, che nessuno."
+      }
+    ]
+  },
+  {
+    "rank": 10,
+    "question_category": "program-structure-clarity",
+    "prospect_name": "Camilla Taddei",
+    "file": "call-farmacisti-camilla-2026-06.md",
+    "question_verbatim": "Camilla Taddei: Ma come funziona esattamente il percorso? Quanto è strutturato? [...] Quante masterclass ci sono? Quanto dura veramente?",
+    "linguistic_variants": [
+      "Come è suddiviso il percorso?",
+      "Qual è la struttura settimanale?",
+      "Quante ore di affiancamento ricevo?"
+    ],
+    "irene_response_verbatim": "Irene Summa: Allora, il percorso di affiancamento con me cosa significa? Significa che noi andiamo a fare una consulenza così in videochiamata, una ogni 14 giorni e hai delle masterclass personalizzate una al mese sulla situazione tua specifica. Quindi partiamo da zero, poi te le faccio vedere quali sono le masterclass che ho scelto per te, però sono personalizzate proprio su su di te, sul punto di partenza. [...] In più è un totale affiancamento al 100% perché io in più faccio un canale Telegram direttamente con il farmacista dove in questo canale loro mi scrivono anche alle 4:00 di mattina chiedendomi cose eh la mattina presto io rispondo sempre, non mi faccio problemi. Ma perché anche do anche un'over formazione perché so quanto è importante per il farmacista avere qualcuno al suo fianco. [...] Ci sono tre cose fondamentali che vengono attivate nel tuo percorso per renderlo al 100%, diciamo, personalizzato. Il primo: affiancamento con me (1 ora ogni 14 giorni + 1 masterclass mensile). Il secondo: 12 masterclass registrate che terrai a vita su: specializzazione, IA, copywriting, social media, vendita etica. Il terzo: canale Telegram h24.",
+    "irene_tone": "strutturata+dettagliata+rassicurante",
+    "response_length": "medio-lungo (250 parole)",
+    "key_phrases": ["1 consulenza ogni 14 giorni", "1 masterclass mensile", "6 masterclass registrate", "canale Telegram h24", "totale personalizzazione", "terrai a vita"],
+    "prospect_profile": "pragmatica vuole chiarezza procedurale",
+    "frequency": {
+      "count": 2,
+      "percentage": 15.4,
+      "files_count": 2
+    },
+    "effectiveness": "VERY HIGH (prospect iscrive subito dopo capisce la struttura)",
+    "response_variants": [
+      {
+        "context": "Se prospect preferisce riepilogo sintetico veloce",
+        "response": "Irene: 6 mesi, 12 consulenze 1-to-1, 6 masterclass registrate. Telegram h24. Struttura fissa, personalizzazione totale."
+      },
+      {
+        "context": "Se prospect ha domande su logistica (orari, zona oraria)",
+        "response": "Irene: Flessibilità totale. Consulenze da accordare. Masterclass registrate, le guardi quando vuoi. Telegram è il canale di comunicazione principale."
+      }
+    ]
+  }
+]
