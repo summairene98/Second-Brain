@@ -9,7 +9,7 @@ tags: [team, socio, mario-livelli]
 **Posizione:** Remote
 **Riporta a:** [[Irene Summa]] (co-decisione su strategia e marketing)
 
-[[Mario Livelli]] è il partner strategico e operativo di [[Farmacista Digitale]]. Visionario, esperto di marketing digitale, fornisce direzione commerciale e copy strategico. Supporto emotivo e strategico per [[Irene Summa]].
+[[Mario Olivelli]] è il partner strategico e operativo di [[Farmacista Digitale]]. Visionario, esperto di marketing digitale, fornisce direzione commerciale e copy strategico. Supporto emotivo e strategico per [[Irene Summa]].
 
 > [!info] Stato attuale
 > Operativo al 100%. Target Q3: assorbire il 50% del carico operativo oggi su Irene (vendita, direzione commerciale).

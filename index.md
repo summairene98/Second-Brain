@@ -47,10 +47,10 @@ Pagine che rappresentano entità (aziende, persone, prodotti, framework). Aggreg
 <!-- Resources/companies/ -->
 
 ### Framework
-- [Protocollo FARMA](Resources/frameworks/protocollo-farma.md) — Framework 3-fasi per farmacisti consulenti digitali (formazione + prevenzione)
+- [Protocollo F.A.R.M.A.](Resources/frameworks/protocollo-farma.md) — Framework 5-step (6 mesi) per trasformare farmacisti in consulenti digitali: formulazione → assorbimento → rilascio → metabolismo → azione terapeutica
 
 ### Prodotti
-<!-- Resources/products/ -->
+- [Protocollo F.A.R.M.A. — Linea di fatturato](Context/services.md) — Servizio core: 6 mesi, 12 consulenze 1:1, 6 masterclass, support 100%, garanzia 180gg
 
 ### Programmi
 - [Farmacista Digitale Starter](Resources/programs/farmacista-digitale-starter.md) — Corso 3 mesi su [[Protocollo FARMA]], formazione + coaching per consulenti digitali

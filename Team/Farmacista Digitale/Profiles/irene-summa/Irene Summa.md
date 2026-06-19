@@ -24,7 +24,7 @@ tags: [team, founder, irene-summa]
 
 ## Collabora con
 
-[[Mario Livelli]] (co-decisione su strategia), [[Salvatore]] (vendita in formazione), [[Elvira]] (assistente in formazione), [[Alessandro]] (media buyer in ramp-up).
+[[Mario Olivelli]] (co-decisione su strategia), [[Salvatore]] (vendita in formazione), [[Elvira]] (assistente in formazione), [[Alessandro]] (media buyer in ramp-up).
 
 ## Loop non chiusi
 

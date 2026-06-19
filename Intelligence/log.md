@@ -9,6 +9,32 @@ Registro cronologico delle operazioni di ingestione (source → wiki) e aggiorna
 
 ## 2026-06-19
 
+**[2026-06-19 15:55] ingest | product-documentation | protocollo-farma | Protocollo F.A.R.M.A. — Documentazione Ufficiale**
+
+Caricamento della struttura ufficiale completa del Protocollo F.A.R.M.A. (6 mesi, 5 step, 12 consulenze, 6 masterclass).
+
+**Salvato:** `Library/products/protocollo-farma.md` (raw doc)
+
+**Aggiornato:** `Resources/frameworks/protocollo-farma.md` (versione precedente 3-mesi → 6 mesi, 5 step)
+
+**Creato:** `Context/services.md` (linea di fatturato, prezzi, KPI, stack operativo)
+
+**Update:** `index.md` — framework e prodotti aggiornati
+
+**Pagine toccate:** 3 (protocollo-farma.md, services.md, index.md)
+
+**Elementi chiave estratti:**
+- F.A.R.M.A. = ADME farmacologico applicato a consulenza online
+- 6 step: Formulazione, Assorbimento, Rilascio, Metabolismo, Azione
+- 12 consulenze 1:1 bimensili, 6 masterclass (5 moduli ciascuna, 1 modulo/week)
+- Masterclass 2 dedicata a IA (ChatGPT, Claude, Gemini, Prompt Engineering)
+- Garanzia 180gg: se nessuna richiesta info, 3 mesi gratis
+- Prezzo: €2.500 (saldo) o €3.000+ (rate)
+- Personalizzazione sartoriale su specializzazione farmacista
+- Checkpoint mese 3: inizio test organici
+
+---
+
 **[2026-06-19 14:40] ingest | course | filippi-sales-formazione-prima | Prima Formazione Sales — Massimo Filippi**
 
 Materiale operativo di sales training ricevuto da [[Irene]] durante lavoro con [[Massimo Filippi]].

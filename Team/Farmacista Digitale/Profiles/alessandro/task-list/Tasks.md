@@ -13,7 +13,7 @@ Last run: 2026-06-16T22:05:08Z
 ## In Corso
 
 - [ ] 🔄 Ramp-up CRM GHL: gestione lead e pipeline
-- [ ] 🔄 Validare strategia ads con [[Irene Summa]] e [[Mario Livelli]] (target ROAS 3:1)
+- [ ] 🔄 Validare strategia ads con [[Irene Summa]] e [[Mario Olivelli]] (target ROAS 3:1)
 
 ## Da Fare
 
