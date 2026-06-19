@@ -7,6 +7,29 @@ description: Cronologia delle ingestioni e aggiornamenti wiki
 
 Registro cronologico delle operazioni di ingestione (source → wiki) e aggiornamenti significativi al layer wiki.
 
+## 2026-06-19
+
+**[2026-06-19 14:35] ingest | course | cosentino-ilp-infobusiness | ILP: Infobusiness Fundamentals — Corso Mik Cosentino**
+
+Trascrizione completa lezione su infobusiness come modello di business.
+
+**Salvato:** `Library/courses/cosentino-ilp-infobusiness.md` (860 KB, trascrizione full)
+
+**Creato:** `Resources/courses/cosentino-ilp-infobusiness.md` (wiki summary)
+
+**Temi chiave estratti:**
+1. Definizione infobusiness (vendere informazioni risolutive a pubblico specifico)
+2. Evoluzione consulente: da time-dependent a information-dependent
+3. Legge universale causa-effetto (azioni odierne non contano nel breve termine)
+4. Interesse composto del successo (coerenza > velocità iniziale)
+5. 6 errori ricorrenti e come evitarli
+6. 6 passi istantanei per aumentare probabilità successo
+7. Lifestyle da info-imprenditore (autonomia, scalabilità, libertà)
+
+**Rilevanza per Irene:** Framework applicabile al posizionamento di Irene come [[infobusiness consultante]] (corso/mastermind su Protocollo FARMA). Core concept: scalabilità informativa > time-dependency.
+
+---
+
 ## 2026-06-18
 
 **[2026-06-18 14:30] build | market-research | icp-dettagliato | Manuale ICP Farmacisti Target — Creato**

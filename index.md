@@ -33,6 +33,9 @@ Documenti grezzi in `Library/`, raggruppati per tipo. Una voce per source ingest
 ### Libri
 <!-- L'AI aggiunge qui una riga per ogni libro/capitolo ingestato -->
 
+### Corsi
+- [ILP: Infobusiness Fundamentals — Mik Cosentino](Resources/courses/cosentino-ilp-infobusiness.md) — Struttura infobusiness, evoluzione consulente, legge causa-effetto, compounding, 6 passi successo, lifestyle design
+
 ---
 
 ## Entità
