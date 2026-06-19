@@ -9,6 +9,28 @@ Registro cronologico delle operazioni di ingestione (source → wiki) e aggiorna
 
 ## 2026-06-19
 
+**[2026-06-19 14:40] ingest | course | filippi-sales-formazione-prima | Prima Formazione Sales — Massimo Filippi**
+
+Materiale operativo di sales training ricevuto da [[Irene]] durante lavoro con [[Massimo Filippi]].
+
+**Salvato:** `Library/courses/filippi-sales-formazione-prima.md` (69 KB)
+
+**Creato:** `Resources/courses/filippi-sales-formazione-prima.md` (wiki summary)
+
+**Framework core: La Ruota Diagnostica**
+- Lead consapevole vs inconsapevole (script diversi)
+- Domande di connessione → mappatura ruota (problema, cause, effetti emotivi)
+- Silenzio strategico dopo argomento (lascia parlare il lead)
+- Obiezioni = bisogni non articolati (scava sotto)
+- Visione futura (se continua così vs se cambia)
+- Specifiche di chiusura (data/ora esatta, non generico)
+
+**7 Lead Types gestiti:** Non ricorda iscrizione, non ricorda webinar, rumore ambientale, poco reattivo, senior, vuole richiamata, non ha guardato webinar.
+
+**Rilevanza per Irene:** Ruota diagnostica applicabile al Protocollo FARMA (farmacista online: posizionamento attuale → problema → impatto sulla pratica → visione futura).
+
+---
+
 **[2026-06-19 14:35] ingest | course | cosentino-ilp-infobusiness | ILP: Infobusiness Fundamentals — Corso Mik Cosentino**
 
 Trascrizione completa lezione su infobusiness come modello di business.

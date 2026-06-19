@@ -35,6 +35,7 @@ Documenti grezzi in `Library/`, raggruppati per tipo. Una voce per source ingest
 
 ### Corsi
 - [ILP: Infobusiness Fundamentals — Mik Cosentino](Resources/courses/cosentino-ilp-infobusiness.md) — Struttura infobusiness, evoluzione consulente, legge causa-effetto, compounding, 6 passi successo, lifestyle design
+- [Prima Formazione Sales — Massimo Filippi](Resources/courses/filippi-sales-formazione-prima.md) — Call scripts, lead segmentation, ruota diagnostica, appointment setting, obiezioni, consulenza framework
 
 ---
 
