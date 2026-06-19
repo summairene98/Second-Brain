@@ -5,7 +5,7 @@ status: active
 tags: [tasks, irene-summa]
 ---
 
-Last run: 2026-06-17T00:10:00Z
+Last run: 2026-06-19T08:15:00Z
 
 > [!info] Backlog attivo
 > Questa lista è il backlog progressivo di [[Irene Summa]]. I task aperti rimangono qui tra un daily e l'altro. Il daily giornaliero non duplica questi task, ma vi fa riferimento.
@@ -34,9 +34,20 @@ Last run: 2026-06-17T00:10:00Z
 - [x] ✅ 2026-06-17 Fix Daily/2026-06-16.md: rimossa intestazione duplicata, aggiunto status e tags al frontmatter
 - [x] ✅ 2026-06-17 Creati file profilo: Irene Summa.md, Mario Livelli.md, Salvatore.md, Elvira.md, Alessandro.md
 - [x] ✅ 2026-06-17 Creati profili completi per Salvatore, Elvira, Alessandro (cartelle Daily, task-list, profilo)
+- [x] ✅ 2026-06-18 Manuale Obiezioni v2 operazionale (40 trascrizioni, 9 obiezioni, 7 pattern psicologici)
+- [x] ✅ 2026-06-18 Manuale Obiezioni v3 completo e profondo (13 pattern unici, metodologia verbatim)
+- [x] ✅ 2026-06-18 FAQ Farmacisti con risposte verbatim di Irene
+- [x] ✅ 2026-06-18 Sales Objection Patterns (mappa strutturata completa)
+- [x] ✅ 2026-06-19 Ingestione corso Mik Cosentino ILP Infobusiness
+- [x] ✅ 2026-06-19 Ingestione video "Come creare offerta modello cascata"
 
 ## Coda Housekeeping
 
-Nessun item in coda.
+- `Resources/sales/manuale-obiezioni-v3-completo-e-profondo.md` (48 em dash da sostituire)
+- `Resources/sales/faq-farmacisti-risposte-irene.md` (51 em dash da sostituire)
+- `Resources/courses/cosentino-ilp-infobusiness.md` (13 em dash da sostituire)
+- `Resources/Sales-Objection-Patterns/ANALYSIS-SUMMARY.md` (3 em dash da sostituire)
+- `Resources/Sales-Objection-Patterns/README.md` (11 em dash da sostituire)
+- `Resources/sales/manuale-obiezioni-v2-operazionale.md` (verificare em dash + frontmatter)
 
-<span style="background-color:#6B4C9A; color:#FFFFFF; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Farmacista Digitale Vault Operator — ultima modifica: 2026-06-17T00:10:00Z</span>
+<span style="background-color:#6B4C9A; color:#FFFFFF; padding:2px 8px; border-radius:3px; font-size:0.85em;">🤖 Farmacista Digitale Vault Operator — ultima modifica: 2026-06-19T08:15:00Z</span>
