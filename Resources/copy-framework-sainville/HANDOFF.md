@@ -8,9 +8,9 @@ next-step: funnel-brief
 
 # HANDOFF — Farmacista Digitale® Workflow Sainville
 
-**Sessione Skill 5 completata**: 2026-06-21  
+**Sessione Skill 6 completata**: 2026-06-21  
 **Modello**: Claude Haiku 4.5  
-**Prossimo step**: `/proof-researcher` (Skill 6)
+**Prossimo step**: `/landing-page-writer` (Skill 7)
 
 ---
 
@@ -49,7 +49,7 @@ next-step: funnel-brief
 
 ---
 
-### ✅ COMPLETATO (5 Skill)
+### ✅ COMPLETATO (6 Skill)
 
 #### 5. **Funnel Brief** (`funnel-brief.md`) — Completato 2026-06-21
 **Catena di convinzioni per ogni Avatar + convinzioni universali**
@@ -60,7 +60,16 @@ next-step: funnel-brief
 - **Distribuzione Punti**: 9 punti totali (Ads 2 + Landing 3 + Webinar 2 + Sales 1 + Email opt 1)
 - **Livello Consapevolezza**: Consapevoli della Soluzione (primario)
 
-### ⏭️ DA COMPLETARE (5 Skill rimanenti)
+#### 6. **Proof Researcher** (`proof-map.md`) — Completato 2026-06-21
+**Mappatura convinzioni → Proof specifici**
+- 32/32 convinzioni coperte (100% copertura) ✅
+- Score medio: 7.8/10 (FORTE)
+- Distribuzione: 62% prove ALTE (8-10), 38% prove MEDIE (5-7), 0% BASSE ✅
+- Inventario per categoria: Psicologiche (8), Esperienze (8), Empiriche (5), Fabbricabili (5), Riprova Sociale (6)
+- Piano asset: Bio Irene + foto, Diagram 5 fasi, 3 case study estesi, 11 testimonial video
+- Piano verificazione: Confermare nomi + numeri Valentina/Marco/Serena con Irene
+
+### ⏭️ DA COMPLETARE (4 Skill rimanenti)
 
 #### 6. **Proof Researcher** (→ `/proof-researcher`)
 **Cosa è**: Mappa convinzioni a prove (quali testimonial/case study/numeri ancorano ogni belief)
@@ -141,7 +150,7 @@ next-step: funnel-brief
 ├── competitive-intel.md                         # ✅ Analisi 5 competitor
 ├── mechanism.md                                 # ✅ 9 Domande Kennedy + Meccanismo F.A.R.M.A.
 ├── funnel-brief.md                              # ✅ Catena convinzioni per 3 Avatar + universali + distribuzione punti
-├── proof-map.md                                 # ⏳ DA CREARE (Skill 6)
+├── proof-map.md                                 # ✅ Mappatura 32 convinzioni → proof specifici (100% copertura)
 ├── landing/landing-v1.md                        # ⏳ DA CREARE (Skill 7)
 ├── ads/batch-lancio-v1.md                       # ⏳ DA CREARE (Skill 8)
 ├── email/sequenza-lancio-v1.md                  # ⏳ DA CREARE (Skill 9)
@@ -157,7 +166,10 @@ next-step: funnel-brief
 - Distribuzione punti nel funnel (9 punti totali)
 - Livello di consapevolezza: Consapevoli della Soluzione
 
-**6. Proof Researcher** (mappatura convinzioni → prove)
+**6. ✅ Proof Researcher — COMPLETATO 2026-06-21**
+- Mappatura 32 convinzioni → 26 proof specifiche
+- Copertura 100%, score medio 7.8/10 (FORTE)
+- Piano asset visivi + verificazione cliente
 - Quale case study supporta quale convinzione?
 - Quale testimonial per quale avatar?
 
@@ -205,16 +217,16 @@ Non usare headline universale — la stessa headline NON funziona per tutti e 3.
 
 ---
 
-## 🚀 PROSSIMI STEP (Skill 6+)
+## 🚀 PROSSIMI STEP (Skill 7+)
 
-**Skill 6 — Proof Researcher** (prossimo)
-- Input: Funnel Brief (appena completato)
-- Output: Mappatura convinzioni → Proof specifici
-- Per ogni convinzione: quale case study / testimonial / numero la supporta?
-- Verificare: Valentina, Marco, Serena case study — dettagli e video
-- Verificare: 62 farmacisti, 32 risultati, NPS 78 — survey data
+**Skill 7 — Landing Page Writer** (prossimo)
+- Input: Funnel Brief + Proof Map (appena completati)
+- Output: Copy completo landing page con 8 sezioni
+- Headlines diverse per 3 Avatar (hero section)
+- Case study: Valentina, Marco, Serena integrati nel flow
+- CTA: diverse per avatar (form, webinar, sales call)
 
-**Skill 7-10 — Production** (dopo Proof)
+**Skill 8-10 — Production** (dopo Landing)
 - Landing Page (headlines diverse per avatar)
 - Ad Copy (varianti per LinkedIn, Facebook, Instagram)
 - Email Sequence (drip campaign 7-14 giorni)
@@ -224,5 +236,19 @@ Non usare headline universale — la stessa headline NON funziona per tutti e 3.
 
 **Fine HANDOFF**
 
-✅ Sessione Skill 5 completata (2026-06-21).  
-Prossimo step: `/proof-researcher` (Skill 6).
+✅ Sessione Skill 6 completata (2026-06-21).  
+Prossimo step: `/landing-page-writer` (Skill 7).
+
+---
+
+## ⚡ TODO URGENTE PRIMA DI SKILL 7
+
+1. **CONFERMARE CON IRENE** (1 domanda rapida):
+   - Nomi reali + numeri esatti: Valentina (€1.450→€3.800), Marco (€0→€5.200), Serena (dimissioni)?
+   - Posso usarli nel copy della landing?
+
+2. **PRODURRE ASSET CRITICI**:
+   - Bio Irene (200 parole) + foto professionale
+   - Diagram 5 fasi F.A.R.M.A. (grafico semplice, colorato)
+
+Senza questi, Skill 7 sarà bloccata. Con questi, Skill 7 può procedere al 100%.
