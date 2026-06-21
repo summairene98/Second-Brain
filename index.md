@@ -71,6 +71,7 @@ Pagine di sintesi, analisi, comparazioni, ricerca tematica. Spesso generate via 
 <!-- Resources/case-studies/ -->
 
 ### Mercato
+- [Analisi Target Farmacisti — FARMA Completa](Resources/market/analisi-target-farmacisti-farma.md) — Psicografia, 5 emozioni viscerali, 7 scenari catastrofici, 9 categorie obiezioni, scuse per rimandare, benefici della inerzia
 - [Trasformazione Digitale Farmacisti](Intelligence/market/farmacisti-trasformazione-digitale.md) — Opportunità consulenza online, barriere mindset/operativo, competizione, megatrend
 - [Call Transcripts Farmacisti 2026](Intelligence/sales/call-transcripts-farmacisti-2026.md) — 20+ prospetti, obiezioni, tematiche ricorrenti, success drivers
 

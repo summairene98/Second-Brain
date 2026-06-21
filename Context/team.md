@@ -8,13 +8,13 @@ updated: 2026-06-16
 
 ## Membri
 
-| Nome | Ruolo | Focus | Stile di Lavoro | Status |
-|------|------|-------|---------------|--------|
-| **Irene Summa** | Titolare (60%), Founder, Direttrice Delivery | Consulenze 1:1, Masterclass, Contenuti organici, Formazione team | Intensa, perfectionist, determinata. Studi e forma costantemente. | 🔄 In formazione team |
-| **Mario Livelli** | Socio (40%), Direttore Marketing, Direttore Vendita, Strategist, Copywriter | Strategia aziendale, copy strategico, direzione commerciale | Visionario, esperto di marketing digitale, supporto emotivo di Irene | ✅ Operativo |
-| **Salvatore** | Venditore | Vendita diretta, follow-up lead | In formazione; ancora non autonomo | 🔄 In sviluppo |
-| **Elvira** | Assistente Personale, Amministrazione | Gestione Telegram, prenotazioni, appuntamenti, supporto amministrativo | Competente ma ha bisogno di procedure scritte | 🔄 In sviluppo |
-| **Alessandro** | Media Buyer | Campagne ads, funnel, GHL (CRM) | Nuovo; in ramp-up | 🔄 In onboarding |
+| Nome               | Ruolo                                                                       | Focus                                                                  | Stile di Lavoro                                                      | Status                |
+| ------------------ | --------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------------- |
+| **Irene Summa**    | Titolare (60%), Founder, Direttrice Delivery                                | Consulenze 1:1, Masterclass, Contenuti organici, Formazione team       | Intensa, perfectionist, determinata. Studi e forma costantemente.    | 🔄 In formazione team |
+| **Mario Olivelli** | Socio (40%), Direttore Marketing, Direttore Vendita, Strategist, Copywriter | Strategia aziendale, copy strategico, direzione commerciale            | Visionario, esperto di marketing digitale, supporto emotivo di Irene | ✅ Operativo           |
+| **Salvatore**      | Venditore                                                                   | Vendita diretta, follow-up lead                                        | In formazione; ancora non autonomo                                   | 🔄 In sviluppo        |
+| **Elvira**         | Assistente Personale, Amministrazione                                       | Gestione Telegram, prenotazioni, appuntamenti, supporto amministrativo | Competente ma ha bisogno di procedure scritte                        | 🔄 In sviluppo        |
+| **Alessandro**     | Media Buyer                                                                 | Campagne ads, funnel, GHL (CRM)                                        | Nuovo; in ramp-up                                                    | 🔄 In onboarding      |
 
 ## Accordi di Lavoro
 

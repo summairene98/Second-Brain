@@ -9,6 +9,26 @@ Registro cronologico delle operazioni di ingestione (source → wiki) e aggiorna
 
 ## 2026-06-19
 
+**[2026-06-19 14:50] ingest | market-research | analisi-target-farmacisti-farma | Analisi Target Farmacisti — FARMA Completa**
+
+Documento proprietario: ricerca approfondita su psicografia, emozioni, comportamenti del farmacista italiano target.
+
+**Salvato:** `Library/pdfs/analisi-target-farma-completa.docx` (1.03 MB)
+
+**Creato:** `Resources/market/analisi-target-farmacisti-farma.md` (wiki)
+
+**Core findings:**
+- **5 emozioni viscerali:** Rabbia (studio vs guadagno), Vergogna (laurea, stipendio), Frustrazione (competenza vs tempo), Paura del tempo (10 anni bancone), Invidia (coetanei)
+- **7 scenari catastrofici:** Stasi, impossibilità casa, fallimento online, conflitto titolare, precarietà farmacia, fallimento genitoriale, deterioramento
+- **3 avatar:** Espansionista, Transizionaria, Rivoluzionaria
+- **9 categorie obiezioni:** Video/esposizione, legittimità, tempo, soldi, deontologia, fiducia, nicchia, meccanismo, interferenza famiglia
+- **Benefici inerzia:** Certezza, identità, no responsabilità, approvazione sociale, no fallimento pubblico
+- **Trasformazioni simboliche:** Davide (primo no), Giulia (competenza riconosciuta), Federica (identità nuova)
+
+**Strategico:** Non vendi logica, vendi libertà + riconoscimento. Ruota diagnostica adattabile. Social proof emotivo > reddito.
+
+---
+
 **[2026-06-19 15:55] ingest | product-documentation | protocollo-farma | Protocollo F.A.R.M.A. — Documentazione Ufficiale**
 
 Caricamento della struttura ufficiale completa del Protocollo F.A.R.M.A. (6 mesi, 5 step, 12 consulenze, 6 masterclass).
