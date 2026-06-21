@@ -1,0 +1,208 @@
+---
+type: handoff
+date: 2026-06-21
+project: Farmacista Digitale
+status: in-progress
+next-step: funnel-brief
+---
+
+# HANDOFF — Farmacista Digitale® Workflow Sainville
+
+**Sessione completata**: 2026-06-21  
+**Modello**: Claude Haiku 4.5  
+**Prossimo step**: `/funnel-brief` (Skill 5)
+
+---
+
+## 📋 STATO DEL PROGETTO
+
+### ✅ COMPLETATO (4 Skill)
+
+#### 1. **Brief** (`farmacista-digitale-CLAUDE-brief.md`)
+- Prodotto: Protocollo F.A.R.M.A.™ (6 mesi, 12 consulenze 1-on-1 con Irene)
+- Prezzo: €2.000 one-time
+- Target: Farmacisti dipendenti, 28-42 anni, €1.300-€1.800/mese, 70% F / 30% M
+- 3 Avatar: Espansionista, Transizionaria, Rivoluzionaria
+- 5 Fasi F.A.R.M.A.: Formulazione → Assorbimento → Rilascio → Metabolismo → Azione Terapeutica
+- Meccanismo unico: Metodologia scientifica F.A.R.M.A. (replica ADME farmacologico)
+- Garanzia: 180 giorni su richieste di consulenza + 3 mesi follow-up gratuito
+- Proof: 62 farmacisti, 32 con consulenze redditizie (Valentina €3.800, Marco €5.200, Serena dimissioni)
+
+#### 2. **Avatar** (`avatar-farmacista-digitale.md`)
+- **ESPANSIONISTA**: Ama bancone, vuole reddito extra parallelo. Non rischia. Leva: autorevolezza + reddito extra. NON dire fuga.
+- **TRANSIZIONARIA**: Nel mezzo, vuole piano B gradualmente. Blocco: interferenza familiare. Leva: sicurezza + controllo. NON dire urgenza.
+- **RIVOLUZIONARIA**: Punto di rottura, vuole uscire. Tema: vergogna identitaria. Leva: rivalsa + dignità. NON dire piccoli passi.
+
+#### 3. **Competitive Intelligence** (`competitive-intel.md`)
+- **Corsi Generici** (Udemy, Coursera): Prezzo basso, ma generico, nessun supporto, 5-10% completion
+- **Guru Online**: Case study chiari, ma contesto USA, non capisce farmacista, alto rischio
+- **Community Facebook**: Gratis, veloce, ma anarchica, 100 strategie diverse, nessuna accountability
+- **Consulenti IT**: Credibilità normativa, ma no business, cari (€100-€300/h), lenti
+- **Corsi Specializzati**: Insegnano nutrizione/cosmetica, ma non business model specifico
+- **Il nostro moat**: Brand Irene + F.A.R.M.A. proprietaria + 12 consulenze 1-on-1 + Community + Contesto italiano
+
+#### 4. **Mechanism Architect** (`mechanism.md`)
+- **Tesi di marketing**: "Il modo migliore per un farmacista dipendente di monetizzare la sua competenza scientifica e guadagnare €1.500+/mese extra in modo etico è tramite il Protocollo F.A.R.M.A. — 6 mesi personalizzati con 12 consulenze dirette che insegnano come costruire consulenze online preventive senza violare le norme e senza abbandonare il bancone."
+- **9 Domande Kennedy**: Tutte risposte (vantaggio unico, mercato ideale, meccanismo, promessa, credibilità, differenziazione emotiva, moat, positioning, model economico)
+- **Meccanismo core**: 5 fasi F.A.R.M.A. progressive con output misurabili per ogni fase
+- **Positioning**: Metodologia scientifica proprietaria non replicabile
+
+---
+
+### ⏭️ DA COMPLETARE (5 Skill rimanenti)
+
+#### 5. **Funnel Brief** (→ `/funnel-brief`)
+**Cosa è**: Catena di convinzioni (cosa deve credere il cliente per comprare)
+**Input da usare**: 
+- I 3 Avatar hanno driver emotivi diversi
+- Espansionista: "Il mio potenziale merita di essere valorizzato"
+- Transizionaria: "Posso costruire il futuro che voglio, al sicuro"
+- Rivoluzionaria: "Ho diritto a invertire gli anni sprecati"
+- Key beliefs: "F.A.R.M.A. funziona" (proof), "Irene sa davvero" (credibilità), "Io posso farcela" (autoefficacia)
+
+#### 6. **Proof Researcher** (→ `/proof-researcher`)
+**Cosa è**: Mappa convinzioni a prove (quali testimonial/case study/numeri ancorano ogni belief)
+**Proof disponibili**:
+- Case study: Valentina €1.450→€3.800, Marco €0→€5.200, Serena neolaureata→dimissioni
+- Numeri: 62 farmacisti, 32 con consulenze redditizie, NPS 78
+- Testimonial video: 8 brevi (2-3 min) + 3 lunghe (15-20 min)
+- Garanzia: 180 giorni
+
+#### 7. **Landing Page Writer** (→ `/landing-page-writer`)
+**Cosa è**: Copy completo landing page
+**Headlines da sviluppare**:
+- "Diventa un'esperta online — senza lasciare la farmacia, senza diventare un guru fake"
+- Headline secundaria per ogni avatar (diversa messaging)
+
+#### 8. **Ad Copy Writer** (→ `/ad-copy-writer`)
+**Cosa è**: Varianti di ads per Meta/Google/LinkedIn
+**Piattaforme target**: LinkedIn (primaria per farmacisti), Facebook (secondaria), Instagram
+
+#### 9. **Email Sequence Writer** (→ `/email-sequence-writer`)
+**Cosa è**: Sequenza email pre-lancio + lancio + nurture
+**Tipo**: Drip campaign 7-14 giorni pre-lancio
+
+#### 10. **Copy Analyst** (→ `/copy-analyst`, Quality Gate finale)
+**Cosa è**: Verifica che tutto segua le 14 regole operative Sainville
+**Check**: Anti-IA, convinzioni mappate, no overpromise, credibilità ancorata, trigger emotivi giusti per avatar
+
+---
+
+## 🔑 KEY CONTEXT FOR NEXT SESSION
+
+### Il Prodotto REALE
+- **Nome**: Farmacista Digitale® — Protocollo F.A.R.M.A.™
+- **Durata**: 6 mesi
+- **Supporto**: 12 consulenze bimensili (ogni 14 giorni) 1-on-1 dirette con Irene
+- **Contenuti**: 6 Masterclass × 5 moduli = 30 moduli, sblocca 1/settimana + workbook settimanali
+- **Accesso**: A vita a video + registrazioni
+- **Bonus**: Piano Editoriale 90 giorni + Script di vendita personalizzato
+- **Onboarding**: 30 min call subito dopo pagamento
+- **Prezzo**: €2.000
+- **Garanzia**: 180 giorni su richieste di consulenza, altrimenti 3 mesi follow-up gratis
+
+### Le 5 Fasi F.A.R.M.A. (Core Methodology)
+1. **F — Formulazione del Principio Attivo**: Mindset + Nicchia + Buyer persona (Masterclass 0-1)
+2. **A — Assorbimento Selettivo**: Copywriting scientifico + IA + Personal brand + Canale (Masterclass 2-3)
+3. **R — Rilascio Controllato**: Strategia contenuti organici + Piano editoriale 90gg (Masterclass 4)
+4. **M — Metabolismo (Economico)**: Offerta irresistibile + Consulenza etica + Funnel (Masterclass 5)
+5. **A — Azione Terapeutica**: Vendita Etica Scientifica + Gestione obiezioni (Masterclass 6)
+
+### I 3 Avatar (CRUCIAL per messaging)
+| Avatar | Chi è | Leva | Messaging | NON dire |
+|--------|-------|------|-----------|----------|
+| **ESPANSIONISTA** | Ama bancone | Autorevolezza + reddito extra | "Valorizza il potenziale che hai" | Fuga, libertà totale |
+| **TRANSIZIONARIA** | Nel mezzo | Sicurezza + piano B graduale | "Costruisci al sicuro, poi scegli" | Urgenza, rischio, incertezza |
+| **RIVOLUZIONARIA** | Punto di rottura | Rivalsa + dignità | "Hai dato abbastanza, investi in te" | Minimizzare frustrazione |
+
+### Proof Pillars (per Funnel + Copy)
+- **Founder credibility**: Irene = farmacista + 12+ anni esperienza + ha fatto €6k+/mese online + 62 farmacisti mentorati
+- **Social proof**: 62 corsisti, 32 con reddito extra redditizio, NPS 78
+- **Case study**: Valentina (€1.450→€3.800), Marco (€0→€5.200), Serena (dimissioni)
+- **Garanzia**: 180 giorni richieste di consulenza (rischio minimo)
+
+### Competitive Moat (5 elementi)
+1. Brand Irene (non replicabile)
+2. Metodologia F.A.R.M.A. proprietaria
+3. Community 62 farmacisti + risultati reali
+4. 12 consulenze 1-on-1 (barriera entry, non scalabile come corsi)
+5. Contesto 100% italiano (normativa + psicologia farmacista)
+
+---
+
+## 📂 FILE KEY CREATI
+
+```
+/Resources/copy-framework-sainville/
+├── farmacista-digitale-CLAUDE-brief.md          # ✅ Brief completo
+├── avatar-farmacista-digitale.md                # ✅ I 3 Avatar (Espansionista, Transizionaria, Rivoluzionaria)
+├── competitive-intel.md                         # ✅ Analisi 5 competitor
+├── mechanism.md                                 # ✅ 9 Domande Kennedy + Meccanismo F.A.R.M.A.
+├── funnel-brief.md                              # ⏳ DA CREARE (next)
+├── proof-map.md                                 # ⏳ DA CREARE
+├── landing/landing-v1.md                        # ⏳ DA CREARE
+├── ads/batch-lancio-v1.md                       # ⏳ DA CREARE
+├── email/sequenza-lancio-v1.md                  # ⏳ DA CREARE
+└── HANDOFF.md                                   # ← You are here
+```
+
+---
+
+## 🎯 NEXT STEPS (in order)
+
+**5. Funnel Brief** (catena di convinzioni)
+- Cosa deve credere il farmacista per comprare?
+- Per ESPANSIONISTA: "Autorità online + reddito extra senza rischiare"
+- Per TRANSIZIONARIA: "Piano B serio, al sicuro, con supporto"
+- Per RIVOLUZIONARIA: "Uscita con dignità, finalmente per me"
+- Key beliefs universali: "F.A.R.M.A. funziona", "Irene è credibile", "Io posso riuscire"
+
+**6. Proof Researcher** (mappatura convinzioni → prove)
+- Quale case study supporta quale convinzione?
+- Quale testimonial per quale avatar?
+
+**7-10. Copy Production** (Landing + Ads + Email + Quality Gate)
+- Landing con headlines diverse per avatar
+- Ads varianti per piattaforme
+- Email sequence nurture
+- Copy analyst final check
+
+---
+
+## 🚀 WORKFLOW HINT
+
+Per la prossima chat, il copy writer (skill 7+) avrà bisogno di capire:
+- **Per ESPANSIONISTA**: Headline "Valorizza il potenziale. Aggiungi reddito senza cambiare quello che ami."
+- **Per TRANSIZIONARIA**: Headline "Costruisci il tuo piano B mentre sei al sicuro. Poi scegli tu quando muoverti."
+- **Per RIVOLUZIONARIA**: Headline "Hai dato abbastanza. Investiti in 6 mesi di uscita con dignità."
+
+Non usare headline universale — la stessa headline NON funziona per tutti e 3.
+
+---
+
+## 📞 CONTESTO IRENE (Il Prodotto è VERO)
+
+- Irene è la founder reale
+- Il Protocollo F.A.R.M.A. è l'offerta reale
+- I 62 farmacisti e i case study sono reali
+- La garanzia è reale (180 giorni su richieste di consulenza)
+- Questo non è un esercizio di copywriting generico — è il vero brief per un vero prodotto
+
+**Le prossime skill (Funnel, Copy, Ads, Email) servono per il vero lancio del Protocollo.**
+
+---
+
+## ✨ COSA RICORDARE
+
+1. **I 3 Avatar hanno messaging DIVERSO** — non usare una headline universale
+2. **F.A.R.M.A. è il meccanismo chiave** — è quello che lo differenzia da tutti i competitor
+3. **Irene è il brand** — la sua credibilità (farmacista + esperienza + risultati) è il fondamento
+4. **€1.500+/mese è la promessa concreta** — non "diventa ricca", ma "aggiungi reddito stabile etico"
+5. **Garanzia di 180 giorni è un'arma** — riduce il rischio percepito
+6. **Contesto italiano è il moat** — nessun guru americano/generico può competere qui
+
+---
+
+**Fine HANDOFF**
+
+Pronto per continuare in nuova sessione. Copia questo file e continua con `/funnel-brief`.
