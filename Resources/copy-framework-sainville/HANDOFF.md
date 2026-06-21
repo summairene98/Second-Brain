@@ -8,9 +8,9 @@ next-step: funnel-brief
 
 # HANDOFF — Farmacista Digitale® Workflow Sainville
 
-**Sessione Skill 7 completata**: 2026-06-21  
+**Sessione Skill 8 completata**: 2026-06-21  
 **Modello**: Claude Haiku 4.5  
-**Prossimo step**: `/ad-copy-writer` (Skill 8)
+**Prossimo step**: `/email-sequence-writer` (Skill 9)
 
 ---
 
@@ -49,7 +49,7 @@ next-step: funnel-brief
 
 ---
 
-### ✅ COMPLETATO (7 Skill)
+### ✅ COMPLETATO (8 Skill)
 
 #### 5. **Funnel Brief** (`funnel-brief.md`) — Completato 2026-06-21
 **Catena di convinzioni per ogni Avatar + convinzioni universali**
@@ -77,7 +77,17 @@ next-step: funnel-brief
 - 14 regole operative applicate (anti-IA, specificità, variazione ritmo, ecc.)
 - Pronto per Copy Analyst (Skill 9) Gate Promessa-Prova
 
-### ⏭️ DA COMPLETARE (3 Skill rimanenti)
+#### 8. **Ad Copy Writer** (`ads/batch-lancio-v1.md`) — Completato 2026-06-21
+**3 varianti ads + Creative Brief strutturato per ogni avatar**
+- Variante A (Espansionista): Hook intercettazione dialogo mentale — "Hai clienti che ti cercano, non monetizzi"
+- Variante B (Transizionaria): Hook fatto sconosciuto — "La legge NON vieta consulenza online"
+- Variante C (Rivoluzionaria): Hook educazione diretta — "Da frustrazione a libertà in 6 mesi"
+- Piattaforme: Meta Feed (1:1 + 4:5) + Instagram (4:5) + LinkedIn (1:1 + 9:16)
+- Creative Brief per ogni variante: soggetto, emozione, illuminazione, colori, testo, font, formati, naming, Meta Image Scanning
+- Sequenza Retargeting: 5 fasi (Gg 1-3 / 4-7 / 8-14 / 15-21 / 22-30) con 3 varianti per fase
+- 2 punti assegnati all'ad (U1 + U2) — congruenza landing verificata ✅
+
+### ⏭️ DA COMPLETARE (2 Skill rimanenti)
 
 #### 6. **Proof Researcher** (→ `/proof-researcher`)
 **Cosa è**: Mappa convinzioni a prove (quali testimonial/case study/numeri ancorano ogni belief)
@@ -160,7 +170,7 @@ next-step: funnel-brief
 ├── funnel-brief.md                              # ✅ Catena convinzioni per 3 Avatar + universali + distribuzione punti
 ├── proof-map.md                                 # ✅ Mappatura 32 convinzioni → proof specifici (100% copertura)
 ├── landing/landing-v1.md                        # ✅ Copy completo landing page 11 sezioni + taggatura promesse
-├── ads/batch-lancio-v1.md                       # ⏳ DA CREARE (Skill 8)
+├── ads/batch-lancio-v1.md                       # ✅ 3 varianti ads + Creative Brief + Retargeting 5 fasi
 ├── email/sequenza-lancio-v1.md                  # ⏳ DA CREARE (Skill 9)
 └── HANDOFF.md                                   # ← You are here
 ```
@@ -225,16 +235,16 @@ Non usare headline universale — la stessa headline NON funziona per tutti e 3.
 
 ---
 
-## 🚀 PROSSIMI STEP (Skill 8+)
+## 🚀 PROSSIMI STEP (Skill 9+)
 
-**Skill 8 — Ad Copy Writer** (prossimo)
-- Input: Landing page + Proof Map
-- Output: Varianti ads per piattaforme (LinkedIn, Facebook, Instagram)
-- 3 ad set: uno per avatar (headlines diverse, proof diverse, CTA diverse)
-- Formato: long-form (testo + immagine), carousel, video hook
-- Tono: specifico per piattaforma, no marketing-speak
+**Skill 9 — Email Sequence Writer** (prossimo)
+- Input: Landing page + Ads + Proof Map
+- Output: Sequenza email pre-lancio (7-14 giorni) + lancio + nurture
+- Drip campaign: giornaliera o a giorni alterni
+- Goal: buildare anticipazione + installare convinzioni residuali + creare urgenza
+- Tono: narrativo, personale, valore-first (non vendita diretta)
 
-**Skill 9-10 — Production** (dopo Ads)
+**Skill 10 — Copy Analyst** (dopo Email)
 - Landing Page (headlines diverse per avatar)
 - Ad Copy (varianti per LinkedIn, Facebook, Instagram)
 - Email Sequence (drip campaign 7-14 giorni)
@@ -244,20 +254,20 @@ Non usare headline universale — la stessa headline NON funziona per tutti e 3.
 
 **Fine HANDOFF**
 
-✅ Sessione Skill 7 completata (2026-06-21).  
-Prossimo step: `/ad-copy-writer` (Skill 8).
+✅ Sessione Skill 8 completata (2026-06-21).  
+Prossimo step: `/email-sequence-writer` (Skill 9).
 
 ---
 
-## ⚡ TODO PRIMA DI SKILL 8 (Ad Copy Writer)
+## ⚡ TODO PRIMA DI SKILL 9 (Email Sequence Writer)
 
-**LANDING PAGE COMPLETATA** ✅  
-**Prossimo: Varianti Ads per Piattaforme**
+**ADS COMPLETATI** ✅  
+**Prossimo: Sequenza Email Pre-Lancio**
 
-Nota per Skill 8: La landing page include:
-- 20 promesse taggature (tabella Conv# alla fine)
-- 3 case study pronti (Valentina, Marco, Serena)
-- Proof integrate in ogni sezione
-- Headlines 3 varianti (pronte da adattare per ads)
+Nota per Skill 9: Gli ads include:
+- 3 varianti (A, B, C per i 3 avatar)
+- Creative brief strutturato per ogni variante
+- Sequenza retargeting 5 fasi (15 micro-ads)
+- Copy pronti per piattaforme (Meta, Instagram, LinkedIn)
 
-Skill 8 userà questi element per creare varianti ads specifiche per LinkedIn, Facebook, Instagram.
+Skill 9 userà i temi/hook degli ads per creare email sequence di anticipazione (7-14 giorni).
