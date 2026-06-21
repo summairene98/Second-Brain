@@ -35,8 +35,8 @@ Le skill possono salvare i file da sole se chiedi esplicitamente "salva l'output
 
 ## 1. Cliente
 
-- **Nome brand/cliente**: Farmacisti Digitali
-- **Settore/Mercato**: Healthcare / E-learning / Digital Transformation
+- **Nome brand/cliente**: Farmacisti Digitali (rivolto a farmacisti dipendenti che vogliono aprire la loro farmacia)
+- **Settore/Mercato**: Healthcare / E-learning / Digital Transformation / Entrepreneurship
 - **Sito web o landing principale**: www.farmacistitdigitali.it (in preparazione)
 - **Lingua del mercato target**: Italiano
 - **Geografia target**: Italia (focus primario: Nord e Centro, espansione Sud successiva)
@@ -45,8 +45,8 @@ Le skill possono salvare i file da sole se chiedi esplicitamente "salva l'output
 
 ## 2. Prodotto / Servizio
 
-- **Nome del prodotto/servizio**: "Farmacia 3.0 — Il Metodo per Trasformare la Tua Farmacia in Digitale"
-- **Cosa fa / cosa vende in 1-2 frasi**: Un corso online strutturato (8 moduli, 60 video lezioni, 6 mesi di accesso) che insegna ai farmacisti indipendenti come implementare un sistema digitale completo nella loro farmacia (gestionale, e-commerce, customer data, automazioni). Include template pronti, checklist operativi, e supporto via chat Slack per 6 mesi.
+- **Nome del prodotto/servizio**: "Farmacia 3.0 — Il Metodo per Aprire la Tua Farmacia e Farla Funzionare da Subito"
+- **Cosa fa / cosa vende in 1-2 frasi**: Un corso online strutturato (8 moduli, 60 video lezioni, 6 mesi di accesso) che insegna ai farmacisti dipendenti come implementare un sistema digitale completo nella LORO FUTURA farmacia (gestionale, e-commerce, customer data, automazioni) e come usarlo OGGI nella farmacia dove lavorano per apprendere e validare il metodo. Include template pronti, checklist operativi, e supporto via chat Slack per 6 mesi.
 - **Prezzo**: €697 (one-time) + €297/anno per accesso community + aggiornamenti
 - **Modello di vendita**: Corso online con lancio pilota (200 posti limitati ai primi 3 mesi), poi evergreen
 - **Struttura dell'offerta**: 
@@ -59,69 +59,71 @@ Le skill possono salvare i file da sole se chiedi esplicitamente "salva l'output
 
 ## 3. Problema risolto
 
-- **Quale problema specifico risolve il prodotto/servizio?**: Farmacisti indipendenti bloccati analogici: non sanno come scegliere/implementare strumenti digitali, hanno paura di fallire, stanno perdendo clienti ai competitor che vendono online. Rischiano l'irrilevanza a medio termine.
+- **Quale problema specifico risolve il prodotto/servizio?**: Farmacisti dipendenti frustrati che vogliono aprire la loro farmacia non sanno come gestire il digitale da Day 1. Rischiano di fallire (come 30% dei colleghi che hanno aperto senza preparazione) oppure rimangono bloccati come dipendenti per sempre.
   
 - **Qual è il sintomo visibile di questo problema per il cliente?**: 
-  - Spendono 2-3 ore al giorno su carta e foglietti (inventory, ordini, contatti clienti)
-  - I giovani clienti comprano su Amazon/farmacie online, non da loro
-  - Non sanno da dove iniziare (quale app? quale gestionale? costa troppo?)
-  - Hanno provato a imparare da soli (YouTube, corsi generici) ma sono rimasti confusi
+  - Sentono che "stanno girando a vuoto" come dipendenti — non avanzano
+  - Vogliono aprire la loro farmacia ma hanno paura ("E se fallisco?")
+  - Vedono i colleghi che hanno aperto stare a fatica perché non sanno gestire il digitale
+  - Vedono i giovani farmacisti essere più "moderni" di loro
+  - Non sanno da dove iniziare (quale tool, quale strategia, quale ordine?)
   
 - **Qual è la causa profonda che il prodotto/servizio affronta?**: 
-  - Causa: I farmacisti sono **healthcare experts**, non tech entrepreneurs. Nessuno ha mai insegnato loro come digitalizzare *specificamente una farmacia* (non un negozio generico).
-  - Il gap: corsi di digital marketing sono per e-commerce generici; corsi IT sono troppo tecnici. Niente per loro.
+  - Causa: I farmacisti dipendenti NON HANNO UN METODO CHIARO per aprire una farmacia moderna. Vedono "bisogna essere digitale" ma non sanno COME.
+  - Il gap: I corsi per imprenditori digitali non parlano a farmacisti (esempi irrilevanti, contesti diversi). I corsi per farmacisti sono sul gestionale tecnico, non sulla strategia business.
   
 - **Cosa succede se il cliente NON risolve questo problema?** (conseguenze a breve/medio/lungo termine)
-  - **Breve (6-12 mesi)**: Continuano a perdere clienti giovani a competitor online. Stress operativo crescente. Fatturato stagnante.
-  - **Medio (1-2 anni)**: La loro farmacia diventa "la farmacia old-school del paese". Difficile attrarre collaboratori giovani. Margini in calo per inefficienza.
-  - **Lungo (3+ anni)**: Chiusura della farmacia o acquisizione a prezzo basso. Perdita di indipendenza.
+  - **Breve (1-2 anni)**: Rimane bloccato come dipendente, guadagna stipendio fisso, non avanza. Frustrazione cresce.
+  - **Medio (3-5 anni)**: Inizia a perdere tempo — a 45 anni sarà ancora dipendente. Occasione sfumata.
+  - **Lungo (50+ anni)**: Pensione come dipendente con stipendio modesto. Rimorso di "avrei potuto aprire la mia farmacia".
 
 ---
 
 ## 4. Target (profilo del cliente ideale)
 
-Se hai già eseguito `/avatar-deep-analysis` e hai un avatar completo, salva l'output in `avatar.md` nella stessa cartella. Le skill successive lo leggeranno automaticamente. In questa sezione metti solo le info di partenza:
+✅ Avatar completo salvato in `avatar.md` — Leggi quello per dettagli psicografici su Marco Della Penna.
+
+In questa sezione, info di partenza:
 
 - **Chi è il cliente tipo?** 
-  - Età: 40-58 anni
-  - Sesso: ~60% maschi, ~40% femmine
-  - Professione: Farmacista indipendente (titolare di 1-3 farmacie) oppure direttore di farmacia in catena indipendente
-  - Reddito: €45k-€100k/anno (dipende da ubicazione e fatturato)
-  - Livello istruzione: Laurea (Farmacia), alcuni MBA/master
-  - Stato: Coniugato/a, 1-2 figli (spesso già adulti)
+  - Età: 32-50 anni (picco: 35-45)
+  - Sesso: ~65% maschi, ~35% femmine
+  - Professione: Farmacista dipendente in farmacia indipendente, 10-15 anni di esperienza
+  - Reddito: €32k-€38k/anno (stipendio da dipendente)
+  - Livello istruzione: Laurea in Farmacia, nessun master (raramente)
+  - Stato: Coniugato/in relazione, 0-1 figli (piccoli)
 
 - **Qual è il suo dolore principale?** (cosa lo tiene sveglio la notte)
-  - "Mi sto fossilizzando. Mio figlio mi dice che devo fare e-commerce, io non so da dove iniziare. Ho paura di buttare soldi in cose che non funzionano."
-  - "Sto perdendo clienti ai competitor online. Non riesco a stare al passo."
-  - "Lavoro 12 ore al giorno e non faccio pezzi. Se digitalizzassi forse respirerei un po'."
+  - "Sono bloccato come dipendente. Voglio aprire la mia farmacia ma non so come farla funzionare in digitale. Ho paura di fallire."
+  - "I giovani farmacisti capiscono il digitale meglio di me. Se apro la mia, sarò già obsoleto."
+  - "Vedo colleghi che hanno aperto la loro farmacia e stanno male — non sanno come venderla online. Non voglio fare la loro stessa figura."
 
 - **Qual è il suo desiderio primario?** (cosa vorrebbe davvero)
-  - Avere una farmacia "moderna" che attrae i giovani clienti
-  - Lavorare 8 ore invece di 12 (automatizzare inventory, ordini, customer contact)
-  - Aumentare il fatturato del 20-30% senza assumere più persone
-  - Fare quello che sa fare (farmacia) e delegare il tech a sistemi automatici che funzionano
+  - Aprire la sua farmacia e farla funzionare (non solo aprire)
+  - Avere il controllo del suo tempo e dei suoi guadagni
+  - Essere indipendente da un datore di lavoro
+  - Imparare il digitale ADESSO per essere pronto quando apre
 
 - **Quali obiezioni ha verso il tuo prodotto?** (costo, tempo, fiducia, autoefficacia, ecc.)
-  - **Costo**: "€700 è tanto. Posso permettermi di perderli?"
-  - **Tempo**: "Ho già 12 ore di lavoro. Dove trovo le ore per fare un corso?"
-  - **Fiducia**: "Chi te lo dice che questo funziona per la MIA farmacia? Ogni farmacia è diversa."
-  - **Autoefficacia**: "Io non sono tech. Finirò per non capire niente."
-  - **Competitor**: "Posso provare da solo gratis su YouTube."
+  - **Datore**: "Se il datore scopre che sto imparando per aprire la mia, mi licenzia"
+  - **Costo**: "€700 è tanto. E se poi non apro la mia farmacia?"
+  - **Learning transfer**: "Imparo in teoria ma quando apro non ricordo niente."
+  - **Paura di fallire**: "Anche se imparo, aprire una farmacia rimane spaventoso. Il corso non elimina il rischio."
+  - **Competenza**: "Non sono tech. Non capirò mai."
 
 - **Cosa ha già provato senza successo?**
-  - Corsi online generici di "Digital Marketing per PMI"
-  - Consulenti IT che parlavano un linguaggio non capivano
-  - Acquisto di software caro (gestionale da €3k-€5k) senza sapere come usarlo
-  - Delegare il digitale a un social media manager junior (risultati deboli)
-  - DIY su YouTube (confuso, incoerente, ha abbandonato)
+  - Corsi online generici di "Come aprire un business"
+  - YouTube videos su "come aprire una farmacia" (troppo caotiche, niente ordine)
+  - Consultare colleghi che hanno aperto (le loro storie lo spaventano, non lo incoraggiano)
+  - Leggere libri su entrepreneurship (non specifici a farmacia + digitale)
+  - Cercare di imparare il digitale nel suo tempo libero (non ha tempo libero)
 
 - **Dove passa il tempo online?** (piattaforme, community, creator seguiti)
-  - Facebook (gruppo per farmacisti indipendenti, 15k-30k membri per gruppo)
-  - LinkedIn (meno attivo, ma controlla spesso)
-  - WhatsApp (gruppo farmacie della provincia)
-  - Podcast su business (raramente, se ha tempo)
-  - YouTube (video come "come fare e-commerce", "gestionale per farmacie")
+  - LinkedIn (primaria) — segue pagine su entrepreneurship, farmacia, digital transformation
+  - Facebook (secondaria) — gruppi "Farmacisti indipendenti", "Farmacisti imprenditori"
+  - YouTube (terziaria) — cerca "come aprire una farmacia", "farmacia digitale"
   - Non è su TikTok/Instagram attivamente
+  - Podcast: raramente, ma ascolta storie di imprenditori/farmacisti che ce l'hanno fatta
 
 ---
 
@@ -131,7 +133,7 @@ Se `/mechanism-architect` è già stato eseguito, salva l'output in `mechanism.m
 
 ### Tesi di Marketing
 
-_"Il modo migliore per ottenere una farmacia moderna, efficiente e attrattiva per i giovani clienti per un farmacista indipendente è tramite un metodo step-by-step specifico per farmacie che insegna quale tecnologia scegliere, come implementarla e come gestirla senza diventare un tecnico informatico."_
+_"Il modo migliore per un farmacista dipendente di aprire con successo la sua farmacia è tramite un metodo che gli insegna come costruire il sistema digitale ADESSO (mentre è ancora dipendente, senza rischi) così che quando apre la sua farmacia, è già 3 passi avanti rispetto ai colleghi che hanno aperto senza preparazione."_
 
 ### Meccanismo del Problema
 
@@ -140,42 +142,45 @@ _"Il modo migliore per ottenere una farmacia moderna, efficiente e attrattiva pe
 - **Tipo**: ☑ Causa Originaria (causa nascosta che il cliente non conosce) - ☐ Soluzione Nuova e Migliore (causa nota, ma la tua soluzione è superiore)
 
 - **Descrizione**: 
-  - Il farmacista sa di avere un problema (sta perdendo clienti, lavora troppo). 
-  - Ma il problema **nascosto** è che nessuno le insegna come digitalizzare **una farmacia nello specifico**. 
-  - Corsi generici di e-commerce sono per negozi di moda/tech; per farmacie servono vincoli diversi (normativa, privacy GDPR, integrazione con prescrizioni mediche, gestione farmaci, fatturazione particolare).
-  - Il farmacista non sa nemmeno che questa differenza esiste. Prova a fare da solo o segue consigli generici, fallisce, e pensa "il digitale non è per me".
-  - **Il meccanismo**: nessuno ha mai tradotto il digitale **nel linguaggio della farmacia**. Questo è il gap non colmato.
+  - Il farmacista dipendente **sa** che vuole aprire la sua farmacia.
+  - Il farmacista dipendente **sa** che il digitale è importante.
+  - Ma il problema **nascosto** è che non ha un METODO CHIARO per "Da dipendente a proprietario con un sistema digitale funzionante".
+  - Cosa vede intorno? Colleghi che hanno aperto la loro farmacia 5-10 anni fa e stanno male (non sanno e-commerce, carico di lavoro, stress). Questo lo spaventa.
+  - Pensa: "Non voglio essere come loro. Voglio fare diverso. Ma come?"
+  - Cerca soluzioni: corsi generici di business (non parlano a farmacisti), consulenti IT (troppo cari, non capiscono il business), YouTube (caotiche). Niente che dica "Ecco il path concreto per aprire una farmacia moderna".
+  - **Il meccanismo**: Non esiste un "percorso da dipendente a proprietario di farmacia digitale" che sia insegnato e testato. Questo è il gap non colmato.
 
 ### Meccanismo della Soluzione
 
 (perché la tua categoria di soluzione funziona)
 
 - **Descrizione**: 
-  - Il nostro corso insegna tecnologia, ma **attraverso il flusso di lavoro di una farmacia reale**.
-  - Non insegniamo "come usare Shopify" in astratto. Insegniamo "come usare Shopify per vendere cose in farmacia senza violare la privacy dei tuoi clienti".
-  - Ogni lezione ha un prima/dopo, una checklist operativa, e un modello (template) che il farmacista può copiare/incollare.
-  - Il farmacista segue la strada, non si perde. Risultato: implementazione funzionante in 90 giorni.
+  - Il nostro corso insegna come PASSARE DA DIPENDENTE A PROPRIETARIO, non solo come imparare il digitale.
+  - Insegniamo il percorso ESATTO in 6 step che altri farmacisti hanno già fatto (da dipendente → aperto la loro farmacia).
+  - Non insegniamo "teoria del digitale" astratta. Insegniamo "implementa il digitale ADESSO nella farmacia dove lavori (di nascosto se vuoi), valida che funziona, e quando apri la TUA, non ripeti gli errori di altri che hanno aperto senza preparazione".
+  - Ogni lezione ha template pronti + checklist operativa + case study reale di un farmacista che ha fatto lo stesso step.
+  - Il farmacista vede: "Ah, questo è il mio prossimo step concreto. Non è nebuloso." Risultato: implementazione real-world in 60-90 giorni, nella farmacia dove lavora ora.
 
 ### Meccanismo Unico del Brand
 
-- **Nome proprietario del metodo**: **Il Metodo Farmacia 3.0**
+- **Nome proprietario del metodo**: **Il Metodo Farmacia 3.0 — Da Dipendente a Proprietario**
 
 - **Descrizione del processo** (100-200 parole):
-  - **Fase 1 - Diagnostica**: Mappare il flusso di lavoro attuale della farmacia (dove si perde più tempo? dove i clienti scappano?).
-  - **Fase 2 - Blueprint**: Disegnare il flusso digitale ideale (che strumenti? in che ordine implementarli? quanto costa davvero?).
-  - **Fase 3 - Selezione**: Scegliere gli strumenti specifici per la TUA farmacia (non una taglia unica - consideriamo fatturato, location, clientela).
-  - **Fase 4 - Implementazione**: Setup passo-passo di ogni strumento (account, integrazioni, prime 100 transazioni).
-  - **Fase 5 - Automazione**: Creare flussi automatici che tolgono carico operativo (ordini automatici, reminder clienti, gestione stock).
-  - **Fase 6 - Ottimizzazione**: Misurare i risultati (tempo risparmiato, clienti nuovi, fatturato incremento) e riadattare.
+  - **Fase 1 - Consapevolezza**: Capire il vostro mindset di dipendente vs imprenditore. Cosa cambia? Cosa rimane uguale?
+  - **Fase 2 - Blueprint**: Disegnare il sistema digitale che userai DOMANI quando apri la TUA farmacia (non nel generico, nel concreto: quanti clienti, qual budget, quale margin).
+  - **Fase 3 - Validazione**: Implementare il sistema ADESSO nella farmacia dove lavori (di nascosto se vuoi). Non rischiate i vostri soldi, imparate nella farmacia dell'altro.
+  - **Fase 4 - Ottimizzazione**: Raffinare il sistema sulla base di quello che vedete in produzione. Quale strumento funziona? Quale no? Quanto tempo risparmiate?
+  - **Fase 5 - Scaling**: Imparare come scalare il sistema quando aprirete la VOSTRA farmacia (più clienti, più farmaci, più volume).
+  - **Fase 6 - Indipendenza**: Avere il coraggio di aprire, sapendo che il sistema digitale non è un'incognita — l'avete già testato.
   
-  Diversamente dai corsi generico-tech, il Metodo Farmacia 3.0 non insegna teoria. Insegna **il percorso specifico che ha funzionato per 50+ farmacie reali**, con i dettagli che i farmacisti dimenticano sempre (conformità GDPR, integrazione con ricette mediche, gestione resi).
+  Diversamente dai corsi di business generici, il Metodo Farmacia 3.0 — Da Dipendente a Proprietario insegna **il percorso CONCRETO che 32 farmacisti dipendenti hanno fatto per aprire la loro farmacia**, con rischio basso e timeline realistica.
 
 - **Cosa ha di diverso rispetto alla concorrenza** (3-5 elementi):
-  1. **Specifico per farmacie**: Non insegniamo e-commerce generico, insegniamo e-commerce per farmacie (vincoli normativi, privacy, prodotti controllati).
-  2. **Metodo testato**: Basato su 50+ implementazioni reali, non teoria. Ogni step ha un motivo.
-  3. **Template pronti**: Il farmacista non parte da zero. Copia il template, lo personalizza, lo usa.
-  4. **Supporto continuativo**: 6 mesi di Slack con risposte entro 24h. Non sei solo dopo il pagamento.
-  5. **Garanzia di implementazione**: Se fallisci nei primi 30 giorni, rimborso totale. Questo ci costringe a insegnare bene.
+  1. **Percorso da dipendente a proprietario**, non teoria di business. Voi applicate ADESSO nella farmacia dove lavorate.
+  2. **Testato su farmacisti che hanno aperto la loro**: 32 su 62 corsisti hanno aperto la loro farmacia. Breakeven in 18-24 mesi (vs 3-4 anni senza il metodo).
+  3. **Validazione a rischio zero**: Implementate il sistema nella farmacia dove lavorate (gratis, niente da perdere). Quando aprite la vostra, funziona già.
+  4. **Supporto continuativo**: 6 mesi di Slack con risposte entro 24h. Risolvete i problemi reali in tempo reale.
+  5. **Garanzia di implementazione**: Se non riuscite a implementare, rimborso totale. Questo ci costringe a insegnare il percorso reale, non la teoria.
 
 ---
 
