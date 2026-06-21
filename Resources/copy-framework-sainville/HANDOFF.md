@@ -8,15 +8,15 @@ next-step: funnel-brief
 
 # HANDOFF — Farmacista Digitale® Workflow Sainville
 
-**Sessione completata**: 2026-06-21  
+**Sessione Skill 5 completata**: 2026-06-21  
 **Modello**: Claude Haiku 4.5  
-**Prossimo step**: `/funnel-brief` (Skill 5)
+**Prossimo step**: `/proof-researcher` (Skill 6)
 
 ---
 
 ## 📋 STATO DEL PROGETTO
 
-### ✅ COMPLETATO (4 Skill)
+### ✅ COMPLETATO (5 Skill)
 
 #### 1. **Brief** (`farmacista-digitale-CLAUDE-brief.md`)
 - Prodotto: Protocollo F.A.R.M.A.™ (6 mesi, 12 consulenze 1-on-1 con Irene)
@@ -49,16 +49,18 @@ next-step: funnel-brief
 
 ---
 
-### ⏭️ DA COMPLETARE (5 Skill rimanenti)
+### ✅ COMPLETATO (5 Skill)
 
-#### 5. **Funnel Brief** (→ `/funnel-brief`)
-**Cosa è**: Catena di convinzioni (cosa deve credere il cliente per comprare)
-**Input da usare**: 
-- I 3 Avatar hanno driver emotivi diversi
-- Espansionista: "Il mio potenziale merita di essere valorizzato"
-- Transizionaria: "Posso costruire il futuro che voglio, al sicuro"
-- Rivoluzionaria: "Ho diritto a invertire gli anni sprecati"
-- Key beliefs: "F.A.R.M.A. funziona" (proof), "Irene sa davvero" (credibilità), "Io posso farcela" (autoefficacia)
+#### 5. **Funnel Brief** (`funnel-brief.md`) — Completato 2026-06-21
+**Catena di convinzioni per ogni Avatar + convinzioni universali**
+- ESPANSIONISTA: 8 convinzioni specifiche (potenziale, legalità, reddito extra, Irene, F.A.R.M.A. differente, timing, garanzia, vantaggio scientifico)
+- TRANSIZIONARIA: 8 convinzioni specifiche (diritto a futuro diverso, gradualità, piano concreto, 6 mesi sufficienti, mentorato 62, controllo, supporto, garanzia zero rischio)
+- RIVOLUZIONARIA: 8 convinzioni specifiche (valore superiore, via d'uscita, dolore validato, uscita con dignità, visibilità, Serena case study, messaging differenziato, ROI)
+- UNIVERSALI: 8 convinzioni trasversali (competenza preziosa, guadagna etico, Irene vera farmacista, metodo scientifico, community, garanzia, supporto, case study)
+- **Distribuzione Punti**: 9 punti totali (Ads 2 + Landing 3 + Webinar 2 + Sales 1 + Email opt 1)
+- **Livello Consapevolezza**: Consapevoli della Soluzione (primario)
+
+### ⏭️ DA COMPLETARE (5 Skill rimanenti)
 
 #### 6. **Proof Researcher** (→ `/proof-researcher`)
 **Cosa è**: Mappa convinzioni a prove (quali testimonial/case study/numeri ancorano ogni belief)
@@ -138,11 +140,11 @@ next-step: funnel-brief
 ├── avatar-farmacista-digitale.md                # ✅ I 3 Avatar (Espansionista, Transizionaria, Rivoluzionaria)
 ├── competitive-intel.md                         # ✅ Analisi 5 competitor
 ├── mechanism.md                                 # ✅ 9 Domande Kennedy + Meccanismo F.A.R.M.A.
-├── funnel-brief.md                              # ⏳ DA CREARE (next)
-├── proof-map.md                                 # ⏳ DA CREARE
-├── landing/landing-v1.md                        # ⏳ DA CREARE
-├── ads/batch-lancio-v1.md                       # ⏳ DA CREARE
-├── email/sequenza-lancio-v1.md                  # ⏳ DA CREARE
+├── funnel-brief.md                              # ✅ Catena convinzioni per 3 Avatar + universali + distribuzione punti
+├── proof-map.md                                 # ⏳ DA CREARE (Skill 6)
+├── landing/landing-v1.md                        # ⏳ DA CREARE (Skill 7)
+├── ads/batch-lancio-v1.md                       # ⏳ DA CREARE (Skill 8)
+├── email/sequenza-lancio-v1.md                  # ⏳ DA CREARE (Skill 9)
 └── HANDOFF.md                                   # ← You are here
 ```
 
@@ -150,12 +152,10 @@ next-step: funnel-brief
 
 ## 🎯 NEXT STEPS (in order)
 
-**5. Funnel Brief** (catena di convinzioni)
-- Cosa deve credere il farmacista per comprare?
-- Per ESPANSIONISTA: "Autorità online + reddito extra senza rischiare"
-- Per TRANSIZIONARIA: "Piano B serio, al sicuro, con supporto"
-- Per RIVOLUZIONARIA: "Uscita con dignità, finalmente per me"
-- Key beliefs universali: "F.A.R.M.A. funziona", "Irene è credibile", "Io posso riuscire"
+**5. ✅ Funnel Brief — COMPLETATO 2026-06-21**
+- Catena di convinzioni per 3 Avatar + universali
+- Distribuzione punti nel funnel (9 punti totali)
+- Livello di consapevolezza: Consapevoli della Soluzione
 
 **6. Proof Researcher** (mappatura convinzioni → prove)
 - Quale case study supporta quale convinzione?
@@ -203,6 +203,26 @@ Non usare headline universale — la stessa headline NON funziona per tutti e 3.
 
 ---
 
+---
+
+## 🚀 PROSSIMI STEP (Skill 6+)
+
+**Skill 6 — Proof Researcher** (prossimo)
+- Input: Funnel Brief (appena completato)
+- Output: Mappatura convinzioni → Proof specifici
+- Per ogni convinzione: quale case study / testimonial / numero la supporta?
+- Verificare: Valentina, Marco, Serena case study — dettagli e video
+- Verificare: 62 farmacisti, 32 risultati, NPS 78 — survey data
+
+**Skill 7-10 — Production** (dopo Proof)
+- Landing Page (headlines diverse per avatar)
+- Ad Copy (varianti per LinkedIn, Facebook, Instagram)
+- Email Sequence (drip campaign 7-14 giorni)
+- Copy Analyst (quality gate finale su 14 regole Sainville)
+
+---
+
 **Fine HANDOFF**
 
-Pronto per continuare in nuova sessione. Copia questo file e continua con `/funnel-brief`.
+✅ Sessione Skill 5 completata (2026-06-21).  
+Prossimo step: `/proof-researcher` (Skill 6).
