@@ -8,9 +8,9 @@ next-step: funnel-brief
 
 # HANDOFF — Farmacista Digitale® Workflow Sainville
 
-**Sessione Skill 6 completata**: 2026-06-21  
+**Sessione Skill 7 completata**: 2026-06-21  
 **Modello**: Claude Haiku 4.5  
-**Prossimo step**: `/landing-page-writer` (Skill 7)
+**Prossimo step**: `/ad-copy-writer` (Skill 8)
 
 ---
 
@@ -49,7 +49,7 @@ next-step: funnel-brief
 
 ---
 
-### ✅ COMPLETATO (6 Skill)
+### ✅ COMPLETATO (7 Skill)
 
 #### 5. **Funnel Brief** (`funnel-brief.md`) — Completato 2026-06-21
 **Catena di convinzioni per ogni Avatar + convinzioni universali**
@@ -69,7 +69,15 @@ next-step: funnel-brief
 - Piano asset: Bio Irene + foto, Diagram 5 fasi, 3 case study estesi, 11 testimonial video
 - Piano verificazione: Confermare nomi + numeri Valentina/Marco/Serena con Irene
 
-### ⏭️ DA COMPLETARE (4 Skill rimanenti)
+#### 7. **Landing Page Writer** (`landing/landing-v1.md`) — Completato 2026-06-21
+**Copy completo landing page con 11 sezioni**
+- Headlines: 3 varianti avatar-specific (Espansionista, Transizionaria, Rivoluzionaria)
+- 11 sezioni: ATF, Lead, Problema/Meccanismo, Protocollo 5 fasi, Irene bio, 3 case study, Social proof, Offerta, FAQ, CTA
+- Taggatura obbligatoria: 20 promesse specifiche mappate a Conv# + categoria + proof
+- 14 regole operative applicate (anti-IA, specificità, variazione ritmo, ecc.)
+- Pronto per Copy Analyst (Skill 9) Gate Promessa-Prova
+
+### ⏭️ DA COMPLETARE (3 Skill rimanenti)
 
 #### 6. **Proof Researcher** (→ `/proof-researcher`)
 **Cosa è**: Mappa convinzioni a prove (quali testimonial/case study/numeri ancorano ogni belief)
@@ -151,7 +159,7 @@ next-step: funnel-brief
 ├── mechanism.md                                 # ✅ 9 Domande Kennedy + Meccanismo F.A.R.M.A.
 ├── funnel-brief.md                              # ✅ Catena convinzioni per 3 Avatar + universali + distribuzione punti
 ├── proof-map.md                                 # ✅ Mappatura 32 convinzioni → proof specifici (100% copertura)
-├── landing/landing-v1.md                        # ⏳ DA CREARE (Skill 7)
+├── landing/landing-v1.md                        # ✅ Copy completo landing page 11 sezioni + taggatura promesse
 ├── ads/batch-lancio-v1.md                       # ⏳ DA CREARE (Skill 8)
 ├── email/sequenza-lancio-v1.md                  # ⏳ DA CREARE (Skill 9)
 └── HANDOFF.md                                   # ← You are here
@@ -217,16 +225,16 @@ Non usare headline universale — la stessa headline NON funziona per tutti e 3.
 
 ---
 
-## 🚀 PROSSIMI STEP (Skill 7+)
+## 🚀 PROSSIMI STEP (Skill 8+)
 
-**Skill 7 — Landing Page Writer** (prossimo)
-- Input: Funnel Brief + Proof Map (appena completati)
-- Output: Copy completo landing page con 8 sezioni
-- Headlines diverse per 3 Avatar (hero section)
-- Case study: Valentina, Marco, Serena integrati nel flow
-- CTA: diverse per avatar (form, webinar, sales call)
+**Skill 8 — Ad Copy Writer** (prossimo)
+- Input: Landing page + Proof Map
+- Output: Varianti ads per piattaforme (LinkedIn, Facebook, Instagram)
+- 3 ad set: uno per avatar (headlines diverse, proof diverse, CTA diverse)
+- Formato: long-form (testo + immagine), carousel, video hook
+- Tono: specifico per piattaforma, no marketing-speak
 
-**Skill 8-10 — Production** (dopo Landing)
+**Skill 9-10 — Production** (dopo Ads)
 - Landing Page (headlines diverse per avatar)
 - Ad Copy (varianti per LinkedIn, Facebook, Instagram)
 - Email Sequence (drip campaign 7-14 giorni)
@@ -236,19 +244,20 @@ Non usare headline universale — la stessa headline NON funziona per tutti e 3.
 
 **Fine HANDOFF**
 
-✅ Sessione Skill 6 completata (2026-06-21).  
-Prossimo step: `/landing-page-writer` (Skill 7).
+✅ Sessione Skill 7 completata (2026-06-21).  
+Prossimo step: `/ad-copy-writer` (Skill 8).
 
 ---
 
-## ⚡ TODO URGENTE PRIMA DI SKILL 7
+## ⚡ TODO PRIMA DI SKILL 8 (Ad Copy Writer)
 
-1. **CONFERMARE CON IRENE** (1 domanda rapida):
-   - Nomi reali + numeri esatti: Valentina (€1.450→€3.800), Marco (€0→€5.200), Serena (dimissioni)?
-   - Posso usarli nel copy della landing?
+**LANDING PAGE COMPLETATA** ✅  
+**Prossimo: Varianti Ads per Piattaforme**
 
-2. **PRODURRE ASSET CRITICI**:
-   - Bio Irene (200 parole) + foto professionale
-   - Diagram 5 fasi F.A.R.M.A. (grafico semplice, colorato)
+Nota per Skill 8: La landing page include:
+- 20 promesse taggature (tabella Conv# alla fine)
+- 3 case study pronti (Valentina, Marco, Serena)
+- Proof integrate in ogni sezione
+- Headlines 3 varianti (pronte da adattare per ads)
 
-Senza questi, Skill 7 sarà bloccata. Con questi, Skill 7 può procedere al 100%.
+Skill 8 userà questi element per creare varianti ads specifiche per LinkedIn, Facebook, Instagram.
