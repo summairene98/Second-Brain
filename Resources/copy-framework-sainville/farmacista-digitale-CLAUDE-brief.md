@@ -45,15 +45,20 @@ Metodo per farmacisti che costruiscono consulenze preventive online sulla salute
 ## 2. Prodotto / Servizio
 
 - **Nome del prodotto/servizio**: "Farmacista Digitale — Il Protocollo F.A.R.M.A.™"
-- **Cosa fa / cosa vende in 1-2 frasi**: Un metodo online strutturato (8 moduli, 60 video lezioni, 6 mesi di accesso + community + supporto Slack) che insegna ai farmacisti dipendenti come costruire un business redditizio di consulenze preventive online sulla salute (nutrizione, cosmetica, benessere, fitoterapia), monetizzando la loro competenza scientifica senza abbandonare il lavoro in farmacia.
-- **Prezzo**: €2.000 (one-time per il Protocollo completo)
-- **Modello di vendita**: Corso online con cohort mensile + community privata Slack + supporto continuativo
+- **Cosa fa / cosa vende in 1-2 frasi**: Un **percorso di trasformazione professionale di 6 mesi** personalizzato con 12 consulenze one-to-one (2 al mese) che insegna ai farmacisti dipendenti il **metodo scientifico F.A.R.M.A.** per costruire un business redditizio di consulenze preventive online sulla salute, monetizzando la loro competenza senza abbandonare la farmacia.
+- **Prezzo**: €2.000 (one-time)
+- **Modello di vendita**: Percorso sartoriale da 6 mesi + 6 Masterclass + 12 consulenze dirette con Irene
 - **Struttura dell'offerta**: 
-  - Accesso completo ai 8 moduli (per sempre)
-  - Community Slack + risposte entro 24h (6 mesi inclusi, poi opzionale)
-  - Materiali template pronti (copy, slide, post, email)
-  - Registrazioni delle call di gruppo mensili
-- **Garanzia offerta**: Garanzia 30 giorni "Implementa il primo step o rimborso" — se non riesci a completare il primo modulo e a registrare il primo video, rimborso senza domande. Supporto aggiuntivo di 3 mesi gratis se non hai avuto il primo cliente pagante a 6 mesi.
+  - **6 Masterclass** (ognuna con 5 moduli = 30 moduli totali)
+  - **1 modulo sblocca 1 volta/settimana** (progressivamente, non tutto insieme)
+  - **Workbook settimanali** (esercizi per sedimentare)
+  - **12 consulenze one-to-one** bimensili (ogni 14 giorni) direttamente con Irene
+  - **Accesso a vita** a video + registrazioni + materiali
+  - **Cartella Drive personale** con registrazioni consulenze + materiale scientifico
+  - **Bonus**: Piano Editoriale 90 giorni + Script di vendita personalizzato
+  - **Onboarding call**: 30 minuti subito dopo il pagamento
+- **Garanzia offerta**: **Garanzia 180 giorni** — Se applicando il metodo non ricevi richieste di informazioni per consulenze entro 6 mesi, accedi a 3 mesi di follow-up gratuito con Irene. (Nota: la garanzia è su "richieste di info", non su "clienti", perché la conversione dipende dalle tue abilità di vendita, non dal metodo)
+- **Attestato**: Attestato di partecipazione (non ECM)
 
 ---
 
@@ -169,20 +174,26 @@ _"Il modo migliore per un farmacista dipendente di guadagnare bene e uscire dall
 
 - **Nome proprietario del metodo**: **Il Protocollo F.A.R.M.A.™**
 
-- **Descrizione del processo** (6 fasi):
-  - **Fase 1 — Posizionamento**: Scegli la tua nicchia (nutrizione, cosmetica, benessere intestinale, sport, donna). Identifica il tuo "perché unico" e come sei diverso.
-  - **Fase 2 — Profilo & Visibilità**: Costruisci un profilo autentico che attira il tuo cliente ideale senza sembrare un "guru della salute" fake.
-  - **Fase 3 — Contenuti Educativi**: Crea contenuti (video, post, articoli) che insegnano e costruiscono fiducia — non vendono subito.
-  - **Fase 4 — Community**: Raduna i tuoi seguaci in uno spazio privato (Slack, cercle, ecc.) dove li conosci meglio e loro ti vedono come autorità.
-  - **Fase 5 — Monetizzazione**: Lancia il tuo primo prodotto/servizio (consulenza 1-a-1, mini-corso, percorso di gruppo) e ricevi i primi pagamenti.
-  - **Fase 6 — Scaling**: Raffinisci il modello, aggiungi nuove offerte, aumenta i prezzi.
+- **Descrizione del processo** (5 fasi scientifiche F.A.R.M.A.):
+  
+  Il nome **F.A.R.M.A.** non è casuale: ogni lettera è uno step preciso, progressivo, con un obiettivo definito e un output misurabile. Nasce dall'acronimo farmacologico **ADME** (Assorbimento, Distribuzione, Metabolismo, Eliminazione), applicato al percorso di costruzione di un'attività di consulenza online.
+  
+  - **F — FORMULAZIONE DEL PRINCIPIO ATTIVO**: Definisci il tuo mindset + la tua nicchia specialistica (terreno su cui seminare). Identifica il tuo mercato, i mercati immortali, la buyer persona, il tuo Ikigai. (Masterclass 0-1)
+  
+  - **A — ASSORBIMENTO SELETTIVO**: Impara a far assorbire il tuo messaggio. Copywriting scientifico + comunicazione persuasiva + personal brand + scelta del canale digitale (LinkedIn, YouTube, Instagram, articoli). Bonus: intelligenza artificiale come alleata. (Masterclass 2-3)
+  
+  - **R — RILASCIO CONTROLLATO**: Come il rilascio controllato di un farmaco garantisce efficacia nel tempo, la tua strategia di contenuti deve essere costante e calibrata. Impara a creare contenuti organici, piano editoriale 90 giorni, video, social. (Masterclass 4)
+  
+  - **M — METABOLISMO (ECONOMICO)**: Come il fegato trasforma il farmaco in metaboliti attivi, trasforma le richieste di informazioni in clienti paganti. Costruisci la tua offerta irresistibile (struttura, prezzo, durata), impara a fare consulenze etiche e scientifiche, gestisci il funnel. (Masterclass 5)
+  
+  - **A — AZIONE TERAPEUTICA**: Metti tutto in pratica con la **Vendita Etica Scientifica**. Impara le fasi della vendita, i pilastri (tono, presenza, leve emotive), come rispondere ai DM, come fare call di vendita, come gestire obiezioni. Ricevi script di vendita personalizzato. (Masterclass 6)
 
-- **Cosa ha di diverso rispetto alla concorrenza** (3-5 elementi):
-  1. **Specifico per farmacisti**: Non è coaching generico. È costruito da una farmacista per farmacisti, conosce la normativa, il Codice Deontologico, il mindset della professione.
-  2. **Metodo testato**: Basato su 32+ farmacisti che hanno già costruito consulenze online redditizie (Valentina: €3.800/mese, Marco: €5.200/mese, Serena: dimissioni dalla farmacia).
-  3. **Template pronti**: Non parti da zero. Hai copie pronte di landing, email, post social, video script specifici per farmacista.
-  4. **Community + Supporto**: 6 mesi di accesso a community privata + risposte entro 24h su Slack. Non sei solo.
-  5. **Garanzia di implementazione**: Se non riesci a completare il primo modulo in 30 giorni, rimborso totale. Se non hai il primo cliente pagante a 6 mesi, 3 mesi di supporto gratis.
+- **Cosa ha di diverso rispetto alla concorrenza** (5 elementi chiave):
+  1. **12 Consulenze one-to-one dirette**: Non è un corso registrato. Hai 12 consulenze bimensili (ogni 14 giorni) direttamente con Irene per 6 mesi. Lei conosce il tuo percorso, le tue paure specifiche, la tua nicchia. Supporto personalizzato 100%.
+  2. **Metodo scientifico F.A.R.M.A.**: Non è teoria astratta. È 5 fasi progressive, concrete, testato su 62+ farmacisti. Ogni step ha un output misurabile.
+  3. **Specifico per farmacisti**: Costruito da una farmacista per farmacisti. Conosce la normativa italiana, il Codice Deontologico, il mindset della professione, le paure reali dei dipendenti.
+  4. **Percorso sartoriale**: Non template generico. Il percorso si personalizza sulla tua specializzazione (nutrizione, cosmetica, fitoterapia, ecc.), sulla tua nicchia, sulla tua buyer persona.
+  5. **Garanzia di richieste (non di clienti)**: Se entro 180 giorni non hai ricevuto richieste di informazioni per consulenze, accedi a 3 mesi di follow-up gratuito. (Onesta: la garanzia non è su "clienti" perché la conversione dipende da te, ma almeno il metodo funziona abbastanza da generar richieste.)
 
 ---
 
