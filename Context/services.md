@@ -26,7 +26,7 @@ Strutturato sui 5 step di **F.A.R.M.A.** (ricalcati dal processo farmacologico [
 - **Durata**: 6 mesi
 - **Componenti**:
   - 12 consulenze one-to-one bimensili (2 al mese) con [[Irene Summa]]
-  - 6 masterclass progressive (1 al mese, 5 moduli ciascuna)
+  - 6 masterclass progressive (1 al mese, 4 moduli ciascuna + Masterclass 0 introduttiva)
   - Workbook e esercizi per ogni modulo
   - Accesso a vita a registrazioni e materiale
   - Supporto 100% per i 6 mesi
