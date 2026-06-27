@@ -18,10 +18,11 @@ Trascrizione completa (880KB) della lezione di Mik Cosentino su infobusiness: de
 **Creato (wiki layer):**
 - `Resources/frameworks/infobusiness-fundamentals.md` — Framework base: definizione, evoluzione, legge universale causa-effetto, interesse composto, 6 passi istantanei, errori comuni, idea monetizzabile, lifestyle design
 - `Resources/frameworks/infobusiness-for-pharmacists.md` — Applicazione specifica al business [[Farmacista Digitale]]: mapping dei 6 step al [[Protocollo F.A.R.M.A.]], status attuale (Passi 1-3 completati, 4-6 in progress), 3 opzioni di scalabilità (Masterclass gruppo, Corso online, Membership), prossime azioni Q3
+- `Resources/research/ilp-mik-cosentino-analysis.md` — Analisi strutturata: 14 categorie (definizione, evoluzione, causa-effetto, compounding, situazione attuale/desiderata, framework M+++, 6 passi, errori comuni, lifestyle), sottocategorie dettagliate, numeri KPI ricorrenti (30M€ totali, 10k-30k€/mese milestone, timeline 90gg breaking point, 90% abbandona a 45gg), case study (Max Guidi 50-50 yoga, The Couple, Fit2Fat2Fit, Wim Hof), prerequisiti fattibilità
 
-**Update:** `index.md` — 2 nuovi framework aggiunti in sezione Framework
+**Update:** `index.md` — 3 pagine wiki aggiunte (2 framework + 1 analisi strutturata)
 
-**Pagine wiki toccate:** 3 (infobusiness-fundamentals.md, infobusiness-for-pharmacists.md, index.md)
+**Pagine wiki toccate:** 5 (infobusiness-fundamentals.md, infobusiness-for-pharmacists.md, ilp-mik-cosentino-analysis.md, index.md + intelligence/log.md)
 
 **Key insights per [[Irene Summa]]:**
 - Il [[Protocollo F.A.R.M.A.]] è già ai Passi 1-3 (validato, prodotto strutturato). Pronto per scalabilità.
