@@ -7,6 +7,32 @@ description: Cronologia delle ingestioni e aggiornamenti wiki
 
 Registro cronologico delle operazioni di ingestione (source → wiki) e aggiornamenti significativi al layer wiki.
 
+## 2026-06-27
+
+**[2026-06-27 14:35] ingest | research | ilp-mik-cosentino | ILP — Infobusiness Lezione Professionale | Mik Cosentino**
+
+Trascrizione completa (880KB) della lezione di Mik Cosentino su infobusiness: definizione, evoluzione del consulente, legge causa-effetto, compounding del successo, 6 passi, errori comuni.
+
+**Salvato:** `Library/research/ilp-mik-cosentino.md` + `ilp-mik-cosentino.meta.yml`
+
+**Creato (wiki layer):**
+- `Resources/frameworks/infobusiness-fundamentals.md` — Framework base: definizione, evoluzione, legge universale causa-effetto, interesse composto, 6 passi istantanei, errori comuni, idea monetizzabile, lifestyle design
+- `Resources/frameworks/infobusiness-for-pharmacists.md` — Applicazione specifica al business [[Farmacista Digitale]]: mapping dei 6 step al [[Protocollo F.A.R.M.A.]], status attuale (Passi 1-3 completati, 4-6 in progress), 3 opzioni di scalabilità (Masterclass gruppo, Corso online, Membership), prossime azioni Q3
+
+**Update:** `index.md` — 2 nuovi framework aggiunti in sezione Framework
+
+**Pagine wiki toccate:** 3 (infobusiness-fundamentals.md, infobusiness-for-pharmacists.md, index.md)
+
+**Key insights per [[Irene Summa]]:**
+- Il [[Protocollo F.A.R.M.A.]] è già ai Passi 1-3 (validato, prodotto strutturato). Pronto per scalabilità.
+- Passo 4 (Positioning): In progress. LinkedIn 40k/mese. Gap: positioning non completamente differenziato vs competitor.
+- Passo 5 (Sistematizzazione vendita): Parziale. Manca sales page, email sequence, video presentazione. Opportunity: convertire 30-40% dei visitatori senza call 1:1.
+- Passo 6 (Moltiplica canali): Mono-canale LinkedIn. Opportunity: aggiungere YouTube (SEO) o TikTok, integrare ads di Alessandro, email nurture.
+- Tre opzioni di scalabilità identificate: (A) Masterclass di gruppo €800-1200/persona, margine sale, qualità mantenuta; (B) Corso online €500-800/persona, massima scalabilità, rischio abbandono; (C) Membership €200-300/mese, recurring revenue, community engaged.
+- Azione immediata: Case study + landing page + email sequence per validare demand a Agosto.
+
+---
+
 ## 2026-06-19
 
 **[2026-06-19 14:50] ingest | market-research | analisi-target-farmacisti-farma | Analisi Target Farmacisti — FARMA Completa**

@@ -47,6 +47,8 @@ Pagine che rappresentano entità (aziende, persone, prodotti, framework). Aggreg
 <!-- Resources/companies/ -->
 
 ### Framework
+- [Infobusiness — Fondamentali](Resources/frameworks/infobusiness-fundamentals.md) — Modello di business per vendita informazioni: definizione, evoluzione consulente, legge causa-effetto, 6 passi di successo, errori comuni, lifestyle design
+- [Infobusiness per Farmacisti](Resources/frameworks/infobusiness-for-pharmacists.md) — Applicazione pratica del framework infobusiness al business di consulenza farmacisti: mapping dei 6 step, prossime azioni, opzioni di scalabilità (masterclass di gruppo vs corso online vs membership)
 - [Protocollo F.A.R.M.A.](Resources/frameworks/protocollo-farma.md) — Framework 5-step (6 mesi) per trasformare farmacisti in consulenti digitali: formulazione → assorbimento → rilascio → metabolismo → azione terapeutica
 
 ### Prodotti
