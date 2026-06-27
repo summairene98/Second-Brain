@@ -1,0 +1,1313 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curriculum: Infobusiness per Farmacisti Digitali</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary: #1a3d5c;
+            --secondary: #2d7a9e;
+            --accent: #e74c3c;
+            --light-bg: #f8f9fa;
+            --text-dark: #2c3e50;
+            --text-light: #7f8c8d;
+            --border: #ecf0f1;
+            --success: #27ae60;
+            --warning: #f39c12;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-dark);
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 60px 40px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2.8em;
+            margin-bottom: 20px;
+            font-weight: 700;
+        }
+
+        header .subtitle {
+            font-size: 1.4em;
+            color: rgba(255, 255, 255, 0.9);
+            margin-bottom: 30px;
+            font-style: italic;
+        }
+
+        header .meta {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            margin-top: 40px;
+            text-align: left;
+        }
+
+        header .meta-item {
+            background: rgba(255, 255, 255, 0.15);
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 4px solid var(--accent);
+        }
+
+        header .meta-item strong {
+            display: block;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+            opacity: 0.8;
+        }
+
+        header .meta-item span {
+            font-size: 1.3em;
+            font-weight: 600;
+        }
+
+        nav {
+            background: var(--light-bg);
+            padding: 20px 40px;
+            border-bottom: 2px solid var(--border);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        nav .nav-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        nav a {
+            padding: 8px 16px;
+            background: white;
+            color: var(--primary);
+            text-decoration: none;
+            border-radius: 6px;
+            font-weight: 600;
+            font-size: 0.9em;
+            border: 2px solid var(--primary);
+            transition: all 0.3s ease;
+        }
+
+        nav a:hover {
+            background: var(--primary);
+            color: white;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        .content {
+            padding: 40px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .overview {
+            background: var(--light-bg);
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 40px;
+            border-left: 5px solid var(--accent);
+        }
+
+        .overview h2 {
+            color: var(--primary);
+            margin-bottom: 15px;
+            font-size: 1.6em;
+        }
+
+        .pillars {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .pillar-card {
+            background: white;
+            border: 2px solid var(--border);
+            border-radius: 10px;
+            padding: 25px;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+
+        .pillar-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+            border-color: var(--secondary);
+        }
+
+        .pillar-card h3 {
+            color: var(--secondary);
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+
+        .pillar-card .weeks {
+            color: var(--text-light);
+            font-size: 0.9em;
+            margin-bottom: 15px;
+        }
+
+        .pillar-card ul {
+            list-style: none;
+            margin: 0;
+        }
+
+        .pillar-card li {
+            padding: 8px 0;
+            padding-left: 20px;
+            position: relative;
+            color: var(--text-dark);
+        }
+
+        .pillar-card li:before {
+            content: "▸";
+            position: absolute;
+            left: 0;
+            color: var(--accent);
+            font-weight: bold;
+        }
+
+        .pillar-number {
+            display: inline-block;
+            background: var(--accent);
+            color: white;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 40px;
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+
+        section {
+            margin-bottom: 50px;
+        }
+
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 30px;
+            padding-bottom: 15px;
+            border-bottom: 3px solid var(--accent);
+        }
+
+        .section-header h2 {
+            color: var(--primary);
+            font-size: 2em;
+            margin: 0;
+        }
+
+        .pillar-badge {
+            display: inline-block;
+            background: var(--primary);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.85em;
+            font-weight: 600;
+        }
+
+        .masterclass {
+            background: var(--light-bg);
+            border-left: 5px solid var(--secondary);
+            padding: 25px;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
+
+        .masterclass h3 {
+            color: var(--secondary);
+            margin-bottom: 10px;
+            font-size: 1.4em;
+        }
+
+        .masterclass .duration {
+            color: var(--text-light);
+            font-size: 0.9em;
+            margin-bottom: 15px;
+            display: flex;
+            gap: 20px;
+        }
+
+        .masterclass .duration span {
+            display: flex;
+            gap: 5px;
+        }
+
+        .masterclass .duration strong {
+            color: var(--text-dark);
+        }
+
+        .content-bullets {
+            margin-left: 20px;
+            margin-top: 15px;
+        }
+
+        .content-bullets li {
+            margin: 10px 0;
+            color: var(--text-dark);
+        }
+
+        .content-bullets strong {
+            color: var(--primary);
+        }
+
+        .promise-box {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            border-radius: 10px;
+            margin: 40px 0;
+            text-align: center;
+        }
+
+        .promise-box h2 {
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+
+        .promise-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .promise-item {
+            background: rgba(255, 255, 255, 0.15);
+            padding: 20px;
+            border-radius: 8px;
+            border-top: 4px solid var(--accent);
+        }
+
+        .promise-item .label {
+            font-size: 0.9em;
+            opacity: 0.8;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .promise-item .value {
+            font-size: 1.6em;
+            font-weight: bold;
+        }
+
+        .formula-box {
+            background: white;
+            border: 2px dashed var(--secondary);
+            padding: 20px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            margin: 15px 0;
+            color: var(--primary);
+            overflow-x: auto;
+        }
+
+        .formula-box code {
+            display: block;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .table-responsive {
+            overflow-x: auto;
+            margin: 20px 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            margin: 20px 0;
+        }
+
+        table th {
+            background: var(--primary);
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+        }
+
+        table td {
+            padding: 15px;
+            border-bottom: 1px solid var(--border);
+        }
+
+        table tr:hover {
+            background: var(--light-bg);
+        }
+
+        .timeline {
+            position: relative;
+            padding: 20px 0;
+            margin: 30px 0;
+        }
+
+        .timeline-item {
+            display: flex;
+            gap: 30px;
+            margin-bottom: 30px;
+            position: relative;
+            padding-left: 50px;
+        }
+
+        .timeline-item:before {
+            content: "";
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 40px;
+            height: 40px;
+            background: var(--accent);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .timeline-item:after {
+            content: "";
+            position: absolute;
+            left: 19px;
+            top: 40px;
+            width: 2px;
+            height: calc(100% + 30px);
+            background: var(--border);
+        }
+
+        .timeline-item:last-child:after {
+            display: none;
+        }
+
+        .timeline-content h4 {
+            color: var(--primary);
+            margin-bottom: 10px;
+        }
+
+        .timeline-content p {
+            color: var(--text-dark);
+            margin-bottom: 10px;
+        }
+
+        .checklist {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin: 15px 0;
+        }
+
+        .checklist-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 10px;
+            background: var(--light-bg);
+            border-radius: 6px;
+        }
+
+        .checklist-item:before {
+            content: "✓";
+            color: var(--success);
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+
+        .mission-box {
+            background: linear-gradient(135deg, var(--accent) 0%, #c0392b 100%);
+            color: white;
+            padding: 40px;
+            border-radius: 10px;
+            text-align: center;
+            margin: 40px 0;
+            font-style: italic;
+            font-size: 1.3em;
+            line-height: 1.8;
+        }
+
+        footer {
+            background: var(--light-bg);
+            padding: 40px;
+            text-align: center;
+            border-top: 2px solid var(--border);
+            color: var(--text-light);
+        }
+
+        footer p {
+            margin: 10px 0;
+        }
+
+        @media (max-width: 768px) {
+            header .meta {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .pillars {
+                grid-template-columns: 1fr;
+            }
+
+            .promise-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .section-header h2 {
+                font-size: 1.5em;
+            }
+
+            header h1 {
+                font-size: 2em;
+            }
+
+            .timeline-item {
+                padding-left: 50px;
+                gap: 20px;
+            }
+        }
+
+        .expandable {
+            cursor: pointer;
+            user-select: none;
+        }
+
+        .expandable:hover {
+            opacity: 0.8;
+        }
+
+        .hidden {
+            display: none;
+        }
+
+        .expand-toggle {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            background: var(--secondary);
+            color: white;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 20px;
+            font-weight: bold;
+            font-size: 0.8em;
+            margin-right: 10px;
+            transition: transform 0.3s ease;
+        }
+
+        .expanded .expand-toggle {
+            transform: rotate(90deg);
+        }
+
+        .print-button {
+            text-align: center;
+            margin: 30px 0;
+        }
+
+        .print-button button {
+            background: var(--primary);
+            color: white;
+            padding: 15px 40px;
+            border: none;
+            border-radius: 8px;
+            font-size: 1em;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .print-button button:hover {
+            background: var(--secondary);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        @media print {
+            body {
+                background: white;
+                padding: 0;
+            }
+
+            .container {
+                box-shadow: none;
+                max-width: 100%;
+            }
+
+            nav {
+                display: none;
+            }
+
+            .print-button {
+                display: none;
+            }
+
+            .content {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎓 Curriculum Integrato</h1>
+            <div class="subtitle">Infobusiness per Farmacisti Digitali (ILP + Protocollo FARMA)</div>
+            <div class="meta">
+                <div class="meta-item">
+                    <strong>Durata</strong>
+                    <span>6 mesi</span>
+                </div>
+                <div class="meta-item">
+                    <strong>Masterclass</strong>
+                    <span>12 progressive</span>
+                </div>
+                <div class="meta-item">
+                    <strong>Formato</strong>
+                    <span>Video + Workbook</span>
+                </div>
+                <div class="meta-item">
+                    <strong>Target</strong>
+                    <span>Farmacisti frustrati</span>
+                </div>
+            </div>
+        </header>
+
+        <nav>
+            <div class="nav-content">
+                <a href="#overview">📊 Overview</a>
+                <a href="#pillar-1">🏗️ Pilastro 1</a>
+                <a href="#pillar-2">🎯 Pilastro 2</a>
+                <a href="#pillar-3">🤖 Pilastro 3</a>
+                <a href="#pillar-4">📍 Pilastro 4</a>
+                <a href="#pillar-5">⚙️ Pilastro 5</a>
+                <a href="#pillar-6">🌟 Pilastro 6</a>
+                <a href="#promise">💎 La Promessa</a>
+            </div>
+        </nav>
+
+        <div class="content">
+            <!-- OVERVIEW -->
+            <section id="overview">
+                <div class="overview">
+                    <h2>📋 Panoramica Strutturale</h2>
+                    <p>Un curriculum completo che fonde il framework universale di infobusiness di Mik Cosentino con l'implementazione specifica del Protocollo FARMA di Irene Summa, integrato con l'intelligenza artificiale moderna.</p>
+
+                    <div style="margin-top: 30px;">
+                        <h3 style="color: var(--primary); margin-bottom: 20px;">I 6 Pilastri del Percorso</h3>
+                        <div class="pillars">
+                            <div class="pillar-card">
+                                <div class="pillar-number">1</div>
+                                <h3>Fondamenti & Mindset</h3>
+                                <div class="weeks">Settimane 1-4</div>
+                                <ul>
+                                    <li>MC 0: Regole e condizioni</li>
+                                    <li>MC 1: Decostruzione mindset</li>
+                                    <li>MC 1B: Ricostruzione identità</li>
+                                </ul>
+                            </div>
+
+                            <div class="pillar-card">
+                                <div class="pillar-number">2</div>
+                                <h3>Framework Universale</h3>
+                                <div class="weeks">Settimane 5-8</div>
+                                <ul>
+                                    <li>MC 2: SA → SD</li>
+                                    <li>MC 3: Causa-effetto</li>
+                                    <li>MC 3B: Errori fatali</li>
+                                </ul>
+                            </div>
+
+                            <div class="pillar-card">
+                                <div class="pillar-number">3</div>
+                                <h3>Intelligenza Artificiale</h3>
+                                <div class="weeks">Settimane 9-12</div>
+                                <ul>
+                                    <li>MC 4: IA moltiplicatore</li>
+                                    <li>MC 4B: Prompt engineering</li>
+                                </ul>
+                            </div>
+
+                            <div class="pillar-card">
+                                <div class="pillar-number">4</div>
+                                <h3>Posizionamento</h3>
+                                <div class="weeks">Settimane 13-16</div>
+                                <ul>
+                                    <li>MC 5: Formula M+++</li>
+                                    <li>MC 5B: Nicchia & Persona</li>
+                                    <li>MC 5C: Ingrediente magico</li>
+                                </ul>
+                            </div>
+
+                            <div class="pillar-card">
+                                <div class="pillar-number">5</div>
+                                <h3>Operativo</h3>
+                                <div class="weeks">Settimane 17-22</div>
+                                <ul>
+                                    <li>MC 6: I 6 passi</li>
+                                    <li>MC 6B: Contenuti & Social</li>
+                                    <li>MC 6C: Il Funnel</li>
+                                </ul>
+                            </div>
+
+                            <div class="pillar-card">
+                                <div class="pillar-number">6</div>
+                                <h3>Lifestyle</h3>
+                                <div class="weeks">Settimane 23-26</div>
+                                <ul>
+                                    <li>MC 7: Le 4 libertà</li>
+                                    <li>MC 7B: Scalabilità</li>
+                                    <li>MC 7B: Passive income</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- PILASTRO 1 -->
+            <section id="pillar-1">
+                <div class="section-header">
+                    <span class="pillar-badge">Pilastro 1</span>
+                    <h2>🏗️ Fondamenti & Mindset</h2>
+                </div>
+
+                <div class="masterclass">
+                    <h3>Masterclass 0 — Le Fondamenta: Regole, Ambiente, Impegno</h3>
+                    <div class="duration">
+                        <span><strong>Durata:</strong> 6-9 ore (3 ripetizioni)</span>
+                        <span><strong>Settimane:</strong> 1-2</span>
+                    </div>
+                    <p style="margin-top: 15px; color: var(--text-light); font-style: italic;">Stabilire le condizioni per un apprendimento profondo e trasformazione reale</p>
+                    <ul class="content-bullets" style="margin-top: 15px;">
+                        <li><strong>Il Patto:</strong> Se segui le regole, otterrai risultati misurabili</li>
+                        <li><strong>Regola 1:</strong> Ripetizione 3 volte (disciplina della mente)</li>
+                        <li><strong>Regola 2:</strong> Consegna workbook + feedback (traccia il progresso)</li>
+                        <li><strong>Regola 3:</strong> Ambiente ottimale (silenzio, 2-3 ore continuative)</li>
+                        <li><strong>Valore economico:</strong> Un consiglio personalizzato = €1.000-€2.000 di guadagno futuro</li>
+                    </ul>
+                </div>
+
+                <div class="masterclass">
+                    <h3>Masterclass 1 — La Decostruzione: Il Mindset Tossico</h3>
+                    <div class="duration">
+                        <span><strong>Durata:</strong> 9-12 ore (3 ripetizioni)</span>
+                        <span><strong>Settimane:</strong> 2-3</span>
+                    </div>
+                    <p style="margin-top: 15px; color: var(--text-light); font-style: italic;">Riconoscere e smontare le credenze limitanti che ti hanno mantenuto al bancone</p>
+                    <ul class="content-bullets" style="margin-top: 15px;">
+                        <li><strong>Il Problema:</strong> Il mindset del farmacista è "doppiamente tossico"</li>
+                        <li><strong>Le 5 Paure:</strong>
+                            <ul style="margin-top: 10px; margin-left: 20px;">
+                                <li>Paura di non essere abbastanza esperto</li>
+                                <li>Paura di parlare di soldi</li>
+                                <li>Paura di vendere</li>
+                                <li>Paura dell'IA</li>
+                                <li>Paura di non bastare</li>
+                            </ul>
+                        </li>
+                        <li><strong>La Gabbia Bianca:</strong> Paura invisibile che mantiene "sicuro" ma è prigione</li>
+                        <li><strong>Il Villain:</strong> Il sistema sanitario ha vantaggio a mantenerti ignorante</li>
+                    </ul>
+                </div>
+
+                <div class="masterclass">
+                    <h3>Masterclass 1B — La Ricostruzione: L'Identità del Farmacista Digitale</h3>
+                    <div class="duration">
+                        <span><strong>Durata:</strong> 6-9 ore (3 ripetizioni)</span>
+                        <span><strong>Settimane:</strong> 3-4</span>
+                    </div>
+                    <p style="margin-top: 15px; color: var(--text-light); font-style: italic;">Costruire un'identità nuova di imprenditore consapevole</p>
+                    <ul class="content-bullets" style="margin-top: 15px;">
+                        <li><strong>Chi sei veramente:</strong> Esperto scientifico con 5 anni di formazione</li>
+                        <li><strong>Le 4 Libertà che meriti:</strong>
+                            <ul style="margin-top: 10px; margin-left: 20px;">
+                                <li>Libertà di orario (4-6 ore/giorno)</li>
+                                <li>Libertà di location (da dove vuoi)</li>
+                                <li>Libertà di scelta (dici NO)</li>
+                                <li>Libertà finanziaria (€50k+/mese)</li>
+                            </ul>
+                        </li>
+                        <li><strong>La mentalità:</strong> Umile, curioso, scientifico, professionale, imprenditore, coraggioso</li>
+                        <li><strong>Affermazione giornaliera:</strong> "Io sono un esperto scientifico che aiuta persone online"</li>
+                    </ul>
+                </div>
+            </section>
+
+            <!-- PILASTRO 2 -->
+            <section id="pillar-2">
+                <div class="section-header">
+                    <span class="pillar-badge">Pilastro 2</span>
+                    <h2>🎯 Framework Universale</h2>
+                </div>
+
+                <div class="masterclass">
+                    <h3>Masterclass 2 — La Progressione: Situazione Attuale → Situazione Desiderata</h3>
+                    <div class="duration">
+                        <span><strong>Durata:</strong> 6-9 ore (3 ripetizioni)</span>
+                        <span><strong>Settimane:</strong> 5-6</span>
+                    </div>
+                    <p style="margin-top: 15px; color: var(--text-light); font-style: italic;">Mappare dove sei ORA e dove vuoi ARRIVARE con numeri reali</p>
+                    <ul class="content-bullets" style="margin-top: 15px;">
+                        <li><strong>SA → SD:</strong> Situazione Attuale → Situazione Desiderata</li>
+                        <li><strong>I Numeri che Contano:</strong>
+                            <ul style="margin-top: 10px; margin-left: 20px;">
+                                <li>Fatturato: €1.200 → €10k → €30k → €100k+</li>
+                                <li>Follower: 0 → 5k → 20k → 100k+</li>
+                                <li>Tempo: 40 ore → 30 ore → 20 ore</li>
+                            </ul>
+                        </li>
+                        <li><strong>Il Ciclo Infinito:</strong> Ogni SD raggiunta diventa una nuova SA</li>
+                        <li><strong>Esercizio:</strong> Scrivi la tua SD dettagliata (un giorno tipo)</li>
+                    </ul>
+                </div>
+
+                <div class="masterclass">
+                    <h3>Masterclass 3 — La Legge Universale: Causa-Effetto e Compounding 90 Giorni</h3>
+                    <div class="duration">
+                        <span><strong>Durata:</strong> 9 ore (3 ripetizioni)</span>
+                        <span><strong>Settimane:</strong> 6-7</span>
+                    </div>
+                    <p style="margin-top: 15px; color: var(--text-light); font-style: italic;">Capire il meccanismo del successo (non è lineare, è compounding)</p>
+                    <ul class="content-bullets" style="margin-top: 15px;">
+                        <li><strong>La Legge:</strong> Non è l'azione singola che conta, ma l'ACCUMULO</li>
+                        <li><strong>Timeline Critica (90 Giorni):</strong>
+                            <ul style="margin-top: 10px; margin-left: 20px;">
+                                <li>Giorni 1-30: Nulla visibile</li>
+                                <li>Giorni 31-60: Primi segnali deboli</li>
+                                <li>Giorni 61-90: I risultati esplodono</li>
+                                <li>🚨 GIORNO 45: Il momento critico (il 90% abbandona qui)</li>
+                            </ul>
+                        </li>
+                        <li><strong>L'Insegnamento della Natura:</strong> Cicli naturali (giorno-notte, pioggia-sole)</li>
+                        <li><strong>Regola d'Oro:</strong> Non controllare i risultati giornalieri. Guarda ogni 2 settimane.</li>
+                    </ul>
+                </div>
+
+                <div class="masterclass">
+                    <h3>Masterclass 3B — I 6 Errori Fatali da Evitare</h3>
+                    <div class="duration">
+                        <span><strong>Durata:</strong> 6-9 ore (3 ripetizioni)</span>
+                        <span><strong>Settimane:</strong> 7-8</span>
+                    </div>
+                    <p style="margin-top: 15px; color: var(--text-light); font-style: italic;">Imparare dagli errori di altri per non commetterli tu</p>
+                    <div class="table-responsive">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>Errore</th>
+                                    <th>Cosa Succede</th>
+                                    <th>Come Evitarlo</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><strong>#1: Non Validare il Mercato</strong></td>
+                                    <td>Nessuno compra il tuo prodotto</td>
+                                    <td>Intervista 10-20 persone prima</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>#2: Trappola della Perfezione</strong></td>
+                                    <td>Non pubblichi nulla, rimani invisibile</td>
+                                    <td>"Fatto domani è meglio che perfetto mai"</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>#3: Abbandonare Prima di 90 Giorni</strong></td>
+                                    <td>Hai piantato il seme, ma ti stanchi</td>
+                                    <td>Commit scritto + accountability buddy</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>#4: Non Accettare Alti/Bassi</strong></td>
+                                    <td>Cambi strategia ogni mese (incostanza)</td>
+                                    <td>Guarda la tendenza 30 giorni, non 1 giorno</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>#5: Non Rinunciare a Nulla</strong></td>
+                                    <td>Non cambi abitudini, non cambi risultati</td>
+                                    <td>Identifica cosa SMETTI, DELEGHI, RIDIMENSIONI</td>
+                                </tr>
+                                <tr>
+                                    <td><strong>#6: Non Lavorare Duramente sulle Poche Ore</strong></td>
+                                    <td>"Non ho 8 ore, quindi non posso iniziare"</td>
+                                    <td>5 ore intensa > 20 ore disattenta</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+
+            <!-- PILASTRO 3 -->
+            <section id="pillar-3">
+                <div class="section-header">
+                    <span class="pillar-badge">Pilastro 3</span>
+                    <h2>🤖 Intelligenza Artificiale</h2>
+                </div>
+
+                <div class="masterclass">
+                    <h3>Masterclass 4 — L'IA Come Moltiplicatore: Da Farmacista a Superpotenza</h3>
+                    <div class="duration">
+                        <span><strong>Durata:</strong> 9-12 ore (3 ripetizioni)</span>
+                        <span><strong>Settimane:</strong> 9-10</span>
+                    </div>
+                    <p style="margin-top: 15px; color: var(--text-light); font-style: italic;">Eliminare la paura dell'IA e capire come usarla per moltiplicare il tuo impatto</p>
+                    <ul class="content-bullets" style="margin-top: 15px;">
+                        <li><strong>La Story di Irene:</strong> Da scettica (2022) a credente (2026)</li>
+                        <li><strong>L'Equazione:</strong> (Farmacista + Scienza) × (IA come tool) = Superpotenza</li>
+                        <li><strong>Le Paure Affrontate:</strong> "Mi sostituirà?", "È contro la scienza?", "Non capisco come funziona"</li>
+                        <li><strong>Cosa L'IA Può Fare:</strong> Ricerca in 20 min (vs 10 ore), articolo in 3 ore (vs 3 giorni), 100 email personalizzate in 1 ora</li>
+                        <li><strong>Cosa Tu Mantieni:</strong> Scienza, missione, etica, creatività strategica, personal brand</li>
+                        <li><strong>I 3 Livelli di Uso:</strong> Content generation, Ricerca assistita, Automazione di sistema</li>
+                    </ul>
+                </div>
+
+                <div class="masterclass">
+                    <h3>Masterclass 4B — Prompt Engineering Scientifico per Farmacisti</h3>
+                    <div class="duration">
+                        <span><strong>Durata:</strong> 9 ore (3 ripetizioni)</span>
+                        <span><strong>Settimane:</strong> 10-11</span>
+                    </div>
+                    <p style="margin-top: 15px; color: var(--text-light); font-style: italic;">Imparare a scrivere prompt che generano contenuti scientificamente accurati</p>
+                    <ul class="content-bullets" style="margin-top: 15px;">
+                        <li><strong>Formula SCRAP:</strong>
+                            <ul style="margin-top: 10px; margin-left: 20px;">
+                                <li><strong>S</strong>ommario: Contesto e ruolo</li>
+                                <li><strong>C</strong>ompito: Cosa specifico fare</li>
+                                <li><strong>R</strong>equisiti: Vincoli e limiti</li>
+                                <li><strong>A</strong>iutanti: Tool di supporto</li>
+                                <li><strong>P</strong>ubblica: Dove va il contenuto</li>
+                            </ul>
+                        </li>
+                        <li><strong>10 Template Pronti:</strong> Ricerca veloce, Articolo, Video, Email, FAQ, Infografica, Case Study, Lezione online, Confronto, Social Series</li>
+                        <li><strong>La Regola dell'Iterazione:</strong> Non accetti il primo output. Itei fino a perfetto.</li>
+                        <li><strong>Esercizio:</strong> Scrivi 5 prompt per i tuoi task ricorrenti</li>
+                    </ul>
+                </div>
+            </section>
+
+            <!-- PILASTRO 4 -->
+            <section id="pillar-4">
+                <div class="section-header">
+                    <span class="pillar-badge">Pilastro 4</span>
+                    <h2>📍 Posizionamento & Strategia</h2>
+                </div>
+
+                <div class="masterclass">
+                    <h3>Masterclass 5 — La Formula M+++: Mercato, Messaggio, Matematica</h3>
+                    <div class="duration">
+                        <span><strong>Durata:</strong> 9 ore (3 ripetizioni)</span>
+                        <span><strong>Settimane:</strong> 13-14</span>
+                    </div>
+                    <p style="margin-top: 15px; color: var(--text-light); font-style: italic;">Capire e applicare il framework universale di Mik al tuo caso specifico</p>
+                    <ul class="content-bullets" style="margin-top: 15px;">
+                        <li><strong>M di Mercato:</strong> La tua tribù specifica che ha il problema che risolvi</li>
+                        <li><strong>M di Messaggio:</strong> L'ingrediente magico che ti fa spiccare</li>
+                        <li><strong>M di Matematica:</strong> Come strutturi l'offerta e a quanto la vendi
+                            <ul style="margin-top: 10px; margin-left: 20px;">
+                                <li>Modello A: Consulenza 1:1 (€500-€2.000/ora)</li>
+                                <li>Modello B: Corso Online (€500-€2.000 unico)</li>
+                                <li>Modello C: Membership (€200-€500/mese)</li>
+                                <li>Modello Ibrido (Consigliato): A + B + C</li>
+                            </ul>
+                        </li>
+                        <li><strong>Esercizio:</strong> Definisci il tuo M+++ in una tabella</li>
+                    </ul>
+                </div>
+
+                <div class="masterclass">
+                    <h3>Masterclass 5B — Nicchia Specifica + Buyer Persona Dettagliata</h3>
+                    <div class="duration">
+                        <span><strong>Durata:</strong> 6-9 ore (3 ripetizioni)</span>
+                        <span><strong>Settimane:</strong> 14-15</span>
+                    </div>
+                    <p style="margin-top: 15px; color: var(--text-light); font-style: italic;">Definire ESATTAMENTE chi aiuti e quali siano i suoi problemi veri</p>
+                    <ul class="content-bullets" style="margin-top: 15px;">
+                        <li><strong>Nicchia vs Generico:</strong> "Farmaciste donne over-35 con PCOS" vs "Farmacisti"</li>
+                        <li><strong>Come Restringere (5 Step):</strong> Passione → Superpower → Pain Point → Ultra-Specifico → Test con 10 persone</li>
+                        <li><strong>I 10 Elementi del Buyer Persona:</strong>
+                            <ul style="margin-top: 10px; margin-left: 20px;">
+                                <li>Dati demografici (nome, età, professione)</li>
+                                <li>Situazione Attuale</li>
+                                <li>Pain Point #1</li>
+                                <li>Pain Point #2-3</li>
+                                <li>Paure nascoste</li>
+                                <li>Desideri</li>
+                                <li>Dove sta online</li>
+                                <li>Chi influenza le decisioni</li>
+                                <li>Il suo linguaggio</li>
+                                <li>Situazione Desiderata</li>
+                            </ul>
+                        </li>
+                        <li><strong>Esercizio:</strong> Completa i 10 elementi per il tuo buyer persona</li>
+                    </ul>
+                </div>
+
+                <div class="masterclass">
+                    <h3>Masterclass 5C — L'Ingrediente Magico: Come Spiccare Tra Milioni</h3>
+                    <div class="duration">
+                        <span><strong>Durata:</strong> 6-9 ore (3 ripetizioni)</span>
+                        <span><strong>Settimane:</strong> 15-16</span>
+                    </div>
+                    <p style="margin-top: 15px; color: var(--text-light); font-style: italic;">Identificare il tuo differenziale UNICO che ti fa spiccare</p>
+                    <ul class="content-bullets" style="margin-top: 15px;">
+                        <li><strong>Cos'è:</strong> La COMBINAZIONE unica di elementi che solo TU hai</li>
+                        <li><strong>Non è:</strong> Laurea, aspetto, esperienza (tutti altri ce l'hanno)</li>
+                        <li><strong>È:</strong> Combinazione inaspettata, prospettiva unica, metodologia propria, storia personale</li>
+                        <li><strong>4 Domande per Identificarlo:</strong>
+                            <ul style="margin-top: 10px; margin-left: 20px;">
+                                <li>Cosa so fare che pochi altri sanno?</li>
+                                <li>Quale è la mia prospettiva unica?</li>
+                                <li>Quale è la mia storia che nessuno può raccontare?</li>
+                                <li>Per cosa la gente mi chiede sempre aiuto?</li>
+                            </ul>
+                        </li>
+                        <li><strong>Frase di 20 Parole:</strong> "Io sono [ingrediente] e trasformo [tribù] in [risultato] facendo [metodo unico]"</li>
+                    </ul>
+                </div>
+            </section>
+
+            <!-- PILASTRO 5 -->
+            <section id="pillar-5">
+                <div class="section-header">
+                    <span class="pillar-badge">Pilastro 5</span>
+                    <h2>⚙️ Operativo & Scalabilità</h2>
+                </div>
+
+                <div class="masterclass">
+                    <h3>Masterclass 6 — I 6 Passi Istantanei di Successo</h3>
+                    <div class="duration">
+                        <span><strong>Durata:</strong> 9-12 ore (3 ripetizioni)</span>
+                        <span><strong>Settimane:</strong> 17-18</span>
+                    </div>
+                    <p style="margin-top: 15px; color: var(--text-light); font-style: italic;">Imparare i 6 step operativi per scalare da zero a imprenditore</p>
+
+                    <div style="margin-top: 20px;">
+                        <h4 style="color: var(--primary); margin-bottom: 15px;">I 6 Passi:</h4>
+                        <div class="timeline">
+                            <div class="timeline-item">
+                                <div class="timeline-content">
+                                    <h4>Passo 1: Identifica Il Problema REALE</h4>
+                                    <p><strong>Obiettivo:</strong> Validare che il problema esiste davvero</p>
+                                    <p><strong>Come:</strong> Intervista 10-20 persone nella tua tribù</p>
+                                    <p><strong>Output:</strong> Una frase che descrive il problema reale</p>
+                                </div>
+                            </div>
+
+                            <div class="timeline-item">
+                                <div class="timeline-content">
+                                    <h4>Passo 2: Crea La Soluzione Strutturata</h4>
+                                    <p><strong>Obiettivo:</strong> Trasformare il tuo know-how in un framework</p>
+                                    <p><strong>Come:</strong> Definisci 3-5 step logici (non caos)</p>
+                                    <p><strong>Output:</strong> Il tuo "Protocollo" (da 5 step)</p>
+                                </div>
+                            </div>
+
+                            <div class="timeline-item">
+                                <div class="timeline-content">
+                                    <h4>Passo 3: Valida Con Early Adopters</h4>
+                                    <p><strong>Obiettivo:</strong> Testare che il framework funziona davvero</p>
+                                    <p><strong>Come:</strong> 5-10 clienti test a prezzo ridotto</p>
+                                    <p><strong>Output:</strong> Testimonial + Versione 2.0 migliorata</p>
+                                </div>
+                            </div>
+
+                            <div class="timeline-item">
+                                <div class="timeline-content">
+                                    <h4>Passo 4: Scala Il Posizionamento</h4>
+                                    <p><strong>Obiettivo:</strong> Diventare visibile come esperto</p>
+                                    <p><strong>Come:</strong> Contenuti coerenti su LinkedIn/YouTube/TikTok</p>
+                                    <p><strong>Target:</strong> 40k impression mensili organiche</p>
+                                </div>
+                            </div>
+
+                            <div class="timeline-item">
+                                <div class="timeline-content">
+                                    <h4>Passo 5: Sistematizza La Vendita</h4>
+                                    <p><strong>Obiettivo:</strong> Da vendita 1:1 a sistema automatizzato</p>
+                                    <p><strong>Come:</strong> Sales page + Email sequence + Funnel</p>
+                                    <p><strong>Output:</strong> Sistema che converte senza te</p>
+                                </div>
+                            </div>
+
+                            <div class="timeline-item">
+                                <div class="timeline-content">
+                                    <h4>Passo 6: Moltiplica I Canali</h4>
+                                    <p><strong>Obiettivo:</strong> Non dipendere da un solo canale</p>
+                                    <p><strong>Come:</strong> LinkedIn + YouTube + Email + TikTok + Partnership</p>
+                                    <p><strong>Target:</strong> Minimo 3 canali attivi contemporaneamente</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="masterclass">
+                    <h3>Masterclass 6B — Contenuti, Social e Autorità Online</h3>
+                    <div class="duration">
+                        <span><strong>Durata:</strong> 9-12 ore (3 ripetizioni)</span>
+                        <span><strong>Settimane:</strong> 19-20</span>
+                    </div>
+                    <p style="margin-top: 15px; color: var(--text-light); font-style: italic;">Creare una strategia di contenuti che ti posiziona come esperto</p>
+                    <ul class="content-bullets" style="margin-top: 15px;">
+                        <li><strong>Regola d'Oro:</strong> Un'IDEA → 10 formati di contenuto</li>
+                        <li><strong>I 3 Pilastri dei Contenuti:</strong>
+                            <ul style="margin-top: 10px; margin-left: 20px;">
+                                <li>70% Educativo (insegni qualcosa)</li>
+                                <li>20% Ispirativo (storie di trasformazione)</li>
+                                <li>10% Vendita leggera (menzioni sottili)</li>
+                            </ul>
+                        </li>
+                        <li><strong>Calendario Settimanale:</strong>
+                            <ul style="margin-top: 10px; margin-left: 20px;">
+                                <li>Lunedì: Dato shocking</li>
+                                <li>Martedì: Domanda rettorica</li>
+                                <li>Mercoledì: Story personale</li>
+                                <li>Giovedì: Contraddizione sfatata</li>
+                                <li>Venerdì: Consiglio pratico</li>
+                                <li>Sabato: Citazione esperta</li>
+                                <li>Domenica: Reflection</li>
+                            </ul>
+                        </li>
+                        <li><strong>Formula AIDA:</strong> Attention → Interest → Desire → Action</li>
+                    </ul>
+                </div>
+
+                <div class="masterclass">
+                    <h3>Masterclass 6C — Il Funnel Del Farmacista Digitale</h3>
+                    <div class="duration">
+                        <span><strong>Durata:</strong> 6-9 ore (3 ripetizioni)</span>
+                        <span><strong>Settimane:</strong> 20-22</span>
+                    </div>
+                    <p style="margin-top: 15px; color: var(--text-light); font-style: italic;">Creare una sequenza automatizzata che porta da sconosciuto a cliente</p>
+                    <ul class="content-bullets" style="margin-top: 15px;">
+                        <li><strong>TOFU (Awareness):</strong> LinkedIn, YouTube, TikTok → Lead magnet</li>
+                        <li><strong>MOFU (Consideration):</strong> Email sequence 5-7 email → Webinar, Video</li>
+                        <li><strong>BOFU (Decision):</strong> Sales page + VSL → Pagamento</li>
+                        <li><strong>Retention:</strong> Email, Community, Follow-up → Referral</li>
+                        <li><strong>I Tool del Funnel:</strong>
+                            <ul style="margin-top: 10px; margin-left: 20px;">
+                                <li>Lead Magnet (Freebie)</li>
+                                <li>Landing Page</li>
+                                <li>Email Sequence (ConvertKit, ActiveCampaign)</li>
+                                <li>Sales Page (Webflow, ThriveCart)</li>
+                                <li>VSL Video (Loom, Wistia)</li>
+                                <li>Email Finale (The Ask)</li>
+                            </ul>
+                        </li>
+                        <li><strong>Metriche Critiche:</strong> Engagement Rate, CTR, Conversion Rate, Email Opens, Consulenze Prenotate</li>
+                    </ul>
+                </div>
+            </section>
+
+            <!-- PILASTRO 6 -->
+            <section id="pillar-6">
+                <div class="section-header">
+                    <span class="pillar-badge">Pilastro 6</span>
+                    <h2>🌟 Lifestyle & Exit Strategy</h2>
+                </div>
+
+                <div class="masterclass">
+                    <h3>Masterclass 7 — Le 4 Libertà: Orario, Location, Scelta, Finanza</h3>
+                    <div class="duration">
+                        <span><strong>Durata:</strong> 6-9 ore (3 ripetizioni)</span>
+                        <span><strong>Settimane:</strong> 23-24</span>
+                    </div>
+                    <p style="margin-top: 15px; color: var(--text-light); font-style: italic;">Definire esattamente che libertà vuoi e come la raggiungi</p>
+                    <div style="margin-top: 20px;">
+                        <h4 style="color: var(--primary); margin-bottom: 15px;">Le 4 Libertà:</h4>
+                        <div class="table-responsive">
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Libertà</th>
+                                        <th>Cosa è</th>
+                                        <th>Timeline</th>
+                                        <th>Come</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td><strong>Orario</strong></td>
+                                        <td>4-6 ore/giorno, non 8</td>
+                                        <td>18-24 mesi</td>
+                                        <td>Automazione + delegation</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Location</strong></td>
+                                        <td>Lavori da dove vuoi</td>
+                                        <td>Immediato</td>
+                                        <td>Business digital-first</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Scelta</strong></td>
+                                        <td>Dici NO ai clienti</td>
+                                        <td>12-18 mesi</td>
+                                        <td>Raised il prezzo</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>Finanza</strong></td>
+                                        <td>€50k+/mese passive</td>
+                                        <td>24-36 mesi</td>
+                                        <td>Prodotti scalabili + automazione</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <ul class="content-bullets" style="margin-top: 20px;">
+                        <li><strong>Un Giorno Tipo:</strong> 7:00 Sveglia, 8:00-10:00 Lavoro creativo, 10:00-11:00 Pausa, 11:00-12:30 Gestione, 14:00-16:00 Consulenze, 17:00+ Libero</li>
+                        <li><strong>Totale Lavoro:</strong> 5-6 ore/giorno (vs 8 al bancone)</li>
+                        <li><strong>Risultato:</strong> €50k/mese (vs €1.200/mese)</li>
+                        <li><strong>Esercizio:</strong> Scrivi la tua SD di lifestyle (un paragrafo)</li>
+                    </ul>
+                </div>
+
+                <div class="masterclass">
+                    <h3>Masterclass 7B — Scalabilità Infinita e Passive Income</h3>
+                    <div class="duration">
+                        <span><strong>Durata:</strong> 6-9 ore (3 ripetizioni)</span>
+                        <span><strong>Settimane:</strong> 24-26</span>
+                    </div>
+                    <p style="margin-top: 15px; color: var(--text-light); font-style: italic;">Costruire un business che cresce senza il tuo tempo lineare</p>
+                    <ul class="content-bullets" style="margin-top: 15px;">
+                        <li><strong>I 4 Livelli di Scalabilità:</strong>
+                            <ul style="margin-top: 10px; margin-left: 20px;">
+                                <li><strong>Livello 1 (Service-Based):</strong> Consulenza 1:1 → Max €20-30k/mese</li>
+                                <li><strong>Livello 2 (Hybrid):</strong> Tempo + Prodotto → Max €50-100k/mese</li>
+                                <li><strong>Livello 3 (Product-Based):</strong> Prodotto puro → Max €100-500k+/mese</li>
+                                <li><strong>Livello 4 (Platform-Based):</strong> Piattaforma → Max Milioni/mese</li>
+                            </ul>
+                        </li>
+                        <li><strong>Le 5 Leve di Scalabilità:</strong>
+                            <ul style="margin-top: 10px; margin-left: 20px;">
+                                <li>Prezzo (aumenta 100-300%)</li>
+                                <li>Retention (abbassa churn)</li>
+                                <li>Affiliate/Partnership</li>
+                                <li>Automazione</li>
+                                <li>Delegation</li>
+                            </ul>
+                        </li>
+                        <li><strong>La Vera Passive Income (3 Anni):</strong>
+                            <ul style="margin-top: 10px; margin-left: 20px;">
+                                <li>Year 1: €5-20k/mese, 10% passive, 40-50 ore/settimana</li>
+                                <li>Year 2: €40-60k/mese, 50% passive, 25-35 ore/settimana</li>
+                                <li>Year 3+: €100k+/mese, 90% passive, 5-10 ore/settimana</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+
+            <!-- LA PROMESSA -->
+            <section id="promise">
+                <div class="promise-box">
+                    <h2>💎 La Promessa Finale</h2>
+                    <p style="font-size: 1.1em; margin: 20px 0;">Trasformazione completa da farmacista frustrato a imprenditore digitale autorevolissimo</p>
+
+                    <div class="promise-grid">
+                        <div class="promise-item">
+                            <div class="label">Reddito</div>
+                            <div class="value">€1.200 → €50k+</div>
+                        </div>
+                        <div class="promise-item">
+                            <div class="label">Tempo</div>
+                            <div class="value">40h → 20h</div>
+                        </div>
+                        <div class="promise-item">
+                            <div class="label">Libertà</div>
+                            <div class="value">Zero → Totale</div>
+                        </div>
+                        <div class="promise-item">
+                            <div class="label">Timeline</div>
+                            <div class="value">6-24 mesi</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mission-box">
+                    "Trasformare 1.000 farmacisti frustrati in imprenditori digitali autorevolissimi che guadagnano 10-100x di più, lavorano meno, e mantengono la loro integrità scientifica."
+                </div>
+
+                <div style="background: var(--light-bg); padding: 30px; border-radius: 10px; margin-top: 30px;">
+                    <h3 style="color: var(--primary); margin-bottom: 20px;">📚 Riferimenti</h3>
+                    <ul class="content-bullets">
+                        <li><strong>[[ilp-mik-cosentino]]</strong> — Lezione ILP (fondamenti universali di infobusiness)</li>
+                        <li><strong>[[protocollo-farma-masterclass]]</strong> — Trascrizioni Protocollo FARMA (implementazione specifica farmacisti)</li>
+                        <li><strong>[[ilp-vs-protocollo-farma-comparison]]</strong> — Comparazione dei due framework (overlay e gap)</li>
+                        <li><strong>[[infobusiness-fundamentals]]</strong> — Sintesi del framework infobusiness</li>
+                        <li><strong>[[infobusiness-for-pharmacists]]</strong> — Applicazione pratica per farmacisti</li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+
+        <footer>
+            <div class="print-button">
+                <button onclick="window.print()">🖨️ Stampa Curriculum</button>
+            </div>
+            <p><strong>Curriculum Infobusiness per Farmacisti Digitali</strong></p>
+            <p>Fusione di Mik Cosentino (ILP) + Irene Summa (Protocollo FARMA) + Intelligenza Artificiale Moderna</p>
+            <p style="margin-top: 20px; color: var(--text-light); font-size: 0.9em;">Generato il 27 Giugno 2026 | 12 Masterclass | 6 Pilastri | 500+ Bullet Points</p>
+        </footer>
+    </div>
+
+    <script>
+        // Smooth scroll per i link di navigazione
+        document.querySelectorAll('nav a').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({ behavior: 'smooth' });
+                }
+            });
+        });
+
+        // Expandable sections (optional interactivity)
+        document.querySelectorAll('.expandable').forEach(el => {
+            el.addEventListener('click', function() {
+                this.classList.toggle('expanded');
+                const content = this.nextElementSibling;
+                if (content && content.classList.contains('hidden')) {
+                    content.classList.remove('hidden');
+                } else if (content) {
+                    content.classList.add('hidden');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
