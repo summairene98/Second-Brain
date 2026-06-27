@@ -266,11 +266,28 @@ Prima di creare MC 3-6, intervistare i clienti attuali:
 
 ## ✅ Completamenti di Oggi
 
-**MC 2 — Modulo 3 & 4 Bullet Points Generati**
-- Modulo 3: Prompt Engineering — I 5 elementi non negoziabili (con caso studio debole vs. forte)
-- Modulo 4: Claude Assistente Personale — 3 aree di alleggerimento (ricerca 80%, contenuti 70%, organizzazione 90%)
-- Stile: Proiezione consulente digitale, niente esempi dal banco, focus su scalabilità
-- File: [[Resources/courses/masterclass-2-modulo-3-4-bullet-points.md]]
+**MC 2 — Modulo 3 & 4 Bullet Points COMPLETI per Lezioni Interattive**
+- **Modulo 3 (4 Lezioni):**
+  1. Anatomia del prompt — I 5 elementi non negoziabili
+  2. Come ricercare articoli scientifici (PubMed → Claude → estratto dati)
+  3. Come scrivere articoli scientifici con meno effort (bozza Claude + revisione 20%)
+  4. Come far sì che l'IA diventi il tuo assistente (configurazione ruoli + knowledge base)
+
+- **Modulo 4 (4 Lezioni):**
+  1. Claude come assistente quotidiano — setup operativo (planning, task daily, organizzazione)
+  2. Alleggerire il carico durante la creazione del business (content 80%, ricerca, proposte, email)
+  3. Gestire il cliente e mantenere la relazione (FAQ template, follow-up intelligenti, report progressi)
+  4. **Come ho fatto io — Case Study + Template** (knowledge base + template risposta + deliverable)
+
+- **Deliverable per i Farmacisti:**
+  - Knowledge Base template (da personalizzare)
+  - Template di Risposta per i clienti
+  - Checklist di Setup (2 ore per iniziare)
+  - 10-15 Prompt pronti (copy-paste)
+
+- **Stile:** Proiezione consulente digitale, niente esempi dal banco, focus su scalabilità, case study pratici con screen share
+- **Tempo per lezione:** 10-15 min + 2-3 min caso studio + 2 min recap
+- **File:** [[Resources/courses/masterclass-2-modulo-3-4-complete-bullet-points.md]] ✅ PRONTO PER REGISTRAZIONE
 
 ---
 
