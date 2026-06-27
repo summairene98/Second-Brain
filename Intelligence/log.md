@@ -39,6 +39,61 @@ Trascrizione completa (251KB, 4700 linee) di 6 masterclass del Protocollo FARMA 
 
 **Pagine wiki toccate:** 4 (2 analisi + 1 comparazione + index)
 
+**[2026-06-27 16:45] build | framework | infobusiness-farmacisti-curriculum | CURRICULUM INTEGRATO: Infobusiness per Farmacisti Digitali**
+
+Creazione del **MISSING LINK**: Un curriculum completo e integrato che fonde ILP (Mik Cosentino) + Protocollo FARMA (Irene Summa) + IA moderna in una sequenza progressiva di 12 masterclass su 6 mesi.
+
+**Struttura del Curriculum:**
+
+**PILASTRO 1: Fondamenti & Mindset (Settimane 1-4)**
+- Masterclass 0: Regole, condizioni di apprendimento, impegno
+- Masterclass 1: Decostruzione del mindset tossico (le 5 paure)
+- Masterclass 1B: Ricostruzione dell'identità di imprenditore (le 4 libertà)
+
+**PILASTRO 2: Framework Universale (Settimane 5-8)**
+- Masterclass 2: Situazione Attuale → Situazione Desiderata (SA→SD)
+- Masterclass 3: Legge Universale Causa-Effetto e Compounding 90 giorni
+- Masterclass 3B: I 6 errori fatali da evitare
+
+**PILASTRO 3: Intelligenza Artificiale (Settimane 9-12)**
+- Masterclass 4: IA come moltiplicatore del valore scientifico (story di Irene)
+- Masterclass 4B: Prompt Engineering scientifico per farmacisti (10 template)
+
+**PILASTRO 4: Posizionamento & Strategia (Settimane 13-16)**
+- Masterclass 5: Formula M+++ (Mercato, Messaggio, Matematica del prezzo)
+- Masterclass 5B: Nicchia specifica + Buyer Persona dettagliato (10 elementi)
+- Masterclass 5C: L'Ingrediente Magico (il tuo differenziale unico)
+
+**PILASTRO 5: Operativo & Scalabilità (Settimane 17-22)**
+- Masterclass 6: I 6 passi istantanei di successo (validazione → scalabilità)
+- Masterclass 6B: Contenuti, Social e Autorità Online (calendario settimanale, AIDA, distribuzione)
+- Masterclass 6C: Il Funnel del Farmacista Digitale (TOFU→MOFU→BOFU→Retention)
+
+**PILASTRO 6: Lifestyle & Exit Strategy (Settimane 23-26)**
+- Masterclass 7: Le 4 libertà (orario, location, scelta, finanza) — un giorno tipo
+- Masterclass 7B: Scalabilità infinita e passive income (4 livelli di scalabilità, 4 leve)
+
+**Per Ogni Masterclass: Bullet Point Dettagliati**
+- Sezioni tematiche specifiche
+- Esercizi pratici
+- Esempi concreti
+- Template da utilizzare
+- Roadmap temporale
+- Metriche di successo
+
+**Valore Totale Promesso:**
+- Trasformazione da farmacista frustrato a imprenditore digitale
+- Reddito: €1.200/mese → €50k+/mese
+- Tempo: 40 ore/settimana → 20 ore/settimana
+- Libertà: Totale (orario, location, scelta, finanza)
+- Timeline: 6-24 mesi
+
+**Pagina creata:** `Resources/frameworks/infobusiness-farmacisti-curriculum.md`
+
+**Update:** `index.md` — Curriculum aggiunto come PRIMA voce nella sezione Framework (priority massima)
+
+**Pagine toccate:** 2 (curriculum + index)
+
 **Key insights strategici:**
 - **ILP è il fondamento universale di infobusiness** (M+++, compounding 90gg, 6 errori, lifestyle)
 - **FARMA è l'implementazione verticale per farmacisti** (mindset tossico, IA come leva moderna, disciplina strutturata 180gg)

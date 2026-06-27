@@ -52,8 +52,9 @@ Pagine che rappresentano entità (aziende, persone, prodotti, framework). Aggreg
 <!-- Resources/companies/ -->
 
 ### Framework
+- [**Curriculum Integrato: Infobusiness per Farmacisti Digitali**](Resources/frameworks/infobusiness-farmacisti-curriculum.md) — THE ULTIMATE GUIDE: 12 masterclass su 6 mesi (ILP + Protocollo FARMA + IA): 6 pilastri (Fondamenti, Framework Universale, IA, Posizionamento, Operativo, Lifestyle) — da €1.200/mese a €50k+
 - [Infobusiness — Fondamentali](Resources/frameworks/infobusiness-fundamentals.md) — Modello di business per vendita informazioni: definizione, evoluzione consulente, legge causa-effetto, 6 passi di successo, errori comuni, lifestyle design
-- [Infobusiness per Farmacisti](Resources/frameworks/infobusiness-for-pharmacists.md) — Applicazione pratica del framework infobusiness al business di consulenza farmacisti: mapping dei 6 step, prossime azioni, opzioni di scalabilità (masterclass di gruppo vs corso online vs membership)
+- [Infobusiness per Farmacisti](Resources/frameworks/infobusiness-for-pharmacists.md) — Applicazione pratica del framework infobusiness al business di consulenza farmacisti: mapping dei 6 step, prossime azioni, opzioni di scalabilità
 - [Protocollo F.A.R.M.A.](Resources/frameworks/protocollo-farma.md) — Framework 5-step (6 mesi) per trasformare farmacisti in consulenti digitali: formulazione → assorbimento → rilascio → metabolismo → azione terapeutica
 
 ### Prodotti
