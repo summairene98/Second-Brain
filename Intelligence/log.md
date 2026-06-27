@@ -204,3 +204,12 @@ Trascrizione della call tra [[Irene Summa]] e [[Veronica]] su [[Farmacista Digit
 - [[Protocollo FARMA]] è framework strutturato (3 fasi, 3 mesi, coaching 1-to-1) per onboarding a quel modello
 - Key barrier: mindset (paura nuovo) + non sa come proposirsi online
 - Differenziatore unico: credibilità scientifica vs influencer generico
+
+## [2026-06-27 15:35] ingest | bulk | protocollo-farma | 2 wiki pages touched
+
+- **File ingestati:** 2 (blueprint + trascrizioni)
+- **Raw salvato in:** Library/courses/, Library/transcripts/
+- **Wiki pages create:** protocollo-farma-struttura.md, masterclass-0-2-sintesi.md
+- **Status:** MC 0-2 complete, MC 3-6 pending
+- **Next:** Trascrizioni MC 3-6, gap analysis, proposte nuove masterclass
+

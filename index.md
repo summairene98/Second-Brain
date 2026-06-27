@@ -101,3 +101,7 @@ Pagine con molti backlink (entità/concetti centrali). L'AI le aggiorna man mano
 ## Archiviate
 
 <!-- Pagine spostate in Intelligence/archive/ ma ancora referenziabili -->
+
+### Protocollo F.A.R.M.A.
+- [[protocollo-farma-struttura]] — Blueprint 6 mesi, 6 MC, 12 consulenze, architettura per modulo
+- [[masterclass-0-2-sintesi]] — Sintesi tematica MC 0 (Fondamenta), MC 1 (Formulazione), MC 2 (IA)
