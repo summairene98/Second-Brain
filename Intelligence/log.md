@@ -24,6 +24,30 @@ Trascrizione completa (880KB) della lezione di Mik Cosentino su infobusiness: de
 
 **Pagine wiki toccate:** 5 (infobusiness-fundamentals.md, infobusiness-for-pharmacists.md, ilp-mik-cosentino-analysis.md, index.md + intelligence/log.md)
 
+**[2026-06-27 15:30] ingest | transcription | protocollo-farma-masterclass | Protocollo FARMA — Trascrizioni Masterclass Complete**
+
+Trascrizione completa (251KB, 4700 linee) di 6 masterclass del Protocollo FARMA di [[Irene Summa]] rivolte ai farmacisti.
+
+**Salvato:** `Library/transcripts/protocollo-farma-masterclass.md` + metadati
+
+**Creato (wiki layer):**
+- `Resources/research/protocollo-farma-analysis.md` — Analisi strutturata: 5 masterclass dettagliate (0=fondamenti, 1=mindset tossico, 2=intelligenza artificiale come game changer), categorie trasversali (regole, disciplina, feedback loop), 2169 menzioni IA (tema dominante), 6 step progressivi, numeri KPI (6 mesi, bisettimanale, 3 ripetizioni obbligatorie), visione complessiva della trasformazione farmacista
+
+- `Resources/research/ilp-vs-protocollo-farma-comparison.md` — Comparazione strategica tra ILP (Mik Cosentino) e Protocollo FARMA (Irene Summa): punti in comune (SA→SD, compounding 90gg, M+++, disciplina, lifestyle), overlay totale (7 temi identici), differenze fondamentali (IA: 0 vs 2169, mindset sanitario non affrontato in ILP, formato autonomo vs strutturato 6 mesi, timeline 90 vs 180gg, paura psicologica), cosa manca in ogni (ILP manca IA e psicologia farmacisti; FARMA manca universalità), riconciliazione e framework fusione ideale
+
+**Update:** `index.md` — 3 nuove pagine ricerca aggiunte (2 analisi strutturate + 1 comparazione)
+
+**Pagine wiki toccate:** 4 (2 analisi + 1 comparazione + index)
+
+**Key insights strategici:**
+- **ILP è il fondamento universale di infobusiness** (M+++, compounding 90gg, 6 errori, lifestyle)
+- **FARMA è l'implementazione verticale per farmacisti** (mindset tossico, IA come leva moderna, disciplina strutturata 180gg)
+- **Gap critico:** ILP scritto PRIMA della rivoluzione IA (2024); FARMA scritto DOPO (2019+), con IA = 2169 occorrenze
+- **Gap psicologico:** ILP non affronta la paura del farmacista di tradire la professione o parlare di soldi; FARMA lo decostruisce come Masterclass 1
+- **Opportunità di fusione:** Creare "ILP per Farmacisti Digitali" che combina fondamenti infobusiness universali (ILP) + implementazione verticale (FARMA) + IA come moltiplicatore (FARMA)
+
+---
+
 **Key insights per [[Irene Summa]]:**
 - Il [[Protocollo F.A.R.M.A.]] è già ai Passi 1-3 (validato, prodotto strutturato). Pronto per scalabilità.
 - Passo 4 (Positioning): In progress. LinkedIn 40k/mese. Gap: positioning non completamente differenziato vs competitor.

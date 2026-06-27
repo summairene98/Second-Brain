@@ -39,6 +39,8 @@ Documenti grezzi in `Library/`, raggruppati per tipo. Una voce per source ingest
 
 ### Ricerca & Analisi
 - [ILP — Analisi Strutturata | Mik Cosentino](Resources/research/ilp-mik-cosentino-analysis.md) — Divisione per categorie/sottocategorie: infobusiness definizione, evoluzione consulente 15-20 anni, legge causa-effetto, compounding 90gg, framework M+++, errori comuni, lifestyle, numeri KPI, case study (Max Guidi, Fit2Fat2Fit), modello fattibilità
+- [Protocollo FARMA — Analisi Strutturata | Irene Summa](Resources/research/protocollo-farma-analysis.md) — 6 masterclass: mindset tossico farmacista, IA come game changer, disciplina, regole, nicchia/buyer persona, consulenza bisettimanale, transformation SA→SD, 2169 menzioni IA
+- [ILP vs Protocollo FARMA — Comparazione Strategica](Resources/research/ilp-vs-protocollo-farma-comparison.md) — Sovrapposizioni complete (SA→SD, compounding, M+++, disciplina, lifestyle), gap critici (IA=0 vs 2169, mindset sanitario, formato, timeline 90 vs 180gg), cosa manca in ogni framework, fusione ottimale
 
 ---
 
