@@ -264,12 +264,23 @@ Prima di creare MC 3-6, intervistare i clienti attuali:
 
 ---
 
+## ✅ Completamenti di Oggi
+
+**MC 2 — Modulo 3 & 4 Bullet Points Generati**
+- Modulo 3: Prompt Engineering — I 5 elementi non negoziabili (con caso studio debole vs. forte)
+- Modulo 4: Claude Assistente Personale — 3 aree di alleggerimento (ricerca 80%, contenuti 70%, organizzazione 90%)
+- Stile: Proiezione consulente digitale, niente esempi dal banco, focus su scalabilità
+- File: [[Resources/courses/masterclass-2-modulo-3-4-bullet-points.md]]
+
+---
+
 ## 🔗 Documenti Correlati
 
+- [[Resources/courses/masterclass-2-modulo-3-4-bullet-points.md]] — ✅ GENERATO: Bullet points MC 2 Modulo 3-4
 - [[Resources/analysis/MC1-gap-analysis-nicchia-mercato-buyer-persona.md]] — Analisi completa dei bullet point mancanti
 - [[cosentino-ilp-infobusiness]] — Framework ILP di Mik Cosentino
 - [[Team/Irene Summa/Daily/2026-06-27-handoff-masterclass-project.md]] — Handoff iniziale
 
 ---
 
-**Creato:** 2026-06-27 | **Operatore:** [[Irene Summa]] | **Status:** 🟡 Gap Analysis Completa
+**Creato:** 2026-06-27 | **Aggiornato:** 2026-06-27 | **Operatore:** [[Irene Summa]] | **Status:** 🟡 MC 2 Moduli 3-4 Ready for Review
