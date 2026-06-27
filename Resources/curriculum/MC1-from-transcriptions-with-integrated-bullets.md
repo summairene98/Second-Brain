@@ -143,10 +143,129 @@ tags: [masterclass-1, da-trascrizioni, bullet-points-integrati]
 
 ### **LEZIONE 1: Analisi del Passato — Cosa Ho Raggiunto**
 
-#### Come Iresi Lo Posiziona (dalla trascrizione)
-> "Una volta che abbiamo definito bene la nicchia e la buyer persona capiamo come arrivarci e come far si che il nostro messaggio venga assorbito."
+#### Apertura (dalla trascrizione — stilizzata su Irene)
+> "Fermati un attimo. Respira. Prima di costruire il tuo futuro, voglio che tu guardi dietro di te — non con rimpianto, ma con consapevolezza. Perché il tuo passato non è un errore. È il tuo laboratorio. È dove hai imparato cosa funziona e cosa no."
 
-[*Contenuto estratto dalle trascrizioni dei moduli 2-3 di MC 1 sugli esercizi del passato, valori, ruoli, 10 obiettivi — da aggiungere quando hai il testo completo*]
+#### Argomento: Dove Sei Stato (dalle abitudini di Irene)
+
+**La domanda che cambia tutto (dalla trascrizione — riadattato):**
+
+> "Caro farmacista, dove eri 5 anni fa? Cosa facevi? Come ti sentivi? Eri in farmacia allo stesso orario, ogni giorno? Speravi che quella giornata fosse diversa? Eri stanco, stressato, morto? E cosa hai imparato da quegli anni?"
+
+**Il lavoro che hai già fatto (dalla voce di Irene):**
+
+> "Voi avete studiato 5 anni, 5 anni di laurea magistrale. Avete passato gli esami, avete tolto della polvere dalle librerie, avete fatto di tutto. E vi dico una cosa — quel lavoro non è stato per niente. Quel lavoro vi ha insegnato qualcosa, anche se voi non riuscite ancora a vederlo."
+
+**I successi nascosti (stile Irene):**
+
+> "Quante volte ti è venuto un cliente in farmacia e tu hai risolto un suo problema? Una volta? Dieci volte? Cento volte? Probabilmente non le hai nemmeno contate. Ma quei momenti, quei momenti in cui hai aiutato quella persona — quello è il tuo fondamento. Quello è il tuo valore."
+
+**La lezione del passato (dalla trascrizione):**
+
+> "Se non fossi stato/a un successo per te, a quest'ora non saresti qui a parlarmene. Vi giuro, io ho preso un sacco di pali, ho sbagliato un sacco di volte, ma sono gli errori che mi hanno insegnato come aiutare voi. Così saranno i vostri errori — il vostro miglior insegnante."
+
+#### Workbook Lezione 1:
+- [ ] **Scrivi 3 momenti in cui hai aiutato un cliente in farmacia.** Che fosse una consulenza, un consiglio, una risoluzione di un problema — racconta il momento, come ti è sentito, cosa hai imparato.
+- [ ] **Quali competenze hai acquisito in farmacia che probabilmente non vedi come "valore"?** (Esempio: abilità comunicative, conoscenza scientifica, gestione dello stress, problem-solving).
+- [ ] **Qual è il tuo più grande insegnamento dagli ultimi 5 anni in farmacia?** Non quello che avrebbero voluto, ma quello che TU hai imparato davvero.
+
+---
+
+### **LEZIONE 2: Scopri i Tuoi Valori Autentici**
+
+#### Apertura (dalla trascrizione — rielaborato)
+> "Adesso voglio che tu conosca veramente chi sei. Non chi pensi di dover essere. Non chi il sistema ti ha detto di essere. Chi sei TU, davvero."
+
+#### Argomento: I Tuoi Principi Non Negoziabili (dalle abitudini di Irene)
+
+**Cosa significa avere valori (dalla trascrizione):**
+
+> "Il mio mindset, quella cosa che vedrai qui dentro, è la chiave del successo di tutte le persone che vogliono iniziare una tipologia di percorso del genere. E sapete perché? Perché senza valori, siete alla deriva. Senza valori, fate le cose che il sistema vi dice di fare."
+
+**L'esempio di Irene sui suoi valori (dalla trascrizione):**
+
+> "Io come missione di vita voglio aiutare i farmacisti. Questo è il mio perché grande. Non è che mi sveglio la mattina e dico 'vabbè, farò consulenze'. No. Io lo faccio perché ho un perché grande dietro. Perché ho scelto di transformare la mia paura in metodo. Questo è il mio valore."
+
+**I valori non negoziabili (stile Irene):**
+
+> "E voi dovete avere i vostri. Che sia 'Non accetto una vita monotona', oppure 'Non mi snatura per piacere', oppure 'La libertà è non negoziabile' — qualsiasi cosa sia, deve essere VOSTRA, deve risuonare dentro di voi, deve farvi saltare dal letto la mattina."
+
+**Come riconoscerli (dalla trascrizione):**
+
+> "Se non risuona con la missione, non lo faccio. Se non lo amo, non lo faccio. Non accetto mediocrity — mia o del team. Questi sono i miei valori. Cercate i vostri."
+
+#### Workbook Lezione 2:
+- [ ] **Scrivi 5 valori che sono NON NEGOZIABILI per te.** (Libertà, crescita, famiglia, salute, passione, ecc.). Accanto a ogni valore, scrivi PERCHÉ è importante per te — dove lo hai imparato, chi te l'ha insegnato, quando lo hai scoperto.
+- [ ] **Quale valore il sistema sanitario ha cercato di farmi abbandonare?** E tu — lo hai accettato, oppure lo stai ancora rifiutando?
+- [ ] **Se tu guadagnassi 10k€ al mese, ma dovessi rinunciare a uno dei tuoi valori — lo faresti?** Perché sì, perché no? La risposta ti dirà quanto è vero quel valore per te.
+
+---
+
+### **LEZIONE 3: I Ruoli Che Ricopri Nella Vita**
+
+#### Apertura (dalla trascrizione — riadattato)
+> "Sei un farmacista. Sei anche un figlio, una figlia. Sei un fratello, una sorella. Sei un partner, un amico, magari un genitore. Sei tante cose. E ognuno di questi ruoli ha un'aspettativa su di te. La domanda è: in quale ruolo vuoi VERAMENTE eccellere?"
+
+#### Argomento: La Mappa Dei Tuoi Ruoli (stile Irene)
+
+**Il problema di voler tutto (dalla trascrizione):**
+
+> "Ti svegli tutti i giorni allo stesso orario, vai in farmacia sperando che quella giornata sia la giornata giusta. Poi torni a casa stanco, stressato, morto. Se hai una famiglia, la tua famiglia difficilmente ha la possibilità di avere con te il suo papà, la sua mamma. E ti ripeti sempre che troverai del tempo per la tua famiglia, per te stesso, per il tuo compagno, per leggere. Cosa succede? Non fai niente di tutto ciò."
+
+**La soluzione non è il multitasking (dalla voce di Irene):**
+
+> "Non è che devi fare tutto. È che devi SCEGLIERE cosa è prioritario. Io voglio che tu ti prenda del tempo per stare con la tua famiglia, per te stesso, per crescere. Questo non è egoismo. Questo è survival."
+
+**I 3 ruoli fondamentali (sintetizzato da Irene):**
+
+> "Il tuo ruolo come professionista (il farmacista digitale che stai costruendo), il tuo ruolo come persona (la salute, la crescita, il benessere mentale), e il tuo ruolo nelle relazioni (famiglia, partner, amici). Se uno di questi tre crolla, tutto crolla."
+
+#### Workbook Lezione 3:
+- [ ] **Disegna un cerchio e divido in 4-5 sezioni — uno per ogni ruolo importante della tua vita** (Farmacista/Professionista, Genitore, Partner, Figlio/Figlia, Amico). In ogni sezione, scrivi quanto tempo dedichi ATTUALMENTE e quanto vorresti dedicare. Quale gap vedi?
+- [ ] **Quale ruolo stai trascurando di più?** E perché? Cosa succederebbe se lo continuassi a trascurare per altri 2 anni?
+- [ ] **Quale ruolo di tu vuoi fosse la tua IDENTITÀ principale?** (Esempi: "Voglio essere il genitore che c'è". "Voglio essere il professionista autorevole". "Voglio essere la persona che non rinuncia ai suoi sogni".)
+
+---
+
+### **LEZIONE 4: I 10 Obiettivi SMART**
+
+#### Apertura (dalla trascrizione — riadattato)
+> "Dove vuoi essere tra 1 anno? 5 anni? 10 anni? Non genericamente. SPECIFICAMENTE. Quale è il tuo sogno, e quale è il primo passo?"
+
+#### Argomento: Trasformare i Sogni in Mappe (dalla trascrizione)
+
+**Il sogno come punto di partenza (dalla trascrizione):**
+
+> "Il sogno è dove ti piacerebbe essere. Dove ti piacerebbe vivere? In Spagna, a Valencia? Mettiamo caso che tu, la tua città fosse Valencia. Ti svegli la mattina, fai colazione, le tue consulenze iniziano alle 10:30, quindi hai la possibilità di farti una bella passeggiata al sole. Colazione nel Turia. Torni a casa, sei a 3 minuti dall'Università. Inizi le consulenze. Hai tutto il tempo per passare del tempo con il tuo compagno, con i tuoi amici, con la tua famiglia, andare in palestra, farti la passeggiata. Come ti sentiresti?"
+
+**La trasformazione del sogno in realtà (stile Irene):**
+
+> "E io ti chiedo tra l'uno e due, chi è il nemico? Tra dove sei ora e dove vorresti essere? Io direi proprio il nostro meraviglioso cervello. Perché il limite che ti sei autoimposto, te lo sei posto nei tuoi pensieri, nella tua mente. La mente domina la materia. Se la mente è errata, niente funziona."
+
+**Come costruire gli obiettivi (dalla voce di Irene):**
+
+> "Non bastano i sogni. Servono i FATTI. Serve uno studio approfondito. Serve che tu guardi dentro di te e dici — quale è il primo step? Quale è il secondo? Come arriverò a Valencia? Lavorando part-time in farmacia e facendo 2-3 consulenze al giorno. Quando? In 6 mesi. Come misuro il successo? Con i clienti che ho, con i soldi che guadagno, con il tempo che ho libero."
+
+**I 10 obiettivi come sistema (sintetizzato):**
+
+> "10 obiettivi non sono casuali. Sono strategici. Sono la tua roadmap. 5 di essi potrebbero essere professionali (nicchia definita, 10 clienti, 3k€ al mese), 3 personali (salute, relazioni, crescita), 2 di impatto (aiutare 50 farmacisti, creare un team). E ogni mese, ogni trimestre, guardi questa lista e dici — sto sulla strada giusta?"
+
+#### Workbook Lezione 4:
+- [ ] **Scrivi i tuoi 10 obiettivi per i prossimi 12 mesi.** Che siano SMART (Specifici, Misurabili, Achievable, Rilevanti, Tempificati). Esempi:
+  - "Definire la mia nicchia di mercato entro il 15 luglio 2026"
+  - "Acquisire 5 clienti paganti a €150/consulenza entro dicembre 2026"
+  - "Lavorare part-time in farmacia entro settembre 2026"
+  - "Trascorrere 10 ore settimanali con la mia famiglia senza stress"
+  
+- [ ] **Per i prossimi 3 mesi, quali sono i 3 obiettivi PIÙ URGENTI?** Scrivili. Condividili con me nella nostra consulenza.
+
+- [ ] **Quale obiettivo, se lo raggiungessi, cambierebbe TUTTO nella tua vita?** (Quello è il tuo obiettivo più importante — mettilo al #1 della tua lista mentale.)
+
+---
+
+#### Transizione Teasing Verso Modulo 3
+
+> "Adesso che hai guardato dentro di te — al tuo passato, ai tuoi valori, ai ruoli che ricopri, agli obiettivi che vuoi raggiungere — siamo pronti per il pezzo più importante: scoprire COME arrivarci. Nel prossimo modulo, scoprirai il tuo principio attivo. Scoprirai qual è il problema che SOLO TU puoi risolvere. E scoprirai chi è la persona che ti pagherà per risolverlo. Vieni?"
 
 ---
 

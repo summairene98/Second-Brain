@@ -41,6 +41,13 @@ tags: [masterclass-1, handoff, curriculum-design, next-chat]
    - ✅ Workbook exercise per ogni lezione
    - ✅ Stile video sales letter (teasing, curiosità, vendita subtile)
 
+5. **MODULO 2 Completato** (Nuova sessione — 2026-06-27)
+   - ✅ **Lezione 1:** Analisi del Passato — Cosa Ho Raggiunto
+   - ✅ **Lezione 2:** Scopri i Tuoi Valori Autentici
+   - ✅ **Lezione 3:** I Ruoli Che Ricopri Nella Vita
+   - ✅ **Lezione 4:** I 10 Obiettivi SMART
+   - Sintesi: Modulo incentrato su autodiscovery + clarificazione di intenzione prima di Modulo 3
+
 ---
 
 ## 🎬 STRUTTURA MC 1 (Come Organizzato)
@@ -90,13 +97,13 @@ tags: [masterclass-1, handoff, curriculum-design, next-chat]
 
 ---
 
-## 📁 File Creati in Questa Sessione
+## 📁 File Creati in Questa Sessione (+ Aggiornamenti)
 
 | File | Path | Status | Descrizione |
 |---|---|---|---|
 | **Gap Analysis** | `Resources/analysis/MC1-gap-analysis-nicchia-mercato-buyer-persona.md` | ✅ Completo | Confronto trascrizioni vs ILP Cosentino, 9 bullet point identificati |
-| **MC 1 Curriculum** | `Resources/curriculum/MC1-from-transcriptions-with-integrated-bullets.md` | 🟡 70% | Testo estratto dalle trascrizioni + 5 bullet points integrati, Moduli 1,3 completi |
-| **Daily Handoff** | `Team/Irene Summa/Daily/2026-06-27-handoff-MC1-curriculum-design.md` | ✅ Completo | Questo file — Handoff per continuazione |
+| **MC 1 Curriculum** | `Resources/curriculum/MC1-from-transcriptions-with-integrated-bullets.md` | 🟢 80% | Testo estratto dalle trascrizioni + 5 bullet points integrati, Moduli 1,2,3 avanzati |
+| **Daily Handoff** | `Team/Irene Summa/Daily/2026-06-27-handoff-MC1-curriculum-design.md` | ✅ Aggiornato | Handoff con stato nuovo |
 
 ---
 
@@ -112,18 +119,26 @@ tags: [masterclass-1, handoff, curriculum-design, next-chat]
 
 ## 🎯 Prossimi Step (Per la Prossima Chat)
 
-### PRIORITÀ 1: Completare MC 1 Curriculum
-1. **Modulo 2** — Estrarre dalle trascrizioni:
-   - Lezioni su Passato, Valori, Ruoli, 10 Obiettivi SMART
-   - Workbook exercises per ogni lezione
-   - Transizioni di teasing verso Modulo 3
+### PRIORITÀ 1: Completare MC 1 Curriculum ← MODULO 2 ✅ FATTO
 
-2. **Modulo 4** — Estrarre e aggiungere:
-   - Lezioni 1-3 su Marketing 3M (dalle trascrizioni)
-   - Lezione 4: Completare Bullet #5 (90 UEC)
-   - Consulenza dedicata per sviluppare i 90 argomenti
+1. **Modulo 3** — Completare estrazione dalle trascrizioni:
+   - ✅ Lezione 1: Cos'è Una Nicchia + BULLET #1 (framework già presente)
+   - 🟡 Lezione 2: Chi È il Tuo Buyer Persona + BULLET #2 (framework presente, testo Irene mancante)
+   - 🟡 Lezione 3: Quanto Grande È Il Mercato + BULLET #3 (framework presente, testo mancante)
+   - 🟡 Lezione 4: Narrowing Down + BULLET #4 (framework presente, testo mancante)
+   - **Task:** Estrarre dalle trascrizioni il dialogo di Irene per ogni lezione, integrare con workbook
 
-3. **Validazione Finale:**
+2. **Modulo 4** — Creare da zero o estrarre dalle trascrizioni:
+   - 🟡 Lezioni 1-3 su Marketing 3M (verificare se in trascrizioni MC 1 o MC 2)
+   - ✅ Lezione 4: Bullet #5 (90 UEC) — framework già completo, solo aggiungere dialogo Irene
+   - **Task:** Localizzare testo su "Marketing 3M" nelle trascrizioni
+
+3. **Consulenza Dedicata Post-MC 1:**
+   - Sviluppare i 90 argomenti (UEC) ordinati pedagogicamente
+   - Validare buyer persona reale vs ipotesi
+   - Creare timeline e piano di pubblicazione
+
+4. **Validazione Finale:**
    - Verificare che OGNI lezione ha: Apertura + Argomento + Workbook + Teasing
    - Verificare che OGNI bullet point è integrato naturalmente (non come lista)
    - Verificare che il linguaggio è target-appropriate (NO jargon marketing)
@@ -173,18 +188,22 @@ tags: [masterclass-1, handoff, curriculum-design, next-chat]
 
 ## ❓ Domande Aperte per la Prossima Chat
 
-1. **MC 2 Completa?**
-   - Moduli 2-4 di MC 2 sono già registrati, o vanno creati?
-   - Se registrati: dove sono? (file drive, trascrizioni da completare?)
-   - Se NON registrati: priorità = registrare o usare quanto esiste (mod 1)?
+1. **Marketing 3M & Modulo 4:**
+   - Dove si trova il testo sulle "3 M" nelle trascrizioni? (cercate come "Marketing", "Messaggio", "Medium" o simile)
+   - Modulo 4 Lezioni 1-3 sono in MC 1 o in MC 2?
+   - Volete che sviluppi il framework "3M" da zero, o aspetto la trascrizione?
 
-2. **Consulenza Dedicata Post-MC 1:**
-   - Script completo? O outline da sviluppare?
-   - Dove va salvata nel curriculum?
+2. **Moduli 3: Estrazione Testo**
+   - Le trascrizioni di MC 1 contengono il dialogo completo su Buyer Persona 7D? Market Sizing? Narrowing Down?
+   - Oppure devo sviluppare il testo in stile-Irene basato sui framework (come ho fatto per Modulo 2)?
 
-3. **MC 3-6:**
-   - Sono registrate? O vanno create da zero?
-   - Timeline: quanto tempo per completare MC 1 perfetto prima di muoversi su MC 2?
+3. **Consulenza Dedicata Post-MC 1:**
+   - Deve essere 60 min? Outline preciso? Script? Format video/documento?
+   - Dove salvo (file nuovo nel curriculum, o sezione separata)?
+
+4. **Timeline Complessiva:**
+   - Qual è la priorità: completare MC 1 perfetto, oppure muoversi su MC 2-6?
+   - Avete registrato MC 2-6, oppure vanno create?
 
 ---
 
@@ -211,7 +230,11 @@ tags: [masterclass-1, handoff, curriculum-design, next-chat]
 
 **Approccio:** Video Sales Letter + Target Inconsapevole di Marketing + Analogie Sanitarie
 
-**Stato:** MC 1 è 70% completo (Moduli 1, 3 finiti; Moduli 2, 4 da completare)
+**Stato NUOVO (2026-06-27):** MC 1 è 80% completo 
+- ✅ Modulo 1 (Mindset, Mente, Miti, Riprogrammazione) — COMPLETO
+- ✅ Modulo 2 (Passato, Valori, Ruoli, 10 Obiettivi) — COMPLETATO OGGI
+- 🟡 Modulo 3 (Nicchia, Buyer Persona, Market Sizing, Narrowing Down) — 60% (framework presente, testo estratto parziale)
+- 🟡 Modulo 4 (Marketing 3M, 90 UEC) — 30% (framework presente, testo mancante)
 
 ---
 
