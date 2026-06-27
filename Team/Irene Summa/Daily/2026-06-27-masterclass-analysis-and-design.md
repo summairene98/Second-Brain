@@ -264,4 +264,12 @@ Prima di creare MC 3-6, intervistare i clienti attuali:
 
 ---
 
-**Creato:** 2026-06-27 | **Operatore:** [[Irene Summa]] | **Status:** 🟡 In Analisi
+## 🔗 Documenti Correlati
+
+- [[Resources/analysis/MC1-gap-analysis-nicchia-mercato-buyer-persona.md]] — Analisi completa dei bullet point mancanti
+- [[cosentino-ilp-infobusiness]] — Framework ILP di Mik Cosentino
+- [[Team/Irene Summa/Daily/2026-06-27-handoff-masterclass-project.md]] — Handoff iniziale
+
+---
+
+**Creato:** 2026-06-27 | **Operatore:** [[Irene Summa]] | **Status:** 🟡 Gap Analysis Completa
