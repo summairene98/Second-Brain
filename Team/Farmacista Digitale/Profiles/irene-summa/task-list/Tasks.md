@@ -5,7 +5,7 @@ status: active
 tags: [tasks, irene-summa]
 ---
 
-Last run: 2026-06-19T08:15:00Z
+Last run: 2026-07-02T00:00:00Z
 
 > [!info] Backlog attivo
 > Questa lista è il backlog progressivo di [[Irene Summa]]. I task aperti rimangono qui tra un daily e l'altro. Il daily giornaliero non duplica questi task, ma vi fa riferimento.
@@ -24,6 +24,18 @@ Last run: 2026-06-19T08:15:00Z
 - [ ] 📋 Raggiungere 15-20 clienti attivi nel [[Protocollo F.A.R.M.A.]] (da 4 attuali, target Q3-Q4)
 - [ ] 📋 Setup sync settimanale con il team (cadenza fissa)
 - [ ] 📋 Revisione mensile fatturato + KPI (prima revisione: luglio 2026)
+
+## Da Fare — Content Strategy (da call con [[Buddy]] del 2026-07-02)
+
+> Dettagli completi e how-to in [[2026-07-02-call-buddy-content-strategy]]
+
+- [ ] 📋 Raccogliere almeno 10 script di reel andati bene (fatti con [[Buddy]]) e caricarli in una nuova chat Claude dedicata "Script" per farne analizzare struttura/tono e farlo diventare framework di riferimento
+- [ ] 📋 Aprire una chat/progetto Claude "Idee" con le trascrizioni delle call di vendita e consulenze, per estrarre pain point/obiezioni/paure e farne uscire una lista di idee contenuto
+- [ ] 📋 Scaricare i PDF mandati da [[Buddy]] su WhatsApp (regole caroselli, reel efficaci, CTA) e creare un progetto Claude "Revisione" per farsi migliorare gli script prima di pubblicarli
+- [ ] 📋 Registrare la prima video-intervista a una cliente (formato schermo diviso, base Meet) — target proposta settimana 8-12 luglio 2026, valutare con [[Paolo Conversano]]
+- [ ] 📋 Girare i primi due video YouTube: "vecchio modello vs nuovo modello" e "FAQ aspiranti farmacisti digitali" (4-5 min ciascuno)
+- [ ] 📋 Creare sito WordPress + blog su "farmacista digitale" e pubblicare i primi 10-15 articoli SEO (per superare i concorrenti deboli che occupano oggi quella ricerca)
+- [ ] 📋 Generare il copy della landing page "Farmacista Digitale" con Claude usando il framework `.md` mandato da [[Buddy]], poi farlo revisionare a lui
 
 ## Completati
 
