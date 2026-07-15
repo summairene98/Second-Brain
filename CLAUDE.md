@@ -36,6 +36,7 @@ Ogni informazione ha una destinazione. Nessun catch-all.
 | Info dipartimento, carta, KPI | `Departments/{nome}/` (vedi `Departments/CLAUDE.md`) |
 | Profilo persona, note daily, task | `Team/{org}/Profiles/{nome}/` (vedi `Team/CLAUDE.md`) |
 | Profilo collaboratore esterno | `Team/External/contractors/{nome}/` |
+| Info cliente, storico consulenze, task per cliente | `Clients/{nome}/` (vedi `Clients/CLAUDE.md`) |
 | Info progetto | `Projects/{nome}/` (vedi `Projects/CLAUDE.md`) |
 | Meeting, concorrenti, mercato, decisioni, processi | `Intelligence/` (vedi `Intelligence/CLAUDE.md`) |
 | Documenti di onboarding | `Onboarding/{nome}.md` (vedi `Onboarding/CLAUDE.md`) |

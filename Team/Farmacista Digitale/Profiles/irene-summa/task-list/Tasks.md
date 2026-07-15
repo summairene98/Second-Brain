@@ -5,7 +5,7 @@ status: active
 tags: [tasks, irene-summa]
 ---
 
-Last run: 2026-07-02T00:00:00Z
+Last run: 2026-07-15T00:00:00Z
 
 > [!info] Backlog attivo
 > Questa lista è il backlog progressivo di [[Irene Summa]]. I task aperti rimangono qui tra un daily e l'altro. Il daily giornaliero non duplica questi task, ma vi fa riferimento.
@@ -36,6 +36,17 @@ Last run: 2026-07-02T00:00:00Z
 - [ ] 📋 Girare i primi due video YouTube: "vecchio modello vs nuovo modello" e "FAQ aspiranti farmacisti digitali" (4-5 min ciascuno)
 - [ ] 📋 Creare sito WordPress + blog su "farmacista digitale" e pubblicare i primi 10-15 articoli SEO (per superare i concorrenti deboli che occupano oggi quella ricerca)
 - [ ] 📋 Generare il copy della landing page "Farmacista Digitale" con Claude usando il framework `.md` mandato da [[Buddy]], poi farlo revisionare a lui
+
+## Task Clienti — Protocollo F.A.R.M.A.
+
+> Sessioni del Protocollo F.A.R.M.A. (12 sessioni per cliente). Ogni sessione genera task per te — il dettaglio vive in `Clients/{nome}/consulenze.md`, qui trovi il tuo tracker sintetico.
+
+**Clienti Attivi:**
+- [[Egidio]] (inizio 2026-06-01) — vedi [[egidio-consulenze]]
+- [[Monica]] (inizio 2026-06-15) — vedi [[monica-consulenze]]
+- [[Kiran]] (inizio 2026-05-20) — vedi [[kiran-consulenze]]
+
+(I task delle singole sessioni appariranno qui mano mano che completate le consulenze.)
 
 ## Completati
 
