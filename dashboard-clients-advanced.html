@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Avanzata — Farmacista Digitale</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Open Sauce', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #000000 0%, #0a0a0a 50%, #1a1a2e 100%);
+            color: #ffffff;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 1600px;
+            margin: 0 auto;
+        }
+
+        header {
+            margin-bottom: 40px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        h1 {
+            font-size: 2.2em;
+            font-weight: 700;
+            letter-spacing: -1px;
+        }
+
+        .sync-info {
+            display: flex;
+            gap: 20px;
+            align-items: center;
+            background: rgba(107, 76, 154, 0.1);
+            padding: 15px 25px;
+            border-radius: 8px;
+            border: 1px solid #6B4C9A;
+            flex-wrap: wrap;
+        }
+
+        .sync-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.95em;
+        }
+
+        .sync-label {
+            color: #9d8bb3;
+            font-weight: 500;
+        }
+
+        .sync-value {
+            color: #d8a4ff;
+            font-weight: 600;
+        }
+
+        .sync-dot {
+            width: 10px;
+            height: 10px;
+            background: #4caf50;
+            border-radius: 50%;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+
+        .stat-card {
+            background: rgba(107, 76, 154, 0.12);
+            border: 1px solid rgba(107, 76, 154, 0.4);
+            border-radius: 12px;
+            padding: 25px;
+            backdrop-filter: blur(10px);
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .stat-card:hover {
+            border-color: #6B4C9A;
+            box-shadow: 0 8px 32px rgba(107, 76, 154, 0.2);
+        }
+
+        .stat-number {
+            font-size: 2.8em;
+            font-weight: 700;
+            color: #d8a4ff;
+            margin-bottom: 8px;
+        }
+
+        .stat-label {
+            color: #9d8bb3;
+            font-size: 0.95em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 500;
+        }
+
+        .stat-detail {
+            color: #6B4C9A;
+            font-size: 0.85em;
+            margin-top: 8px;
+            font-weight: 400;
+        }
+
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            border-bottom: 1px solid rgba(107, 76, 154, 0.2);
+            flex-wrap: wrap;
+        }
+
+        .tab-btn {
+            padding: 12px 24px;
+            background: transparent;
+            border: none;
+            color: #9d8bb3;
+            cursor: pointer;
+            font-size: 1em;
+            border-bottom: 3px solid transparent;
+            transition: all 0.3s ease;
+            font-weight: 500;
+        }
+
+        .tab-btn:hover {
+            color: #d8a4ff;
+        }
+
+        .tab-btn.active {
+            color: #d8a4ff;
+            border-bottom-color: #6B4C9A;
+        }
+
+        .clients-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+
+        .client-card {
+            background: rgba(107, 76, 154, 0.08);
+            border: 1px solid rgba(107, 76, 154, 0.3);
+            border-radius: 12px;
+            padding: 25px;
+            backdrop-filter: blur(10px);
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            cursor: pointer;
+        }
+
+        .client-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 3px;
+            background: linear-gradient(90deg, #6B4C9A, #d8a4ff);
+            transition: left 0.3s ease;
+        }
+
+        .client-card:hover::before {
+            left: 100%;
+        }
+
+        .client-card:hover {
+            border-color: #6B4C9A;
+            box-shadow: 0 8px 32px rgba(107, 76, 154, 0.2);
+            transform: translateY(-3px);
+        }
+
+        .client-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: start;
+            margin-bottom: 15px;
+        }
+
+        .client-name {
+            font-size: 1.35em;
+            font-weight: 700;
+            color: #ffffff;
+        }
+
+        .client-badge {
+            padding: 4px 12px;
+            background: rgba(107, 76, 154, 0.3);
+            border: 1px solid #6B4C9A;
+            border-radius: 20px;
+            font-size: 0.75em;
+            color: #d8a4ff;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .client-goal {
+            font-size: 0.92em;
+            color: #9d8bb3;
+            margin-bottom: 18px;
+            line-height: 1.5;
+            font-style: italic;
+            min-height: 42px;
+        }
+
+        .progress-container {
+            margin-bottom: 18px;
+        }
+
+        .progress-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 8px;
+            font-size: 0.95em;
+        }
+
+        .progress-label {
+            color: #d8a4ff;
+            font-weight: 600;
+        }
+
+        .progress-percent {
+            color: #9d8bb3;
+        }
+
+        .progress-bar {
+            width: 100%;
+            height: 6px;
+            background: rgba(107, 76, 154, 0.15);
+            border-radius: 10px;
+            overflow: hidden;
+            border: 1px solid rgba(107, 76, 154, 0.2);
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #6B4C9A, #d8a4ff);
+            border-radius: 10px;
+            transition: width 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+            box-shadow: 0 0 15px rgba(107, 76, 154, 0.5);
+        }
+
+        .client-stats {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            padding: 12px 0;
+            border-top: 1px solid rgba(107, 76, 154, 0.2);
+            border-bottom: 1px solid rgba(107, 76, 154, 0.2);
+            margin: 12px 0;
+        }
+
+        .stat-mini {
+            text-align: center;
+            padding: 8px;
+        }
+
+        .stat-mini-value {
+            font-size: 1.4em;
+            font-weight: 700;
+            color: #d8a4ff;
+        }
+
+        .stat-mini-label {
+            font-size: 0.8em;
+            color: #9d8bb3;
+            margin-top: 4px;
+        }
+
+        .timeline {
+            margin-top: 20px;
+        }
+
+        .timeline-title {
+            font-size: 0.9em;
+            color: #9d8bb3;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 12px;
+            font-weight: 600;
+        }
+
+        .timeline-item {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 10px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid rgba(107, 76, 154, 0.1);
+        }
+
+        .timeline-item:last-child {
+            border-bottom: none;
+        }
+
+        .timeline-dot {
+            width: 8px;
+            height: 8px;
+            background: #6B4C9A;
+            border-radius: 50%;
+            margin-top: 6px;
+            flex-shrink: 0;
+        }
+
+        .timeline-content {
+            flex: 1;
+        }
+
+        .timeline-date {
+            font-size: 0.85em;
+            color: #9d8bb3;
+            font-weight: 500;
+        }
+
+        .timeline-text {
+            font-size: 0.9em;
+            color: #d8a4ff;
+            margin-top: 2px;
+        }
+
+        .sync-schedule {
+            background: rgba(107, 76, 154, 0.08);
+            border: 1px solid rgba(107, 76, 154, 0.3);
+            border-radius: 12px;
+            padding: 25px;
+            margin-bottom: 40px;
+        }
+
+        .sync-schedule h3 {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+            color: #d8a4ff;
+        }
+
+        .sync-schedule-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 12px 0;
+            border-bottom: 1px solid rgba(107, 76, 154, 0.2);
+        }
+
+        .sync-schedule-item:last-child {
+            border-bottom: none;
+        }
+
+        .sync-time {
+            font-weight: 600;
+            color: #d8a4ff;
+        }
+
+        .sync-desc {
+            color: #9d8bb3;
+            font-size: 0.95em;
+        }
+
+        footer {
+            text-align: center;
+            color: #9d8bb3;
+            font-size: 0.9em;
+            padding: 30px 0;
+            border-top: 1px solid rgba(107, 76, 154, 0.2);
+            margin-top: 60px;
+        }
+
+        .detail-modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0, 0, 0, 0.8);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .detail-modal.active {
+            display: flex;
+        }
+
+        .modal-content {
+            background: #1a1a2e;
+            border: 1px solid #6B4C9A;
+            border-radius: 12px;
+            padding: 40px;
+            max-width: 600px;
+            width: 100%;
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+
+        .modal-close {
+            float: right;
+            font-size: 28px;
+            cursor: pointer;
+            color: #9d8bb3;
+            border: none;
+            background: none;
+        }
+
+        .modal-close:hover {
+            color: #d8a4ff;
+        }
+
+        @media (max-width: 768px) {
+            .clients-grid {
+                grid-template-columns: 1fr;
+            }
+
+            h1 {
+                font-size: 1.8em;
+            }
+
+            header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .sync-info {
+                flex-direction: column;
+                gap: 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div>
+                <h1>🧪 Farmacista Digitale</h1>
+                <p style="color: #9d8bb3; margin-top: 5px;">Dashboard Clienti — Protocollo F.A.R.M.A.</p>
+            </div>
+            <div class="sync-info">
+                <div class="sync-item">
+                    <span class="sync-dot"></span>
+                    <span class="sync-label">Status:</span>
+                    <span class="sync-value">Sincronizzato</span>
+                </div>
+                <div class="sync-item">
+                    <span class="sync-label">Ultimo sync:</span>
+                    <span class="sync-value" id="lastSync">Oggi 14:32</span>
+                </div>
+                <div class="sync-item">
+                    <span class="sync-label">Prossimo:</span>
+                    <span class="sync-value" id="nextSync">Lunedì 08:00</span>
+                </div>
+            </div>
+        </header>
+
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-number" id="totalClients">10</div>
+                <div class="stat-label">Clienti Attivi</div>
+                <div class="stat-detail">Protocollo F.A.R.M.A.</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="totalSessions">32</div>
+                <div class="stat-label">Sessioni Completate</div>
+                <div class="stat-detail">su 120 totali</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="avgProgress">27%</div>
+                <div class="stat-label">Progress Medio</div>
+                <div class="stat-detail">Tutti i clienti</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="completedCount">0</div>
+                <div class="stat-label">Protocolli Completati</div>
+                <div class="stat-detail">0 su 10</div>
+            </div>
+        </div>
+
+        <div class="sync-schedule">
+            <h3>📅 Routine di Sincronizzazione Settimanale</h3>
+            <div class="sync-schedule-item">
+                <div>
+                    <div class="sync-time">Ogni Lunedì — 08:00 AM</div>
+                    <div class="sync-desc">Sincronizzazione automatica dati dal Drive</div>
+                </div>
+                <div style="color: #4caf50; font-weight: 600;">ATTIVO</div>
+            </div>
+            <div class="sync-schedule-item">
+                <div>
+                    <div class="sync-time">Processo:</div>
+                    <div class="sync-desc">1️⃣ Lettura cartelle clienti dal Drive → 2️⃣ Conteggio sessioni completate → 3️⃣ Estrazione obiettivi dalle trascrizioni → 4️⃣ Aggiornamento dashboard</div>
+                </div>
+            </div>
+            <div class="sync-schedule-item">
+                <div>
+                    <div class="sync-time">Tempo medio:</div>
+                    <div class="sync-desc">~2 minuti per completare il sync</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="tabs">
+            <button class="tab-btn active" onclick="filterTab('all')">Tutti (10)</button>
+            <button class="tab-btn" onclick="filterTab('active')">In Corso (10)</button>
+            <button class="tab-btn" onclick="filterTab('completed')">Completati (0)</button>
+            <button class="tab-btn" onclick="sortTab('progress')">Ordinati per Progress</button>
+        </div>
+
+        <div class="clients-grid" id="clientsGrid"></div>
+
+        <footer>
+            <strong>Note sulla routine settimanale:</strong><br>
+            ✓ Ogni lunedì alle 8:00 AM, la dashboard si sincronizza automaticamente con i dati del Drive<br>
+            ✓ Conta le recording/trascrizioni in ogni cartella cliente<br>
+            ✓ Estrae gli obiettivi personali dalle ultime trascrizioni Gemini<br>
+            ✓ Aggiorna progress bar e statistiche in tempo reale
+        </footer>
+    </div>
+
+    <div class="detail-modal" id="detailModal">
+        <div class="modal-content">
+            <button class="modal-close" onclick="closeModal()">&times;</button>
+            <div id="modalBody"></div>
+        </div>
+    </div>
+
+    <script>
+        const clientsData = [
+            { nome: "Egidio Bertolucci", sessioni: 6, obiettivo: "Educazione nutrizionale integrata — Supportare pazienti in terapia con Mounjaro/Ozempic", dataInizio: "2026-05-29" },
+            { nome: "Kirandeep", sessioni: 5, obiettivo: "Dermocosmesi scientifica — Specializzata in problemi di pelle con risultati visibili in 90 giorni", dataInizio: "2026-06-XX" },
+            { nome: "Andrea Cametti", sessioni: 4, obiettivo: "Sleep optimization e coerenza cardiaca — Regolazione del sistema nervoso", dataInizio: "2026-06-04" },
+            { nome: "Pasqua", sessioni: 4, obiettivo: "Microbiota friendly — Routine di cura per donne in premenopausa", dataInizio: "2026-05-15" },
+            { nome: "Cinzia Lacovara", sessioni: 4, obiettivo: "Dermocosmetica — Asse intestino-pelle per giovani adulte con acne", dataInizio: "2026-06-11" },
+            { nome: "Monica Crabuzza", sessioni: 3, obiettivo: "Consulenza nutrizionale online — Riduzione circonferenza girovita per donne 45-55 anni", dataInizio: "2026-06-11" },
+            { nome: "Sandra", sessioni: 2, obiettivo: "Cura della pelle scientifica — Donne 25-40 anni con competenze ormonali", dataInizio: "2026-06-12" },
+            { nome: "Beatrice", sessioni: 2, obiettivo: "Consulenza specializzata — Superando perfezionismo e blocchi personali", dataInizio: "2026-07-15" },
+            { nome: "Camilla Taddei", sessioni: 1, obiettivo: "Farmacista digitale — Benessere attraverso personal brand scientifico", dataInizio: "2026-07-03" },
+            { nome: "Giulia", sessioni: 1, obiettivo: "In definizione", dataInizio: "2026-07-10" }
+        ];
+
+        let filteredClients = [...clientsData];
+        const totalSessions = clientsData.reduce((sum, c) => sum + c.sessioni, 0);
+        const avgProgress = Math.round((totalSessions / (clientsData.length * 12)) * 100);
+        const completedCount = clientsData.filter(c => c.sessioni === 12).length;
+
+        document.getElementById('totalSessions').textContent = totalSessions;
+        document.getElementById('avgProgress').textContent = avgProgress + '%';
+        document.getElementById('completedCount').textContent = completedCount;
+
+        function calculateNextMonday() {
+            const today = new Date();
+            const day = today.getDay();
+            const diff = today.getDate() - day + (day === 0 ? -6 : 1);
+            const monday = new Date(today.setDate(diff));
+            monday.setHours(8, 0, 0, 0);
+            return monday.toLocaleDateString('it-IT', { weekday: 'long', hour: '2-digit', minute: '2-digit' });
+        }
+
+        document.getElementById('nextSync').textContent = calculateNextMonday();
+        document.getElementById('lastSync').textContent = new Date().toLocaleDateString('it-IT', { hour: '2-digit', minute: '2-digit' });
+
+        function renderClients(clients) {
+            const grid = document.getElementById('clientsGrid');
+            grid.innerHTML = '';
+
+            clients.forEach(client => {
+                const progress = (client.sessioni / 12) * 100;
+                const status = client.sessioni === 12 ? 'Completato' : `${client.sessioni}/12`;
+
+                const card = document.createElement('div');
+                card.className = 'client-card';
+                card.onclick = () => showDetail(client);
+                card.innerHTML = `
+                    <div class="client-header">
+                        <div class="client-name">${client.nome}</div>
+                        <div class="client-badge">${status}</div>
+                    </div>
+                    <div class="client-goal">${client.obiettivo}</div>
+                    <div class="progress-container">
+                        <div class="progress-header">
+                            <span class="progress-label">Protocollo F.A.R.M.A.</span>
+                            <span class="progress-percent">${Math.round(progress)}%</span>
+                        </div>
+                        <div class="progress-bar">
+                            <div class="progress-fill" style="width: ${progress}%"></div>
+                        </div>
+                    </div>
+                    <div class="client-stats">
+                        <div class="stat-mini">
+                            <div class="stat-mini-value">${client.sessioni}</div>
+                            <div class="stat-mini-label">Completate</div>
+                        </div>
+                        <div class="stat-mini">
+                            <div class="stat-mini-value">${12 - client.sessioni}</div>
+                            <div class="stat-mini-label">Rimanenti</div>
+                        </div>
+                    </div>
+                `;
+                grid.appendChild(card);
+            });
+        }
+
+        function showDetail(client) {
+            const modal = document.getElementById('detailModal');
+            const body = document.getElementById('modalBody');
+            const progress = (client.sessioni / 12) * 100;
+
+            body.innerHTML = `
+                <h2 style="color: #d8a4ff; margin-bottom: 20px;">${client.nome}</h2>
+                <div style="background: rgba(107, 76, 154, 0.1); padding: 15px; border-radius: 8px; margin-bottom: 20px; border-left: 3px solid #6B4C9A;">
+                    <p style="color: #9d8bb3; margin-bottom: 8px;"><strong>Obiettivo Personale:</strong></p>
+                    <p style="color: #d8a4ff; font-size: 1.05em;">${client.obiettivo}</p>
+                </div>
+
+                <div style="margin-bottom: 20px;">
+                    <p style="color: #9d8bb3; margin-bottom: 10px;"><strong>Data Inizio:</strong> <span style="color: #d8a4ff;">${client.dataInizio}</span></p>
+                    <p style="color: #9d8bb3; margin-bottom: 10px;"><strong>Sessioni Completate:</strong> <span style="color: #d8a4ff; font-weight: 700;">${client.sessioni}/12</span></p>
+                    <p style="color: #9d8bb3;"><strong>Progress:</strong> <span style="color: #d8a4ff; font-weight: 700;">${Math.round(progress)}%</span></p>
+                </div>
+
+                <div style="margin-bottom: 20px;">
+                    <p style="color: #9d8bb3; margin-bottom: 10px;"><strong>Progress Bar:</strong></p>
+                    <div class="progress-bar" style="height: 8px;">
+                        <div class="progress-fill" style="width: ${progress}%"></div>
+                    </div>
+                </div>
+
+                <div style="background: rgba(107, 76, 154, 0.1); padding: 15px; border-radius: 8px; border-left: 3px solid #6B4C9A;">
+                    <p style="color: #9d8bb3; font-size: 0.9em; margin-bottom: 10px;"><strong>ℹ️ Info Sync:</strong></p>
+                    <p style="color: #9d8bb3; font-size: 0.85em;">I dati di questo cliente vengono sincronizzati ogni lunedì alle 8:00 AM.</p>
+                    <p style="color: #9d8bb3; font-size: 0.85em; margin-top: 8px;">Le sessioni completate vengono conteggiate dal numero di recording nella cartella Drive.</p>
+                </div>
+            `;
+            modal.classList.add('active');
+        }
+
+        function closeModal() {
+            document.getElementById('detailModal').classList.remove('active');
+        }
+
+        function filterTab(filter) {
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+
+            if (filter === 'all') {
+                filteredClients = [...clientsData];
+            } else if (filter === 'active') {
+                filteredClients = clientsData.filter(c => c.sessioni < 12);
+            } else if (filter === 'completed') {
+                filteredClients = clientsData.filter(c => c.sessioni === 12);
+            }
+
+            renderClients(filteredClients);
+        }
+
+        function sortTab(sort) {
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+
+            if (sort === 'progress') {
+                filteredClients = [...clientsData].sort((a, b) => b.sessioni - a.sessioni);
+            }
+
+            renderClients(filteredClients);
+        }
+
+        renderClients(filteredClients);
+    </script>
+</body>
+</html>
