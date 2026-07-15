@@ -41,10 +41,17 @@ Last run: 2026-07-15T00:00:00Z
 
 > Sessioni del Protocollo F.A.R.M.A. (12 sessioni per cliente). Ogni sessione genera task per te — il dettaglio vive in `Clients/{nome}/consulenze.md`, qui trovi il tuo tracker sintetico.
 
-**Clienti Attivi:**
-- [[Egidio]] (inizio 2026-06-01) — vedi [[egidio-consulenze]]
-- [[Monica]] (inizio 2026-06-15) — vedi [[monica-consulenze]]
-- [[Kiran]] (inizio 2026-05-20) — vedi [[kiran-consulenze]]
+**Clienti Attivi (10):**
+- [[Egidio]] — vedi [[egidio-consulenze]]
+- [[Monica]] — vedi [[monica-consulenze]]
+- [[Kirandeep]] — vedi [[kirandeep-consulenze]]
+- [[Beatrice]] — vedi [[beatrice-consulenze]]
+- [[Giulia]] — vedi [[giulia-consulenze]]
+- [[Camilla]] — vedi [[camilla-consulenze]]
+- [[Cinzia]] — vedi [[cinzia-consulenze]]
+- [[Sandra]] — vedi [[sandra-consulenze]]
+- [[Andrea]] — vedi [[andrea-consulenze]]
+- [[Pasqua]] — vedi [[pasqua-consulenze]]
 
 (I task delle singole sessioni appariranno qui mano mano che completate le consulenze.)
 
