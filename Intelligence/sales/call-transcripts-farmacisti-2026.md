@@ -16,35 +16,50 @@ Hub di tutte le call di vendita, onboarding e follow-up registrate tra [[Irene S
 
 ---
 
-## Farmacisti Contattati
+## Farmacisti Contattati — Collezione Principale
 
-| Nome | Stato | Tipo Call | Note |
-|------|-------|----------|------|
-| [[Veronica]] | **Iscritto** | Sales + Follow-up | Specialità: allergie. Call principale ore 0-1:03 |
-| [[Carla]] | Prospect | Sales (oggi) | Data: 2026-06-16, Trascrizione Gemini minima |
-| [[Flaminia Gallo]] | Prospect (Negotiation) | Sales | Specialità: neonutraceutica. Richiede piano rateale 7 rate (2.500€) |
-| [[Andrea]] | Prospect | Sales (giugno) | Data: 2026-06-10 |
-| [[Lucia Cerquaglia]] | Prospect | Sales (giugno) | Data: 2026-06-10 |
-| [[Kirandeep]] | Prospect | Sales + Onboarding | Multiple sessions |
-| [[Carmen]] | Prospect | Sales + Variants | Versioni: base, old, onboarding |
-| [[Cinzia]] | Prospect | Sales (maggio) | Data: 2026-05-04 |
-| [[Monica]] | Prospect | Sales (maggio) | Data: 2026-05-19 |
-| [[Erika]] | Prospect | Sales (aprile) | Data: 2026-04-21 |
-| [[Pasqua]] | Prospect | Sales (aprile) | Data: 2026-04-23 (possibilmente duplicato) |
-| [[Gianna]] | Prospect | Sales (aprile) | Data: 2026-04-20 |
-| [[Francesco Gioia]] | Prospect | Sales (aprile) | Data: 2026-04-22 |
-| [[Giulia]] | Prospect | Sales (aprile) | Data: 2026-04-29 |
-| [[Paolo]] | Prospect | Sales (aprile) | Data: 2026-04-30 |
-| [[Michela]] | Prospect | Sales | - |
-| [[Alice]] | Prospect | Sales + Onboarding | Versioni: base, vendita |
-| [[Luciana]] | Prospect | Sales + Onboarding | Versioni: base, vendita |
-| [[Angelica]] | Prospect | Sales + Onboarding | Versioni: base, vendita |
-| [[Sandra]] | Prospect | Sales + Follow-up | Versioni: base, vendita |
-| [[Paola]] | Prospect | Sales | - |
-| [[Claudia]] | Prospect | Sales | - |
-| [[Egidio]] | Prospect | Sales | - |
-| [[Daniele]] | Prospect | Sales | - |
-| [[Andrea]] | Prospect | Sales | - |
+### Giugno 2026 (4 calls primarie + follow-up)
+
+| Nome | Stato | Tipo Call | Data | Specialità | Outcome |
+|------|-------|----------|------|-----------|---------|
+| [[Alessia Longobardi]] | **CHIUSA** | Sales | 2026-06-20 | Nutrizione e sport | Acconto €500 versato |
+| [[Veronica Bernardi]] | Negoziazione | Sales + Follow-up | 2026-06-18 | Intestino e microbiota | Attesa discussione con titolare |
+| [[Carla]] | Prospect | Sales | 2026-06-16 | [No data] | Trascrizione incompleta |
+| [[Flaminia Gallo]] | Negoziazione | Sales | giu 20 | Neonutraceutica | Richiede rateale 7 rate (€2500) |
+
+### Luglio 2026 (7 calls)
+
+| Nome | Stato | Tipo Call | Data | Specialità | Outcome |
+|------|-------|----------|------|-----------|---------|
+| [[Luca Massidda]] | Prospect | Sales | 2026-07-02 | Alimentazione sportivo | Rifiuto soft (controproposta % sui guadagni) |
+| [[Marina Gastaldi]] | Negoziazione | Sales | 2026-07-03 | Fitoterapia, cosmesi, integratori | Follow-up mercoledì (inizio settembre) |
+| [[Giulia Todeschini]] | Negoziazione | Sales | 2026-07-09 | Salute femminile | Richiede dilazione pagamento (da confermare) |
+| [[Beatrice Alessi]] | **CHIUSA** | Sales | 2026-07-14 | Integratori naturali/omeopatia/biohacking | Rateizzazione 3 rate (€2500, €500 acconto domani) |
+
+### Precedenti (Archivi da completare)
+
+| Nome | Stato | Tipo Call | Data | Note |
+|------|-------|----------|------|------|
+| [[Kirandeep]] | Prospect | Sales + Onboarding | — | Multiple sessions |
+| [[Carmen]] | Prospect | Sales + Variants | — | Versioni: base, old, onboarding |
+| [[Cinzia]] | Prospect | Sales (maggio) | 2026-05-04 | — |
+| [[Monica]] | Prospect | Sales (maggio) | 2026-05-19 | — |
+| [[Erika]] | Prospect | Sales (aprile) | 2026-04-21 | — |
+| [[Pasqua]] | Prospect | Sales (aprile) | 2026-04-23 | Possibilmente duplicato |
+| [[Gianna]] | Prospect | Sales (aprile) | 2026-04-20 | — |
+| [[Francesco Gioia]] | Prospect | Sales (aprile) | 2026-04-22 | — |
+| [[Andrea]] | Prospect | Sales (giugno) | 2026-06-10 | — |
+| [[Lucia Cerquaglia]] | Prospect | Sales (giugno) | 2026-06-10 | — |
+| [[Paolo]] | Prospect | Sales (aprile) | 2026-04-30 | — |
+| [[Michela]] | Prospect | Sales | — | — |
+| [[Alice]] | Prospect | Sales + Onboarding | — | Versioni: base, vendita |
+| [[Luciana]] | Prospect | Sales + Onboarding | — | Versioni: base, vendita |
+| [[Angelica]] | Prospect | Sales + Onboarding | — | Versioni: base, vendita |
+| [[Sandra]] | Prospect | Sales + Follow-up | — | Versioni: base, vendita |
+| [[Paola]] | Prospect | Sales | — | — |
+| [[Claudia]] | Prospect | Sales | — | — |
+| [[Egidio]] | Prospect | Sales | — | — |
+| [[Daniele]] | Prospect | Sales | — | — |
 
 ---
 
