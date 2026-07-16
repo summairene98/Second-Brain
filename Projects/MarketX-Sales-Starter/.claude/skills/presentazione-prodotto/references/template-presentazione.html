@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Presentazione prodotto</title>
+<link rel="stylesheet" href="https://api.fontshare.com/v2/css?f[]=clash-display@500,600,700&f[]=satoshi@400,500,700&display=swap" />
+<style>
+/* Template presentazione prodotto — riempi solo i testi, non toccare il CSS. */
+:root{
+  --bg:#06090F; --ink:#F3F7FF; --soft:#A9BAD6; --dim:#6F82A3;
+  --acc:#3D7BFF; --acc2:#5FA0FF; --cyan:#54D6FF; --line:rgba(255,255,255,.10);
+  --glass:linear-gradient(135deg,rgba(255,255,255,.07),rgba(255,255,255,.015));
+  --gb:1px solid rgba(255,255,255,.12); --gs:0 10px 40px rgba(0,0,0,.45);
+  --fd:"Clash Display",sans-serif; --fb:"Satoshi",sans-serif;
+  --pad:clamp(1.5rem,5vw,5rem);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-snap-type:y mandatory;scroll-behavior:smooth}
+body{font-family:var(--fb);background:var(--bg);color:var(--ink);-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0;z-index:0;pointer-events:none;
+  background:radial-gradient(60vw 60vw at 12% 8%,rgba(61,123,255,.20),transparent 60%),radial-gradient(50vw 50vw at 92% 92%,rgba(84,214,255,.12),transparent 60%)}
+.slide{width:100vw;height:100vh;height:100dvh;overflow:hidden;scroll-snap-align:start;display:flex;flex-direction:column;justify-content:center;padding:var(--pad);position:relative;z-index:1}
+.eyebrow{font-family:var(--fd);font-size:clamp(.72rem,1vw,.9rem);font-weight:600;letter-spacing:.22em;text-transform:uppercase;color:var(--acc2);margin-bottom:1rem}
+h1{font-family:var(--fd);font-weight:600;font-size:clamp(2.4rem,7vw,5.5rem);line-height:1.02;letter-spacing:-.02em}
+h1 .a{color:var(--acc2)}
+h2{font-family:var(--fd);font-weight:600;font-size:clamp(1.7rem,4vw,3.2rem);line-height:1.05;letter-spacing:-.015em;margin-bottom:1.2rem}
+p{font-size:clamp(1rem,1.6vw,1.4rem);line-height:1.5;color:var(--soft);max-width:52ch}
+.lead{font-size:clamp(1.15rem,2vw,1.6rem);margin-top:1.4rem;color:var(--soft);max-width:44ch}
+.cards{display:grid;gap:clamp(.7rem,1.6vw,1.2rem);margin-top:1.6rem}
+.c3{grid-template-columns:repeat(3,1fr)} .c2{grid-template-columns:repeat(2,1fr)}
+@media(max-width:820px){.c3,.c2{grid-template-columns:1fr}}
+.tile{background:var(--glass);border:var(--gb);border-radius:16px;box-shadow:var(--gs);backdrop-filter:blur(14px);padding:clamp(1rem,2vw,1.5rem)}
+.tile h3{font-family:var(--fd);font-weight:600;font-size:clamp(1.05rem,1.8vw,1.4rem);margin-bottom:.4em}
+.tile p{font-size:clamp(.9rem,1.3vw,1.05rem)}
+ul.blist{list-style:none;display:flex;flex-direction:column;gap:.7rem;margin-top:1.4rem}
+ul.blist li{position:relative;padding-left:1.6em;font-size:clamp(1rem,1.5vw,1.25rem);color:var(--soft)}
+ul.blist li::before{content:"";position:absolute;left:0;top:.5em;width:.5em;height:.5em;border-radius:50%;background:var(--acc)}
+.price{font-family:var(--fd);font-weight:700;font-size:clamp(2.6rem,8vw,5rem);color:var(--ink);line-height:1}
+.price .cur{color:var(--acc2)}
+.badge{display:inline-block;margin-top:1.2rem;padding:.5em 1.1em;border-radius:999px;border:1px solid rgba(61,123,255,.5);background:linear-gradient(135deg,rgba(61,123,255,.2),rgba(61,123,255,.04));color:var(--acc2);font-family:var(--fd);font-weight:600;font-size:clamp(.85rem,1.2vw,1rem)}
+.center{text-align:center;align-items:center}
+.center p,.center .lead{margin-left:auto;margin-right:auto}
+.snum{position:absolute;bottom:clamp(12px,2vh,26px);right:clamp(16px,2.5vw,36px);font-family:var(--fd);font-size:.8rem;color:var(--dim)}
+.foot{position:absolute;bottom:clamp(12px,2vh,26px);left:clamp(16px,2.5vw,36px);font-size:.75rem;color:var(--dim)}
+
+@media print{
+  @page{size:1280px 720px;margin:0}
+  html{scroll-snap-type:none}
+  body::before{display:none!important}
+  .slide{width:1280px;height:720px;page-break-after:always;break-after:page}
+  .slide:last-child{break-after:auto}
+  *{-webkit-print-color-adjust:exact!important;print-color-adjust:exact!important}
+  :root{--pad:4.5rem}
+  h1{font-size:4.6rem!important} h2{font-size:2.8rem!important} p,.lead{font-size:1.35rem!important}
+  .c3{grid-template-columns:repeat(3,1fr)!important} .c2{grid-template-columns:repeat(2,1fr)!important}
+}
+</style>
+</head>
+<body>
+
+<!-- COVER — nome prodotto + promessa -->
+<section class="slide center">
+  <div class="eyebrow">{{CLIENTE O CATEGORIA}}</div>
+  <h1>{{NOME PRODOTTO}}</h1>
+  <p class="lead">{{PROMESSA / TRASFORMAZIONE IN UNA FRASE}}</p>
+  <div class="foot">MarketX</div>
+</section>
+
+<!-- SLIDE PROBLEMA -->
+<section class="slide">
+  <div class="eyebrow">Il problema</div>
+  <h2>{{IL PROBLEMA DEL CLIENTE, IN 4-6 PAROLE}}</h2>
+  <p>{{DESCRIVI IL PROBLEMA IN 2-3 RIGHE. PARLA LA LINGUA DEL TARGET.}}</p>
+  <span class="snum">02</span>
+</section>
+
+<!-- SLIDE SOLUZIONE / METODO -->
+<section class="slide">
+  <div class="eyebrow">La soluzione</div>
+  <h2>{{IL METODO / LA SOLUZIONE}}</h2>
+  <p>{{COME RISOLVE IL PROBLEMA, IN 2-3 RIGHE.}}</p>
+  <span class="snum">03</span>
+</section>
+
+<!-- SLIDE COSA INCLUDE (card) -->
+<section class="slide">
+  <div class="eyebrow">Cosa include</div>
+  <h2>{{TITOLO, ES. TUTTO QUELLO CHE OTTIENI}}</h2>
+  <div class="cards c3">
+    <div class="tile"><h3>{{ELEMENTO 1}}</h3><p>{{dettaglio}}</p></div>
+    <div class="tile"><h3>{{ELEMENTO 2}}</h3><p>{{dettaglio}}</p></div>
+    <div class="tile"><h3>{{ELEMENTO 3}}</h3><p>{{dettaglio}}</p></div>
+  </div>
+  <span class="snum">04</span>
+</section>
+
+<!-- SLIDE PROVA / RISULTATI -->
+<section class="slide">
+  <div class="eyebrow">I risultati</div>
+  <h2>{{TITOLO PROVA, ES. COSA SUCCEDE DOPO}}</h2>
+  <ul class="blist">
+    <li>{{risultato o caso 1}}</li>
+    <li>{{risultato o caso 2}}</li>
+    <li>{{risultato o caso 3}}</li>
+  </ul>
+  <span class="snum">05</span>
+</section>
+
+<!-- SLIDE PREZZO / OFFERTA -->
+<section class="slide">
+  <div class="eyebrow">L'offerta</div>
+  <h2>{{TITOLO OFFERTA}}</h2>
+  <div class="price"><span class="cur">EUR</span> {{PREZZO}}</div>
+  <span class="badge">{{CONDIZIONE / SCADENZA / BONUS}}</span>
+  <span class="snum">06</span>
+</section>
+
+<!-- CHIUSURA / CTA -->
+<section class="slide center">
+  <div class="eyebrow">Il prossimo passo</div>
+  <h1 style="font-size:clamp(2rem,6vw,4.2rem)">{{CALL TO ACTION}}</h1>
+  <p class="lead">{{COSA DEVE FARE ADESSO IL CLIENTE}}</p>
+  <div class="foot">MarketX</div>
+</section>
+
+</body>
+</html>
