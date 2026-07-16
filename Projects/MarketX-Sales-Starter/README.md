@@ -20,3 +20,6 @@ Il tuo spazio di lavoro con Claude per gestire i **lanci** dei clienti. Serve pe
 
 ## Regola d'oro
 Piu' dai a Claude le TUE cose (i tuoi script, le tue best practice, il tuo tono), piu' lavora come te. Il setup iniziale serve proprio a questo.
+
+## Collegamenti nel vault
+Questo workspace supporta la parte commerciale del percorso [[Protocollo-FARMA/README|Protocollo F.A.R.M.A.]], gestito da [[Irene Summa]] per [[Farmacista Digitale]].

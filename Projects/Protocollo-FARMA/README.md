@@ -43,3 +43,9 @@ Percorso di formazione e consulenza 1:1 per farmacisti che vogliono trasformarsi
 - [ ] Modulo 4: Testing e Ottimizzazione
 
 **Prossimo checkpoint**: Completare il Modulo 1 e validare con [[Irene]].
+
+---
+
+## Workspace collegati
+
+Per la parte commerciale (trattative, script di vendita, analisi call, schede lancio) del percorso si usa il sales workspace [[MarketX-Sales-Starter/README|MarketX Sales Starter]], che vive in `Projects/MarketX-Sales-Starter/`. Nome cartella ereditato, ma adattato a [[Farmacista Digitale]] e al Protocollo F.A.R.M.A.
