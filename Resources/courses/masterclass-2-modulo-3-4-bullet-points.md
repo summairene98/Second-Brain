@@ -3,14 +3,19 @@ type: curriculum
 course: Protocollo F.A.R.M.A.
 masterclass: 2
 title: "MC 2 — Modulo 3 & 4: Prompt Engineering + Claude Assistente Personale"
-status: draft
+status: superseded
 tags: [ia, prompt-engineering, claude, automazione, assistente]
 date: 2026-06-27
+project: Protocollo-FARMA
+department: Delivery
 ---
 
 # Masterclass 2 — Modulo 3 & 4: Bullet Points
 
 *Stile: Proiezione consulente digitale | Vendita del percorso | Alleggerimento operativo*
+
+> [!warning] Bozza superata
+> La struttura del Modulo 4 qui sotto (solo "Claude Assistente Personale") è stata superata il 2026-07-22. La versione aggiornata, con il Modulo 4 riorganizzato in quattro blocchi (motore di ricerca, assistente, esempi pratici, produttore di contenuti), vive in [[masterclass-2-modulo-3-4-complete-bullet-points]]. Tieni questa pagina solo come riferimento storico del Modulo 3.
 
 ---
 
