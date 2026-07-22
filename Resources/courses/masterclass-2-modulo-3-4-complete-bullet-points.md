@@ -245,6 +245,9 @@ department: Delivery
 
 *Questo modulo non introduce teoria nuova. È la presentazione riassuntiva, a schermo condiviso, di tutto quello che avete imparato sull'IA finora, organizzata in 4 parti brevi e concrete. Ogni parte finisce con un'azione che il farmacista fa subito, non con altra teoria.*
 
+> [!note] Sintesi rapida
+> Per i soli punti da toccare, senza esempi e timing, vedi [[masterclass-2-modulo-4-punti-chiave]].
+
 ### PARTE 1: Come Usare l'IA nella Ricerca Scientifica (Recap)
 
 **Obiettivo della parte (1 min):**
