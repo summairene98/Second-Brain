@@ -2,7 +2,7 @@
 type: curriculum
 course: Protocollo F.A.R.M.A.
 masterclass: 2
-title: "MC 2 — Modulo 3 & 4: Prompt Engineering + IA come Ricerca, Assistente e Produttore di Contenuti"
+title: "MC 2 — Modulo 3 & 4: Prompt Engineering + Ricapitolazione Pratica dell'IA"
 status: ready-for-recording
 tags: [ia, prompt-engineering, claude, automazione, assistente, curriculum]
 date: 2026-07-22
@@ -235,198 +235,129 @@ department: Delivery
 
 **Recap + Transizione (2 min):**
 - "Quando configuri Claude come assistente, diventi efficiente. Non perdi tempo a ripetere."
-- "Adesso nel Modulo 4 vedremo l'IA da quattro angolazioni diverse: motore di ricerca, assistente quotidiano, esempi reali, e produttore di contenuti. Lì trasformiamo tutto quello che avete imparato in un sistema che lavora per voi ogni giorno."
+- "Adesso nel Modulo 4 mettiamo tutto in ordine: una ricapitolazione pratica, a schermo, di tutto quello che avete imparato sull'IA in questo percorso."
 
 ---
 
 ---
 
-## 🎬 MODULO 4: Dalla Ricerca ai Contenuti — L'IA a 360° per il Consulente Digitale
+## 🎬 MODULO 4: Ricapitolazione Pratica — L'IA in Ordine, Tutta a Schermo
 
-*Nel Modulo 3 avete imparato la base: come si costruisce un prompt, come si estraggono dati da un paper. Il Modulo 4 prende quella base e la applica a tutta la vostra attività di consulenza: come cercate informazioni, come vi supporta ogni giorno, cosa succede davvero nella pratica, come create contenuti senza bruciarvi ore.*
+*Questo modulo non introduce teoria nuova. È la presentazione riassuntiva, a schermo condiviso, di tutto quello che avete imparato sull'IA finora, organizzata in 4 parti brevi e concrete. Ogni parte finisce con un'azione che il farmacista fa subito, non con altra teoria.*
 
-### LEZIONE 1: L'IA Come Motore di Ricerca (Va Oltre Google)
+### PARTE 1: Come Usare l'IA nella Ricerca Scientifica (Recap)
 
-**Hook Iniziale (2 min):**
-- Nel Modulo 1 vi ho detto: "l'IA non è un motore di ricerca, è un ragionatore." Vero. Ma oggi vi mostro perché, per il vostro lavoro di consulente, l'IA **sostituisce e supera** Google in quasi tutto quello che vi serve cercare
-- Google vi dà 10 link da leggere. L'IA vi dà già la risposta, sintetizzata, pronta da validare
-- Nel Modulo 3 avete imparato a cercare paper scientifici. Oggi allarghiamo: mercato, competitor, quello che dicono davvero i vostri potenziali clienti online
+**Obiettivo della parte (1 min):**
+- Ricapitolare in versione compatta quello che avete già visto nel Modulo 3: come si usa l'IA per leggere paper ed estrarre dati affidabili
 
-**Fase 1: Ricerca Scientifica Continua, Non Solo per un Cliente (3 min)**
-- Non aspettate che un cliente vi faccia una domanda per cercare
-- Ogni settimana: chiedete a Claude o Gemini "cosa c'è di nuovo negli ultimi 3 mesi su [la tua nicchia]?"
-- Dire: "Restare aggiornati nella vostra specializzazione non è più un lavoro di ore in biblioteca. È una domanda a settimana."
-- Screen: mostra un prompt tipo "Fammi un riassunto delle novità scientifiche degli ultimi 90 giorni su [ormoni femminili / stress / microbiota], solo studi peer-reviewed"
-
-**Fase 2: Ricerca di Mercato — Cosa Chiedono Davvero i Vostri Potenziali Clienti (4 min)**
-- Il problema: capire di cosa parla il vostro target senza passare ore su Reddit, forum, gruppi Facebook
-- La soluzione: dai all'IA il compito di leggere e sintetizzare al posto tuo
-- Screen: prompt tipo "Cerca cosa dicono online donne 35-45 con disbiosi intestinale: paure, obiezioni, parole che usano loro (non parole tecniche)"
-- Punto: "Questo linguaggio, quello vero, non quello da manuale, è quello che userete nei vostri contenuti e nelle vostre consulenze"
-
-**Fase 3: Ricerca Competitor — Chi Fa Cosa Nella Tua Nicchia (3 min)**
-- Quando scoprite un altro consulente/farmacista digitale nella vostra nicchia, non dovete studiarlo per ore
-- Prompt tipo: "Guarda questo profilo/sito e dimmi: come si posiziona, cosa promette, quanto fa pagare, cosa manca nella sua offerta"
-- Dire: "Non copiate. Capite dove siete più forti e cosa manca nel mercato, per differenziarvi"
-
-**Fase 4: Gemini e Notebook LM Come Alternative (2 min)**
-- Gemini: integrato con Google, utile quando la ricerca richiede fonti molto recenti
-- Notebook LM: carichi tutti i paper e materiali della tua nicchia, e interroghi l'insieme come fosse un unico esperto
-- Dire: "Non serve un solo strumento. Serve sapere quale usare per quale domanda"
-
-**Recap + Transizione (2 min):**
-- "Da oggi, prima di aprire Google, apri Claude o Gemini. Risparmi ore, e la qualità della risposta è già filtrata"
-- "Adesso vediamo come tutto questo si trasforma in un assistente che lavora con voi ogni giorno, non solo quando fate una ricerca"
-
----
-
-### LEZIONE 2: L'IA Come Assistente Quotidiano
-
-**Hook Iniziale (2 min):**
-- Cambio di prospettiva: da "Claude mi aiuta con i compiti" a "Claude mi gestisce il flusso di lavoro quotidiano"
-- Scenario: una giornata tipo con 4 clienti paralleli senza Claude vs. con Claude
-- Senza Claude: 6 ore frammentate, tante task aperte, rischi di dimenticare deadline
-- Con Claude: 4 ore concentrate, task organizzate, niente cade
-
-**Fase 1: Le 3 Aree di Supporto Quotidiano (3 min)**
-- **Area 1 — Ricerca & Sintesi:** quello che avete visto nella Lezione 1, applicato ogni giorno
-- **Area 2 — Contenuti:** genera articoli, email, risposta a domande (lo approfondiamo nella Lezione 4)
-- **Area 3 — Organizzazione:** pianifica la settimana, ricorda le deadline, trackka i progressi
-- Screen: mostra una giornata tipo divisa in queste 3 aree
-- Dire: "Ogni area è un workflow che Claude gestisce. Tu dai il via, Claude esegue."
-
-**Fase 2: Il Setup Quotidiano (10 min — è la parte importante)**
-- **Lunedì mattina (10 min per pianificare la settimana):**
-  - Tu: list tuoi 4 clienti, quale fase sono (inizio, metà, fine consulenza)
-  - Tu: Claude dimmi il piano della settimana per ogni cliente
-  - Claude: genera un documento con date, task, deliverable
-  - Screenshot: mostra il piano generato
-
-- **Ogni giorno (3 min per dare priorità):**
-  - Tu: Claude, cosa devo fare oggi per mantenermi in schedule?
-  - Claude: lista le 5 task prioritarie, col tempo che richiedono
-  - Screenshot: mostra la lista giornaliera
-
-- **Mercoledì/Giovedì (quando arrivano le domande):**
-  - Cliente manda una domanda → tu dai a Claude il contesto (quale fase, quale argomento, cos'avete già coperto)
-  - Claude genera una risposta → tu la leggi (2 min) → mandi al cliente
-  - Screenshot: mostra come vai da domanda → risposta in 10 minuti vs. 45 minuti senza Claude
-
-- **Venerdì (10 min per sintetizzare la settimana):**
-  - Tu: Claude, fai un report di progresso per ogni cliente
-  - Claude: organizza cosa è stato fatto, cosa rimane, suggerisce il prossimo passo
-  - Tu: mandi questo report ai clienti (loro vedono che sei organizzato)
-
-**Fase 3: La Gestione della Relazione Cliente (4 min)**
-- Le domande ricorrenti: ogni cliente chiede le stesse cose (dosaggi, interazioni, cosa succede se dimentico una dose)
-- Con un template di risposta caricato in Claude, rispondi in 2 minuti invece di 5, moltiplicato per ogni domanda della settimana
-- I follow-up intelligenti: carichi il profilo del cliente (fase, argomenti coperti, obiettivo) e Claude scrive un follow-up che lo motiva a continuare
-- Il tracking del progresso: dai i dati (prima/dopo) e Claude genera un report che il cliente vede come prova che il tuo metodo funziona
-- Dire: "Il cliente non sa che Claude ha aiutato. Vede solo che sei organizzato e presente."
-
-**Fase 4: Le Automazioni Ricorrenti (2 min)**
-- Workflow che ripeti ogni settimana → li configuri una volta → Claude li ripete automaticamente
-- Esempi: "Ogni lunedì: dimmi il piano della settimana", "Ogni venerdì: fai il report di progresso"
-- Dire: "Non è automazione magica. È che ripeti la stessa richiesta → Claude ricorda il pattern."
-
-**Recap + Transizione (2 min):**
-- "Con questo setup, gestisci 4 clienti senza che qualcosa cada."
-- "Adesso vi faccio vedere esempi concreti, reali, di come funziona questo sistema nella pratica."
-
----
-
-### LEZIONE 3: Esempi Pratici — Il Sistema Vero, Non la Teoria
-
-**Hook Iniziale (1 min):**
-- Vi mostro il mio sistema esatto: come ho configurato Claude, come lo uso ogni giorno, come lo ho insegnato a Elvira
-- Non è teoria. Sono esempi reali che potete copiare da subito
-
-**Esempio 1: La Knowledge Base (5 min — screen share)**
-- Screen: apri il documento "Base Assistente Irene"
-- Contiene: chi sono io (come parlo, i miei valori), i miei standard (articolo, email, proposta), i miei workflow (lunedì/mercoledì/venerdì), i miei ruoli per Claude, i miei template (articolo, proposta, follow-up, report)
-- Sfoglia le sezioni principali. Non è lunga (5-10 pagine), è pratica
-- Dire: "Io carico questo documento ogni volta che apro Claude. Lui legge, capisce il mio metodo, e basta."
-
-**Esempio 2: Una Giornata Reale Con l'IA (4 min — screen share)**
-- Lunedì mattina: carico la knowledge base + lo stato clienti → chiedo il piano della settimana → 2 minuti
-- Mercoledì: cliente chiede "cosa posso prendere per il sonno?" → carico il contesto → Claude scrive la risposta → 2 minuti
-- Venerdì: carico i dati della settimana → Claude genera il report
-- Screenshot: mostra il prompt che usi lunedì, mercoledì, venerdì
-- Punto: "Non è magia. È un sistema semplice che ripeto."
-
-**Esempio 3: Come Ho Insegnato il Sistema a Elvira (3 min)**
-- Elvira è la mia assistente umana. Anche lei usa Claude con la stessa knowledge base
-- Le ho insegnato: "Quando arriva una richiesta da un cliente, tu usi Claude per prepararmi la risposta"
-- Risultato: tutte le risposte hanno la stessa voce, come se fossi io
-- Dire: "Non puoi delegare il pensiero. Ma puoi delegare l'esecuzione SE hai un sistema."
-
-**Esempio 4: Prima e Dopo Su Un Prompt Debole (3 min)**
-- Screen: mostra un prompt scritto male e il suo output generico
-- Poi: lo stesso prompt riscritto con i 5 elementi del Modulo 3 e il suo output pronto da usare
-- Dire: "La differenza tra un consulente che usa l'IA bene e uno che la usa male è tutta qui, in questi due output."
-
-**Recap + Transizione (2 min):**
-- "Questi sono esempi reali, non teoria da corso generico"
-- "Ultima lezione: come trasformate tutto questo in contenuti che pubblicate per i vostri clienti e per farvi trovare."
-
----
-
-### LEZIONE 4: L'IA Come Produttore di Contenuti
-
-**Hook Iniziale (2 min):**
-- Nel Modulo 3 avete imparato a scrivere UN articolo con Claude. Oggi trasformiamo quello in un sistema che produce contenuti su più canali, ogni settimana, senza che voi scriviate da zero
-- ❌ "Ogni contenuto parte da un foglio bianco" = ore perse, pubblichi poco
-- ✅ "Claude produce, io dirigo e rifinisco" = pubblichi costante, senza bruciarti
-
-**Fase 1: Le Task di Contenuto Che Deleghi Subito (3 min)**
-- Articoli LinkedIn/blog: Claude genera in 5 minuti (metodo del Modulo 3, Lezione 3)
-- Post social brevi: stesso dato scientifico, adattato in 3 formati diversi (post Instagram, script Reel, email)
-- Snippet per stories/TikTok: prendi il punto chiave di un articolo e chiedi a Claude una versione da 30 secondi parlati
-- Email ricorrenti ai clienti: risposta a "quanto costa", "quanto ci vuole" con un template che Claude adatta
-- Dire: "Un solo dato scientifico, moltiplicato su più canali. Non serve un contenuto nuovo per ogni piattaforma, serve un adattamento."
-
-**Fase 2: Il Prompt "Un Contenuto, Più Formati" (4 min)**
-- Screen: mostra il prompt completo
-- Struttura:
+**Cosa mostrare a schermo (5 min):**
+- Il prompt pronto da riusare, come scheda di riferimento:
   ```
-  Tu sei un consulente digitale che scrive per [nome cliente/nicchia].
-
-  Ho questo contenuto di base: [incolla l'articolo o i dati estratti dal paper]
-
-  Trasformalo in:
-  1. Un post LinkedIn (150 parole, hook + 3 punti + CTA)
-  2. Una caption Instagram (80 parole, tono più caldo, 1 domanda finale)
-  3. Uno script Reel di 30 secondi (parlato, diretto, no tecnicismi)
-
-  Tono: [la voice del cliente]
-  NON usare: liste puntate nella caption, termini tecnici senza spiegazione
+  Tu sei un farmacista che assiste consulenti nell'estrarre dati da paper.
+  Per questo paper, estrai: meccanismo d'azione, dosaggio testato, risultati principali,
+  effetti avversi, limitazioni dello studio, citazione formale.
+  Tono: preciso, scientifico, NO jargon inutile.
+  [Incolla qui il testo/abstract del paper]
   ```
-- Dire: "Un input, tre output. Questo è quello che intendo per 'produttore di contenuti'."
+- 1 esempio live veloce: incolli un abstract, Claude estrae, tu validi in 30 secondi
+- Dire: "Questo prompt lo avete già. Da oggi diventa la vostra scheda fissa, sempre a portata di mano."
 
-**Fase 3: Come Non Fare il Lavoro Doppio (2 min)**
-- Errore frequente: "Scrivo tutto io, poi lo do a Claude per un parere" = doppio lavoro
-- Versione giusta: "Claude scrive il 70%, io rifinisco il 30%" = lavoro singolo
-- Dire: "Se aspetti di essere ispirata per scrivere, pubblichi poco. Se dirigi Claude, pubblichi ogni settimana."
+**Azione pratica immediata:**
+- Salva questo prompt come nota/preferito. Usalo sul prossimo paper che ti serve entro questa settimana.
 
-**Fase 4: Il Calendario Contenuti Con l'IA (3 min)**
-- Ogni lunedì, insieme al piano clienti (Lezione 2): chiedi a Claude anche il piano contenuti della settimana
-- Prompt tipo: "Datemi 3 idee di contenuto sulla mia nicchia per questa settimana, basate su [le novità scientifiche della Lezione 1 / le domande che i clienti mi fanno]"
-- Screen: mostra un calendario settimanale generato così
-- Punto: "I contenuti nascono dalla ricerca e dalle domande reali dei clienti, non da un foglio bianco"
+---
 
-**Caso Studio: Da un Paper a un Post in 20 Minuti (3 min)**
-- Live demo o screen registrato: paper → dati estratti (Modulo 3) → articolo (Modulo 3) → post LinkedIn + caption + script Reel (oggi)
-- Tempo totale: 20 minuti per 4 contenuti diversi, tutti dallo stesso dato scientifico
-- Punto: "Questo è il motivo per cui potete pubblicare con costanza senza che diventi un secondo lavoro"
+### PARTE 2: Come Usare l'IA Come Motore di Ricerca — I Tool e le Versioni Gratuite
 
-**Recap + Promessa Finale (2 min):**
-- "Nel Modulo 4 avete visto l'IA da quattro lati: motore di ricerca, assistente quotidiano, esempi reali, produttore di contenuti"
-- **Promessa finale:** "Se applicate questo sistema, entro 30 giorni pubblicate costante senza bruciarvi, e ogni cliente riceve risposte rapide e coerenti col vostro metodo. Questo è quello che vi rende scalabili."
+**Obiettivo della parte (1 min):**
+- Fare ordine: quali strumenti esistono, cosa fa ognuno, cosa potete usare gratis da subito
 
-**Workbook & Consegnabili (2 min):**
-- Ricevete: la Knowledge Base template, il prompt "un contenuto, più formati", la checklist di setup, 10-15 esempi di prompt pronti
-- Consegnate: 1 ricerca fatta con la Lezione 1, il piano settimanale della Lezione 2, 1 contenuto multi-formato della Lezione 4
-- Nella consulenza prossima: test pratico su uno dei vostri clienti reali
+**Cosa mostrare a schermo (8 min) — tabella comparativa:**
+
+| Tool | Cosa fa bene | Versione gratuita | Quando usarlo |
+|---|---|---|---|
+| [[Claude]] | Ragionamento profondo, analisi di paper e documenti lunghi, scrittura che suona come te | Sì, con limite di messaggi giornalieri | Ricerca scientifica, scrittura, progetti di consulenza |
+| ChatGPT | Deep research, generazione immagini, task veloci | Sì, versione base limitata | Ricerche ampie, immagini per i contenuti |
+| Gemini | Integrato con Google, informazioni molto recenti | Sì, incluso con account Google | Sostituto diretto di Google per aggiornamenti freschi |
+| NotebookLM | Organizza e interroga più documenti insieme | Sì, gratuito | Quando hai tanti paper/materiali sulla tua nicchia da tenere insieme |
+
+- Per ognuno: 1 esempio pratico di una domanda tipo che fareste
+- Dire: "Non dovete pagare nulla per iniziare. Le versioni gratuite bastano per i primi mesi di consulenza."
+
+**Azione pratica immediata:**
+- Apri un account gratuito nello strumento che non hai ancora provato. Fai una domanda sulla tua nicchia e guarda la risposta.
+
+---
+
+### PARTE 3: Come Usare l'IA Come Assistente Personale Che Risponde ai Clienti
+
+**Obiettivo della parte (1 min):**
+- Vedere in pratica come l'IA può scrivere le risposte ai messaggi dei vostri clienti, con che prompt, e dove finisce quello che può fare da sola
+
+**Esempio Pratico Live (6 min):**
+- Messaggio cliente reale (o realistico): *"Ciao! Ho una disbiosi da 5 anni, ho provato tutto, nulla ha funzionato. Pensi che una consulenza potrebbe aiutarmi? Quanto costa?"*
+- Il prompt che usi:
+  ```
+  Tu sei il mio assistente e rispondi ai messaggi dei miei clienti al posto mio.
+  Il mio tono: [caldo / diretto / scientifico ma accessibile]
+  Non dire mai: [prezzi esatti senza contesto / promesse di guarigione]
+  Di' sempre: [che ogni percorso è personalizzato, invito a una discovery call]
+
+  Rispondi a questo messaggio del cliente: [incolla il messaggio]
+  ```
+- Screen: mostra la risposta generata, poi la tua eventuale correzione
+- Dire: "Questa è la stessa identica logica dei 5 elementi del prompt che avete già imparato: ruolo, contesto, vincoli, esempio, input."
+
+**I Limiti Dell'Assistente (3 min) — da dire chiaramente:**
+- Non conosce la storia clinica reale del cliente se non gliela dai tu
+- Non decide al posto tuo: propone una bozza, tu approvi o correggi
+- Non deve mai dare un giudizio clinico o una diagnosi: quello resta sempre tuo
+- Se il messaggio è delicato o ambiguo, la risposta la scrivi tu, l'IA ti aiuta solo a strutturarla
+
+**Ponte Verso l'Organizzazione (2 min):**
+- Dire: "Perché questo assistente funzioni bene ogni volta, senza doverglielo rispiegare, serve un progetto organizzato bene. Vediamo esattamente cosa deve contenere."
+
+**Azione pratica immediata:**
+- Prendi un messaggio vero che hai ricevuto (o uno tipico) e prova questo prompt su Claude o ChatGPT.
+
+---
+
+### PARTE 4: Cosa Deve Contenere un Progetto Ben Organizzato
+
+**Obiettivo della parte (1 min):**
+- Dare la checklist definitiva: cosa mettere dentro un progetto Claude (o equivalente) perché l'assistente lavori bene da subito e sempre allo stesso modo
+
+**Gli Elementi Che Non Devono Mai Mancare (6 min) — mostra a schermo il tuo progetto reale:**
+1. **Istruzioni di base**: chi sei, la tua specializzazione, il tuo target
+2. **Tono di voce**: come parli, cosa non dici mai, 3 aggettivi che ti descrivono
+3. **Standard di risposta**: lunghezza, cosa includere sempre, cosa evitare sempre
+4. **Esempi di risposte buone**: 2-3 messaggi reali con la risposta che hai già approvato
+5. **I tuoi limiti espliciti**: cosa l'assistente non deve mai fare da solo (prezzi, diagnosi, promesse)
+6. **Materiali della tua nicchia**: paper, protocolli, template che usi in consulenza
+
+- Dire: "Un progetto senza questi 6 elementi è solo una chat. Un progetto con questi 6 elementi è un vero assistente."
+- Screen: mostra il tuo progetto reale sezione per sezione, breve, senza dilungarti
+
+**Azione pratica immediata:**
+- Apri un progetto nuovo (o rivedi quello che hai) e verifica: hai tutti e 6 gli elementi? Se manca qualcosa, aggiungilo oggi.
+
+---
+
+## Recap Finale del Modulo 4
+
+- **Parte 1**: la ricerca scientifica, prompt pronto
+- **Parte 2**: i tool giusti, gratis, per ogni tipo di ricerca
+- **Parte 3**: l'assistente che risponde ai clienti, con i suoi limiti chiari
+- **Parte 4**: come organizzare il progetto perché tutto funzioni insieme
+
+> [!important] Consulenza Post-Modulo 4
+> Sessione live: ogni farmacista porta il proprio progetto configurato con i 6 elementi. Testiamo insieme una risposta a un messaggio reale e correggiamo dal vivo.
+
+**Consegnabili per i Farmacisti:**
+- [ ] Scheda prompt "Ricerca Scientifica" (Parte 1)
+- [ ] Tabella comparativa tool + versioni gratuite (Parte 2)
+- [ ] Prompt "Assistente Risposta Clienti" + lista dei propri limiti (Parte 3)
+- [ ] Checklist "6 Elementi del Progetto" compilata con il proprio progetto (Parte 4)
 
 ---
 
@@ -439,22 +370,15 @@ department: Delivery
 - [ ] Lezione 4: Ho caricato un documento in Claude e mostrato come "impara"? Ho spiegato i ruoli?
 
 **Modulo 4:**
-- [ ] Lezione 1 (Motore di Ricerca): Ho mostrato un prompt di ricerca scientifica continua, di mercato e di competitor?
-- [ ] Lezione 2 (Assistente): Ho mostrato la mia giornata reale? Ho spiegato le 3 aree di supporto e la gestione cliente?
-- [ ] Lezione 3 (Esempi): Ho condiviso lo schermo con la mia knowledge base? Ho mostrato il prima/dopo di un prompt?
-- [ ] Lezione 4 (Produttore di Contenuti): Ho mostrato il prompt "un contenuto, più formati"? Ho fatto il caso studio dal paper al post?
-
-**Consegnabili per i Farmacisti:**
-- [ ] Knowledge Base template (file scaricabile)
-- [ ] Template di Risposta (file scaricabile)
-- [ ] Prompt "un contenuto, più formati" (file scaricabile)
-- [ ] Checklist di Setup (file scaricabile)
-- [ ] Esempi di Prompt (documento con 10-15 prompt pronti)
+- [ ] Parte 1: Ho mostrato la scheda prompt ricerca scientifica come recap veloce?
+- [ ] Parte 2: Ho mostrato la tabella dei tool con le versioni gratuite?
+- [ ] Parte 3: Ho fatto l'esempio live di risposta a un messaggio cliente? Ho detto chiaramente i limiti?
+- [ ] Parte 4: Ho mostrato il mio progetto reale con i 6 elementi?
 
 ---
 
 **Note Generali:**
+- Il Modulo 4 è una ricapitolazione, non nuova teoria: ogni parte deve durare poco e finire con un'azione pratica
 - Mantieni il tono di "consulente che ha risolto il problema" — non di insegnante teorico
-- Ogni lezione ha 1 caso studio pratico — non salta quella parte
 - I farmacisti vedranno il tuo metodo reale → non promettere cose che non fai
-- Nella Lezione 3 Modulo 4: condividere la knowledge base è il momento "wow" — fai durare quel momento
+- Nella Parte 4: condividere il progetto reale è il momento "wow" — fai durare quel momento
